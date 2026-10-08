@@ -3,13 +3,17 @@ description: Elenco di controllo delle attività di marketing dell’istanza ere
 title: Elenco di controllo delle attività di marketing dell’istanza ereditata
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '906'
 ht-degree: 2%
-
 ---
-
 # Istanza ereditata: elenco di controllo delle attività di marketing {#inherited-instance-marketing-activities-checklist}
 
 Organizza correttamente la sezione Attività di marketing per aiutare gli altri a trovare e gestire vari programmi all’interno della tua istanza Marketo Engage e garantire che le persone vengano elaborate per passare dal marketing alla vendita. Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tenere traccia dell&#39;avanzamento.
@@ -157,7 +161,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   </tr>
   <tr>
    <td>Centro sottoscrizioni/preferenze</td>
-   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=it" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
+   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
   </tr>
   <tr>
    <td>Momenti di interesse (se applicabile)</td>

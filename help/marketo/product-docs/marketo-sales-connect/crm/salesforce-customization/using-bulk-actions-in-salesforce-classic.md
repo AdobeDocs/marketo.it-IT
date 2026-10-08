@@ -1,19 +1,21 @@
 ---
 unique-page-id: 42762794
 description: Scopri come utilizzare le azioni in blocco in Salesforce Classic con Sales Connect. Invia più lead o contatti a Sales Connect contemporaneamente.
-title: Utilizzo di azioni in blocco in  [!DNL Salesforce] Classic
+title: Utilizzo di azioni in blocco in [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # Utilizzo di azioni in blocco in [!DNL Salesforce] Classic {#using-bulk-actions-in-salesforce-classic}
 
 Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna, l’invio di un’e-mail in blocco o il push di lead da [!DNL Salesforce] a [!DNL Sales Connect].
@@ -39,10 +41,10 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
    a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;[!UICONTROL All Recipients]&quot;. Corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead
-b. L&#39;elenco è visibile nel pannello sinistro denominato &quot;[!UICONTROL Bulk Compose]&quot;. Qui è possibile aggiungere/rimuovere i destinatari
-c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato
-d. Puoi visualizzare in anteprima i campi dinamici che verranno compilati nel messaggio e-mail
-e. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
+   b. L&#39;elenco è visibile nel pannello sinistro denominato &quot;[!UICONTROL Bulk Compose]&quot;. Qui è possibile aggiungere/rimuovere i destinatari
+   c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato
+   d. Puoi visualizzare in anteprima i campi dinamici che verranno compilati nel messaggio e-mail
+   e. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
 
    ![](assets/three-4.png)
 

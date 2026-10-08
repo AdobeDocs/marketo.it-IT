@@ -3,21 +3,27 @@ description: Note sulla versione - Luglio 2024 - Documenti Marketo - Documentazi
 title: Note sulla versione - Luglio 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-TQID: https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA
+TQID: 'https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 589
+source-wordcount: '589'
 ht-degree: 20%
-
 ---
-
 # Note sulla versione: luglio 2024 {#release-notes-july-24}
 
 Di seguito trovi tutte le funzioni incluse nella versione di luglio 2024. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
@@ -87,11 +93,11 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Funzionalità social obsolete**: mercoledì 31 luglio 2024, Marketo Engage inizierà a rendere obsolete le seguenti funzionalità social all&#39;interno del prodotto:
 
-   * Sondaggi
-   * Pulsante social
-   * Offerta segnalata
-   * Condividi video
-   * Lotterie
+  * Sondaggi
+  * Pulsante social
+  * Offerta segnalata
+  * Condividi video
+  * Lotterie
 
 Gli utenti non potranno più creare, clonare o incorporare nessuna di queste funzioni social in Marketo Engage. Le risorse sociali esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

@@ -4,18 +4,20 @@ description: Scopri la pagina Sales Connect Analytics e i dati sul coinvolgiment
 title: Panoramica della pagina di analisi
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY
+TQID: 'https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 383
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # Panoramica pagina [!UICONTROL Analytics] {#analytics-page-overview}
 
 Nella scheda [!UICONTROL Analytics] sono visualizzati i dati relativi al coinvolgimento delle e-mail. Vengono visualizzati sia i dati individuali che quelli del team. Gli amministratori possono anche filtrare in base all&#39;utente nella scheda [!UICONTROL Me].

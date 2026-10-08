@@ -4,20 +4,23 @@ description: Scopri come definire un elenco avanzato per le attività di persona
 title: Definire un elenco avanzato per attività di personalizzazione web
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/hxhAO-zK6QPXwtm93WY951MT9SHKmvFYtja495CDWtM
+TQID: 'https://experienceleague.adobe.com/hxhAO-zK6QPXwtm93WY951MT9SHKmvFYtja495CDWtM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 305
+source-wordcount: '305'
 ht-degree: 2%
-
 ---
-
 # Definisci un elenco avanzato per [!DNL Web Personalization] attività {#define-a-smart-list-for-web-personalization-activities}
 
 Puoi utilizzare le attività [!DNL Web Personalization] nei filtri e nei trigger quando definisci un elenco avanzato in una campagna avanzata. In questo caso, si desidera acquisire chiunque abbia fatto clic su un call to action [!DNL Web Personalization] (campagna).

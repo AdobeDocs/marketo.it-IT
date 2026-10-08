@@ -4,21 +4,25 @@ description: Scopri come configurare Marketo Sales Insight in Salesforce Enterpr
 title: Configurare Marketo Sales Insight in Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/Dhc6WFTsED3JZMqeDobufqLCCrMAp6x5t3aAa-rLmVA
+TQID: 'https://experienceleague.adobe.com/Dhc6WFTsED3JZMqeDobufqLCCrMAp6x5t3aAa-rLmVA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 853
+source-wordcount: '853'
 ht-degree: 2%
-
 ---
-
 # Configura [!DNL Marketo Sales Insight] in [!DNL Salesforce] Enterprise/Unlimited {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
 Configurare Marketo Sales Insight nelle edizioni Enterprise/Unlimited di Salesforce completando i passaggi seguenti.
@@ -89,7 +93,7 @@ Configurare Marketo Sales Insight nelle edizioni Enterprise/Unlimited di Salesfo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Immettere il nome del sito remoto (può essere simile a `MarketoSoapAPI`). Immettere l&#39;URL del sito remoto, ovvero l&#39;URL dell&#39;host Marketo dal pannello _[!UICONTROL Soap API Configuration]_&#x200B;in Marketo Engage. Fai clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API Soap.
+1. Immettere il nome del sito remoto (può essere simile a `MarketoSoapAPI`). Immettere l&#39;URL del sito remoto, ovvero l&#39;URL dell&#39;host Marketo dal pannello _[!UICONTROL Soap API Configuration]_in Marketo Engage. Fai clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API Soap.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -97,7 +101,7 @@ Configurare Marketo Sales Insight nelle edizioni Enterprise/Unlimited di Salesfo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Immettere il nome del sito remoto (può essere simile a `MarketoAPI`). Immettere l&#39;URL del sito remoto, che corrisponde all&#39;URL API del pannello _[!UICONTROL Rest API Configuration]_&#x200B;in Marketo Engage. Fai clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API REST.
+1. Immettere il nome del sito remoto (può essere simile a `MarketoAPI`). Immettere l&#39;URL del sito remoto, che corrisponde all&#39;URL API del pannello _[!UICONTROL Rest API Configuration]_in Marketo Engage. Fai clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API REST.
 
    >[!NOTE]
    >
@@ -117,7 +121,7 @@ A causa dei miglioramenti apportati alla sicurezza di Salesforce, i pacchetti Ap
 
 1. Fai clic su **[!UICONTROL Edit]** accanto al profilo utilizzato dagli utenti di Salesforce.
 
-1. Nella sezione _[!UICONTROL Standard Object Permission]_, abilitare l&#39;accesso **[!UICONTROL Read]**&#x200B;per i seguenti oggetti: [!UICONTROL Lead], [!UICONTROL Contact], [!UICONTROL Account] e [!UICONTROL Opportunity].
+1. Nella sezione _[!UICONTROL Standard Object Permission]_, abilitare l&#39;accesso **[!UICONTROL Read]**per i seguenti oggetti: [!UICONTROL Lead], [!UICONTROL Contact], [!UICONTROL Account] e [!UICONTROL Opportunity].
 
 1. Fai clic su **[!UICONTROL Save]**.
 

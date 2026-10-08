@@ -3,23 +3,30 @@ description: Note sulla versione - Aprile 2025 - Documenti Marketo - Documentazi
 title: Note sulla versione - Aprile 2025
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-TQID: https://experienceleague.adobe.com/Ix-0-PRzFkYm52Hg24RE4G03GhKvjf4pw-iEoZa5fSY
+TQID: 'https://experienceleague.adobe.com/Ix-0-PRzFkYm52Hg24RE4G03GhKvjf4pw-iEoZa5fSY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 453
+source-wordcount: '453'
 ht-degree: 44%
-
 ---
-
 # Note sulla versione - Aprile 2025 {#release-notes-apr-25}
 
 Di seguito trovi tutte le funzioni incluse nella versione di aprile 2025. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
@@ -62,10 +69,10 @@ Per accedere a questa funzione, è necessario aver acquistato il componente aggi
 
 * **Funzionalità social obsolete**: mercoledì 31 luglio 2024, Marketo Engage ha iniziato a rendere obsolete le seguenti funzionalità social all&#39;interno del prodotto:
 
-   * Sondaggi
-   * Pulsante social
-   * Offerta segnalata
-   * Condividi video
-   * Lotterie
+  * Sondaggi
+  * Pulsante social
+  * Offerta segnalata
+  * Condividi video
+  * Lotterie
 
 Da allora, gli utenti non sono stati in grado di creare, clonare o incorporare nessuna di queste funzioni Social in Marketo Engage. Le risorse sociali esistenti continuano a funzionare fino al 31 gennaio 2025. Il 1° febbraio 2025 le attività social hanno cessato di funzionare. Tutte le funzioni social incorporate nelle pagine di destinazione dovranno essere rimosse. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}

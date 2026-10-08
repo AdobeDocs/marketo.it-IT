@@ -3,20 +3,24 @@ description: Documento istanza ereditato La tua configurazione - Documentazione 
 title: Documento istanza ereditata Configurazione
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+TQID: 'https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 299
+source-wordcount: '301'
 ht-degree: 3%
-
 ---
-
 # Istanza ereditata: documenta la tua configurazione {#inherited-instance-document-your-setup}
 
 Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita un’istanza stabilita, il passaggio successivo consiste nel creare o aggiornare la documentazione sulla configurazione dell’istanza e sullo stack tecnologico. Sia che la crei tramite foglio di calcolo o un’applicazione di gestione dei progetti, la documentazione sarà un’ottima risorsa per monitorare lo stato di avanzamento e registrare i dettagli, nonché per mantenere strutturata e sostenibile l’istanza.

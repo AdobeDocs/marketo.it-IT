@@ -3,13 +3,20 @@ description: Note sulla versione - Febbraio 2026 - Documenti Marketo - Documenta
 title: Note sulla versione - Febbraio 2026
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 22%
-
 ---
-
 # Note sulla versione: febbraio 2026 {#release-notes-feb-26}
 
 Qui sotto troverai tutte le funzioni incluse nella versione di febbraio 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
@@ -55,7 +62,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Designer e-mail - Generazione immagini Assistente AI</strong>: ora, oltre a Firefly, puoi utilizzare modelli Nano Banana per generare immagini con l'Assistente AI per contenuti e-mail.</td>
    <td>Rilasciato</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Creare contenuti per una sezione specifica dell’e-mail</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Creare contenuti per una sezione specifica dell’e-mail</a></td>
   </tr>
   </tbody>
 </table>
@@ -63,7 +70,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 ## Annunci {#announcements}
 
-* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=it){target="_blank"}.
+* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite dei lead di unione API REST**: a partire dal 31 luglio 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
 

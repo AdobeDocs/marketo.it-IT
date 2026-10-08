@@ -4,16 +4,18 @@ description: Impara da un esempio di integrazione di un evento ON24 con Marketo.
 title: Esempio di integrazione di eventi ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 374
+source-wordcount: '374'
 ht-degree: 2%
-
 ---
-
 # Esempio di integrazione di eventi ON24 {#example-on-event-integration}
 
 Di seguito è riportato un evento di esempio, incluse le campagne, per un webinar ON24. Quando crei l’evento, testa le campagne prima di eseguirle.
@@ -49,8 +51,8 @@ Di seguito è riportato un evento di esempio, incluse le campagne, per un webina
 * **Elenco avanzato** - Definisci chi invitare all&#39;evento.
 * **Flusso**
 
-   * Invia e-mail: se si tratta di un’e-mail di risorsa locale, avrà la seguente convenzione di denominazione: EventName.EmailName. Puoi anche utilizzare le e-mail globali.
-   * Modifica stato in Progressione - Imposta su Webinar > Invitato.
+  * Invia e-mail: se si tratta di un’e-mail di risorsa locale, avrà la seguente convenzione di denominazione: EventName.EmailName. Puoi anche utilizzare le e-mail globali.
+  * Modifica stato in Progressione - Imposta su Webinar > Invitato.
 
 * **Pianificazione** - Imposta la data dell&#39;invito da inviare.
 
@@ -58,7 +60,7 @@ Di seguito è riportato un evento di esempio, incluse le campagne, per un webina
 
 * **Elenco avanzato**
 
-   * Attiva la campagna in base a **[!UICONTROL Fills Out Form]**. Includi la pagina di destinazione in cui si trova il modulo utilizzando **[!UICONTROL Add Constraint]**, soprattutto se il modulo viene utilizzato su più pagine di destinazione.
+  * Attiva la campagna in base a **[!UICONTROL Fills Out Form]**. Includi la pagina di destinazione in cui si trova il modulo utilizzando **[!UICONTROL Add Constraint]**, soprattutto se il modulo viene utilizzato su più pagine di destinazione.
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ Di seguito è riportato un evento di esempio, incluse le campagne, per un webina
 
 * **Flusso**
 
-   * **Modifica stato in progressione** - Imposta su Webinar > Registrato. **ATTENZIONE**: questo passaggio di flusso è obbligatorio durante la configurazione della campagna secondaria. Quando lo stato di progressione di una persona cambia in **Registrato**, Marketo invia le informazioni di registrazione a ON24.
+  * **Modifica stato in progressione** - Imposta su Webinar > Registrato. **ATTENZIONE**: questo passaggio di flusso è obbligatorio durante la configurazione della campagna secondaria. Quando lo stato di progressione di una persona cambia in **Registrato**, Marketo invia le informazioni di registrazione a ON24.
 
-   * **Invia e-mail** - E-mail di conferma (impostata su **Operativa** in modo che le persone non abbonate che si sono registrate continuino a riceverla).
+  * **Invia e-mail** - E-mail di conferma (impostata su **Operativa** in modo che le persone non abbonate che si sono registrate continuino a riceverla).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

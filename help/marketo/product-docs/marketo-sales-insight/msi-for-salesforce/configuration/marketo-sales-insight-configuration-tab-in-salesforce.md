@@ -4,20 +4,23 @@ description: Scopri la scheda di configurazione Marketo Sales Insight in Salesfo
 title: Scheda Configurazione di Marketo Sales Insight in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 1%
-
 ---
-
 # Scheda Configurazione [!DNL Marketo Sales Insight] in [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Impostazioni operative {#operational-settings}
@@ -38,8 +41,8 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 **Impostazioni pagina Visualforce**
 
 * Menu a discesa Abilita azione:
-   * Possibilità di nascondere l’elenco a discesa Invia e-mail Marketo in Layout MSI lead e contatto
-   * Possibilità di nascondere le opzioni Aggiungi a Marketo Campaign dall’elenco a discesa in Layout MSI lead e contatto
+  * Possibilità di nascondere l’elenco a discesa Invia e-mail Marketo in Layout MSI lead e contatto
+  * Possibilità di nascondere le opzioni Aggiungi a Marketo Campaign dall’elenco a discesa in Layout MSI lead e contatto
 * Prossimi eventi: possibilità di mostrare gli eventi invitati, tutti gli eventi agli utenti o nascondere completamente questa scheda
 * Prossime campagne: possibilità di mostrare tutte le campagne e-mail o nascondere completamente questa scheda
 * Caricare campagne ed eventi futuri: possibilità di ridurre il numero di chiamate API REST effettuate dagli utenti posizionando la scheda eventi e campagne dietro un pulsante &quot;Carica prossimi elementi&quot; on-demand

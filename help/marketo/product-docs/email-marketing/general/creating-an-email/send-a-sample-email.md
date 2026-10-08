@@ -4,18 +4,23 @@ description: Scopri come inviare un’e-mail di esempio per testare il contenuto
 title: Inviare e-mail di esempio
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA
+TQID: 'https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 327
+source-wordcount: '327'
 ht-degree: 8%
-
 ---
-
 # Inviare e-mail di esempio {#send-a-sample-email}
 
 È facile e veloce inviare campioni di un’e-mail. Per inviare un&#39;e-mail di contenuto dinamico, vedere [Anteprima di un&#39;e-mail con contenuto dinamico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
@@ -61,7 +66,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting).
+   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Inviare un messaggio e-mail di esempio basato su un segmento {#send-a-sample-email-based-on-a-segment}
 

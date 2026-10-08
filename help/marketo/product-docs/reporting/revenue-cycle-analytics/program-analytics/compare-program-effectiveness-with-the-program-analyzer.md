@@ -4,13 +4,19 @@ description: Scopri come confrontare l’efficacia del programma con l’analizz
 title: Confrontare l’efficacia del programma con l’analizzatore di programmi
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 1%
-
 ---
-
 # Confronta efficacia del programma con [!UICONTROL Program Analyzer] {#compare-program-effectiveness-with-the-program-analyzer}
 
 Utilizzare [!UICONTROL Program Analyzer] per identificare i programmi più efficaci e quelli meno efficaci, confrontando i costi dei programmi, l&#39;acquisizione dei membri, la pipeline e i ricavi.

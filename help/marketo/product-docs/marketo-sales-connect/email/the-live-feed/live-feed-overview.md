@@ -4,16 +4,18 @@ description: Scopri il feed live in Sales Connect. Visualizza il coinvolgimento 
 title: Panoramica dei feed live
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU
+TQID: 'https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
-ht-degree: 0%
-
+source-wordcount: '409'
+ht-degree: 1%
 ---
-
 # Panoramica dei feed live {#live-feed-overview}
 
 Il feed live è una finestra mobile che può essere avviata dall’applicazione web o dal plug-in Gmail e offre una panoramica in tempo reale del potenziale coinvolgimento.
@@ -74,28 +76,28 @@ Visualizza le persone migliori (ordinate dal livello più alto a quello più bas
   <tr>
    <td>
     <div>
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
     </div></td>
    <td><p>Qualcuno ha visualizzato il tuo indirizzo e-mail</p></td>
   </tr>
   <tr>
    <td>
     <div>
-     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
     </div></td>
    <td><p>Qualcuno ha fatto clic su un collegamento nell’e-mail</p></td>
   </tr>
   <tr>
    <td>
     <div>
-     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
     </div></td>
    <td><p>Qualcuno ha risposto alla tua e-mail</p></td>
   </tr>
   <tr>
    <td colspan="1">
     <div>
-     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
     </div></td>
    <td colspan="1">Qualsiasi notifica elencata in Momenti di interesse, inclusi e-mail, web e milestone</td>
   </tr>

@@ -4,22 +4,27 @@ description: Scopri come implementare rtp su wordpress enterprise in Marketo Eng
 title: Implementazione di RTP su Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/S0LvRrD1V6hkWN5L5TlnoaIqcDvXLjfm5do2-1WQTNw
+TQID: 'https://experienceleague.adobe.com/S0LvRrD1V6hkWN5L5TlnoaIqcDvXLjfm5do2-1WQTNw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
-ht-degree: 11%
-
+source-wordcount: '100'
+ht-degree: 13%
 ---
-
 # Implementazione di RTP su Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
 Per implementare [!UICONTROL RTP tag], seguire le istruzioni di installazione riportate di seguito:
@@ -39,7 +44,7 @@ Per implementare [!UICONTROL RTP tag], seguire le istruzioni di installazione ri
 1. Accedi al tuo account [!DNL WordPress] come utente amministratore
 
    a. In **[!UICONTROL Appearance]**, vai a **[!UICONTROL Custom JavaScript]**.
-b. Incolla il tag JavaScript RTP subito dopo il codice esistente.
+   b. Incolla il tag JavaScript RTP subito dopo il codice esistente.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
 

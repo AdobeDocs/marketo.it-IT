@@ -4,18 +4,23 @@ description: Scopri in che modo lo stato attivo sul programma consente di intera
 title: Comprendere e abilitare la messa a fuoco dei programmi
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/esiXCtVAOCkiFVxsuNhuJG6aYVkE0xdFIE5uHdNzGj0
+TQID: 'https://experienceleague.adobe.com/esiXCtVAOCkiFVxsuNhuJG6aYVkE0xdFIE5uHdNzGj0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 0%
-
 ---
-
 # Comprendere e abilitare la messa a fuoco dei programmi {#understand-enable-program-focus}
 
 Il calendario di marketing offre una visione d’insieme delle cose, ma consente anche alcune interazioni. Puoi [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [modificare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [eliminare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [confermare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} le voci. Per interagire con le voci, devi prima concentrarti su un programma.

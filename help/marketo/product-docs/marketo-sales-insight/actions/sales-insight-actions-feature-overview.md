@@ -3,23 +3,29 @@ description: Scopri le azioni di vendita di Insight e gli strumenti di marketing
 title: Panoramica sulla funzione delle azioni di Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A
+TQID: 'https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1334
+source-wordcount: '1334'
 ht-degree: 1%
-
 ---
-
 # Panoramica sulla funzione delle azioni di Sales Insight {#msi-actions-feature-overview}
 
 Accelera le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento riuniti in un unico flusso di lavoro utilizzando le azioni di vendita Insight.
@@ -28,7 +34,7 @@ Accelera le attività di ricerca di potenziali clienti con strumenti di marketin
 >
 >Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra esclusivamente con Salesforce CRM tramite il [pacchetto Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
 
-Per una panoramica video delle azioni di Sales Insight, [fai clic qui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=it){target="_blank"}.
+Per una panoramica video delle azioni di Sales Insight, [fai clic qui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -37,31 +43,31 @@ Per una panoramica video delle azioni di Sales Insight, [fai clic qui](https://e
 Le seguenti azioni sono disponibili dal menu a discesa &quot;Scegli azioni&quot; nella navigazione superiore:
 
 * Invia e-mail vendite
-   * Le e-mail di vendita hanno un monitoraggio di visualizzazione, clic e risposta (quando il canale di consegna è configurato)
-   * Include e-mail Personalization, firma personalizzata e allegati
-   * Condivisione di modelli e rapporti
-   * Condivisione team, e-mail di gruppo e capacità CC/CCN
-   * L’attività e-mail di vendita verrà registrata nel record persona di Marketo
-   * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
+  * Le e-mail di vendita hanno un monitoraggio di visualizzazione, clic e risposta (quando il canale di consegna è configurato)
+  * Include e-mail Personalization, firma personalizzata e allegati
+  * Condivisione di modelli e rapporti
+  * Condivisione team, e-mail di gruppo e capacità CC/CCN
+  * L’attività e-mail di vendita verrà registrata nel record persona di Marketo
+  * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
 
 * Aggiungi a campagna di vendita
-   * Aggiungi lead ai playbook di vendita, ovvero una sequenza di e-mail e attività
-   * Include l’accesso e la condivisione del team, la generazione di attività, il salto dei fine settimana, l’eliminazione delle e-mail fuori sede come risposte e la fine automatica
-   * L’attività della campagna verrà registrata nel record persona di Marketo
-   * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
+  * Aggiungi lead ai playbook di vendita, ovvero una sequenza di e-mail e attività
+  * Include l’accesso e la condivisione del team, la generazione di attività, il salto dei fine settimana, l’eliminazione delle e-mail fuori sede come risposte e la fine automatica
+  * L’attività della campagna verrà registrata nel record persona di Marketo
+  * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
 
 * Chiamata di vendita
-   * Effettuare chiamate di vendita utilizzando il selettore all&#39;interno del CRM
-   * Include presenza locale, preregistrata
-   * Registra il risultato della chiamata, la registrazione delle chiamate nel pannello e la cronologia delle attività
-   * L’attività di chiamata verrà registrata nel record persona di Marketo
-   * Filtri e attivatori nelle campagne Marketo Smart
+  * Effettuare chiamate di vendita utilizzando il selettore all&#39;interno del CRM
+  * Include presenza locale, preregistrata
+  * Registra il risultato della chiamata, la registrazione delle chiamate nel pannello e la cronologia delle attività
+  * L’attività di chiamata verrà registrata nel record persona di Marketo
+  * Filtri e attivatori nelle campagne Marketo Smart
 
 * Aggiungi attività
-   * Crea e-mail, chiamate, InMail e attività personalizzate per i lead
-   * Automatizzare la creazione di attività con le campagne di vendita
-   * Sincronizza attività con [!DNL Salesforce]
-   * Registra le attività nella sezione Cronologia attività [!DNL Salesforce]
+  * Crea e-mail, chiamate, InMail e attività personalizzate per i lead
+  * Automatizzare la creazione di attività con le campagne di vendita
+  * Sincronizza attività con [!DNL Salesforce]
+  * Registra le attività nella sezione Cronologia attività [!DNL Salesforce]
 
 Per accedere ai feed live, fai clic sull’icona ((0)) nel menu di navigazione in alto. Include la possibilità di visualizzare aggiornamenti live sulle attività di vendita e funzionalità di ancoraggio dello schermo.
 
@@ -70,56 +76,56 @@ Per accedere ai feed live, fai clic sull’icona ((0)) nel menu di navigazione i
 I seguenti dati sono disponibili nelle schede all’interno del pannello MSI:
 
 * Dashboard approfondimenti
-   * La griglia Velocity del coinvolgimento includerà le attività da e-mail di vendita, azioni della campagna di vendita e chiamata di vendita
-   * Prossime campagne di vendita: quando un lead fa parte di una campagna in corso, queste informazioni saranno disponibili nella scheda Prossime campagne di vendita
-   * Attività future: quando è prevista un’attività relativa a un lead, queste informazioni saranno disponibili nella scheda Attività successive
+  * La griglia Velocity del coinvolgimento includerà le attività da e-mail di vendita, azioni della campagna di vendita e chiamata di vendita
+  * Prossime campagne di vendita: quando un lead fa parte di una campagna in corso, queste informazioni saranno disponibili nella scheda Prossime campagne di vendita
+  * Attività future: quando è prevista un’attività relativa a un lead, queste informazioni saranno disponibili nella scheda Attività successive
 
 * Scheda e-mail
-   * Tutte le e-mail di vendita inviate verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
-   * Le colonne includono Oggetto, Apri, Clic, Risposta (disponibile solo per e-mail di vendita con canale di consegna impostato), Mittente, Data
-   * Include la scheda di presentazione con dettagli aggiuntivi come Mittente, Modello, Campagna di vendita e Anteprima e-mail
+  * Tutte le e-mail di vendita inviate verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
+  * Le colonne includono Oggetto, Apri, Clic, Risposta (disponibile solo per e-mail di vendita con canale di consegna impostato), Mittente, Data
+  * Include la scheda di presentazione con dettagli aggiuntivi come Mittente, Modello, Campagna di vendita e Anteprima e-mail
 
 * Scheda Chiamata
-   * Tutte le chiamate effettuate utilizzando la funzione di chiamata di vendita verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
-   * Le colonne includono Nome, Risultato, Note, Chiamata, Durata e collegamento alla registrazione
-   * Include una scheda a tendina con dettagli aggiuntivi come Chiamata effettuata da, Chiamata con risposta da, Numero di telefono e Stato
+  * Tutte le chiamate effettuate utilizzando la funzione di chiamata di vendita verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
+  * Le colonne includono Nome, Risultato, Note, Chiamata, Durata e collegamento alla registrazione
+  * Include una scheda a tendina con dettagli aggiuntivi come Chiamata effettuata da, Chiamata con risposta da, Numero di telefono e Stato
 
 ## Layout account e opportunità {#account-and-opportunity-layout}
 
 Nella barra di navigazione superiore sono disponibili le seguenti azioni:
 
 * Invia e-mail di vendita: possibilità di inviare e-mail di gruppo personalizzate o con modelli con visualizzazione, tracciamento dei clic e delle risposte a tutti i contatti associati a un account/opportunità
-   * Le e-mail di vendita hanno un monitoraggio di visualizzazione, clic e risposta (quando il canale di consegna è configurato)
-   * Include e-mail Personalization, firma personalizzata e allegati
-   * Condivisione di modelli e rapporti
-   * Condivisione team, e-mail di gruppo e capacità CC/CCN
-   * L’attività e-mail di vendita verrà registrata nel record persona di Marketo
-   * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
+  * Le e-mail di vendita hanno un monitoraggio di visualizzazione, clic e risposta (quando il canale di consegna è configurato)
+  * Include e-mail Personalization, firma personalizzata e allegati
+  * Condivisione di modelli e rapporti
+  * Condivisione team, e-mail di gruppo e capacità CC/CCN
+  * L’attività e-mail di vendita verrà registrata nel record persona di Marketo
+  * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
 
 * Aggiungi a campagna di vendita: consente di aggiungere ai playbook di vendita tutti i contatti associati a un account/opportunità, ovvero una sequenza di e-mail e attività.
-   * Aggiungi lead ai playbook di vendita, ovvero una sequenza di e-mail e attività
-   * Include l’accesso e la condivisione del team, la generazione di attività, il salto dei fine settimana, l’eliminazione delle e-mail fuori sede come risposte e la fine automatica
-   * L’attività della campagna verrà registrata nel record persona di Marketo
-   * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
+  * Aggiungi lead ai playbook di vendita, ovvero una sequenza di e-mail e attività
+  * Include l’accesso e la condivisione del team, la generazione di attività, il salto dei fine settimana, l’eliminazione delle e-mail fuori sede come risposte e la fine automatica
+  * L’attività della campagna verrà registrata nel record persona di Marketo
+  * Filtri e trigger corrispondenti nelle campagne Marketo Smart (dettagli di seguito)
 
 Per accedere ai feed live, fai clic sull’icona ((0)) nel menu di navigazione in alto. Include la possibilità di visualizzare aggiornamenti live sulle attività di vendita e funzionalità di ancoraggio dello schermo.
 
 Nelle schede sono disponibili i seguenti dati:
 
 * Dashboard approfondimenti
-   * Velocity Grid includerà le attività da e-mail di vendita, azioni della campagna di vendita e la chiamata di vendita
-   * Prossime campagne di vendita: quando un contatto dell’account/opportunità fa parte di una campagna in corso, queste informazioni saranno disponibili nella scheda Prossime campagne di vendita
-   * Attività future: quando un’attività futura riguarda un contatto dell’account/opportunità, queste informazioni saranno disponibili nella scheda Attività successive
+  * Velocity Grid includerà le attività da e-mail di vendita, azioni della campagna di vendita e la chiamata di vendita
+  * Prossime campagne di vendita: quando un contatto dell’account/opportunità fa parte di una campagna in corso, queste informazioni saranno disponibili nella scheda Prossime campagne di vendita
+  * Attività future: quando un’attività futura riguarda un contatto dell’account/opportunità, queste informazioni saranno disponibili nella scheda Attività successive
 
 * Scheda e-mail
-   * Tutte le e-mail di vendita inviate ai contatti dall’account/opportunità verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
-   * Le colonne includono Oggetto, Apri, Clic, Risposta (disponibile solo per e-mail di vendita con canale di consegna impostato), Mittente e Data
-   * Include la scheda di presentazione con dettagli aggiuntivi come Mittente, Modello, Campagna di vendita e Anteprima e-mail
+  * Tutte le e-mail di vendita inviate ai contatti dall’account/opportunità verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
+  * Le colonne includono Oggetto, Apri, Clic, Risposta (disponibile solo per e-mail di vendita con canale di consegna impostato), Mittente e Data
+  * Include la scheda di presentazione con dettagli aggiuntivi come Mittente, Modello, Campagna di vendita e Anteprima e-mail
 
 * Scheda Chiamata
-   * Tutte le chiamate effettuate ai contatti dall&#39;account/opportunità utilizzando la funzione di chiamata di vendita verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
-   * Le colonne includono Nome, Risultato, Note, Chiamata, Durata e collegamento alla registrazione
-   * Include una scheda a tendina con dettagli aggiuntivi come Chiamata effettuata da, Chiamata con risposta da, Numero di telefono e Stato
+  * Tutte le chiamate effettuate ai contatti dall&#39;account/opportunità utilizzando la funzione di chiamata di vendita verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
+  * Le colonne includono Nome, Risultato, Note, Chiamata, Durata e collegamento alla registrazione
+  * Include una scheda a tendina con dettagli aggiuntivi come Chiamata effettuata da, Chiamata con risposta da, Numero di telefono e Stato
 
 ## Visualizzazione elenco contatti e lead (azioni in blocco) {#lead-and-contact-list-view}
 

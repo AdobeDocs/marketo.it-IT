@@ -2,13 +2,20 @@
 description: Note sulla versione - Marzo 2026 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Marzo 2026
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
-
+source-wordcount: '533'
+ht-degree: 18%
 ---
-
 # Note sulla versione: marzo 2026 {#release-notes-mar-26}
 
 Qui sotto troverai tutte le funzioni incluse nella versione di marzo 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
@@ -40,7 +47,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>E-mail Designer - Componenti HTML modificabili in Frammenti</strong>: all'interno dei frammenti visivi, i campi modificabili sono supportati nei componenti immagine, testo e pulsante tramite il pannello delle proprietà del componente. Per i componenti HTML, i campi modificabili sono configurati in modo diverso, utilizzando una sintassi basata su variabili all’interno del codice sorgente del componente HTML stesso.
    </td>
    <td>Rilasciato</i></td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componenti HTML modificabili nei frammenti</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componenti HTML modificabili nei frammenti</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +98,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 ## Annunci {#announcements}
 
-* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=it){target="_blank"}.
+* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite dei lead di unione API REST**: a partire dal 31 luglio 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
 

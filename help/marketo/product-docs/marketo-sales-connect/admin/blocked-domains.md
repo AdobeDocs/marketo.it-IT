@@ -4,16 +4,18 @@ description: Scopri come bloccare i domini in Sales Connect per evitare di invia
 title: Domini bloccati
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f1GMgzy-qDsQg5sEx6JkVXCpCgs1yjn5UHkdL5DZ2JU
+TQID: 'https://experienceleague.adobe.com/f1GMgzy-qDsQg5sEx6JkVXCpCgs1yjn5UHkdL5DZ2JU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: '97'
 ht-degree: 7%
-
 ---
-
 # Domini bloccati {#blocked-domains}
 
 Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare accidentalmente e-mail a concorrenti, trappole spam note o a qualsiasi altro dominio che non desideri contattare.

@@ -6,21 +6,28 @@ description: Scopri come generare contenuti per aggiungere testo e immagini alle
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+TQID: 'https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 914
+source-wordcount: '914'
 ht-degree: 1%
-
 ---
-
 # Generare contenuti nel Designer e-mail {#generate-content}
 
 La generazione di contenuti in Marketo Engage Email Designer consente di creare e-mail contemporanee, performanti e intuitive. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme a Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase di percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
@@ -57,7 +64,7 @@ _Dopo_ che segue il prerequisito precedente, gli amministratori di Marketo devon
 
 +++
 
-## Casi d’uso {#use-cases}
+## Casi di utilizzo {#use-cases}
 
 * [Crea un oggetto e/o un preheader](#create-a-subject-line-preheader) per la tua e-mail
 * [Crea contenuto per una sezione specifica](#create-content-for-a-specific-section) dell&#39;e-mail

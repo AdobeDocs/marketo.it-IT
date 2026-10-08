@@ -4,16 +4,18 @@ description: Scopri l’adattatore Marketo ON24 e come collega i webinar ON24 a 
 title: Informazioni sugli eventi con adattatore ON24 Marketo
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-TQID: https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0
+TQID: 'https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 145
+source-wordcount: '145'
 ht-degree: 6%
-
 ---
-
 # Informazioni sugli eventi con adattatore ON24 Marketo {#understanding-marketo-on-adapter-events}
 
 Se il webinar ON24 non è connesso a Marketo, è necessario prendere le informazioni sul partecipante già presenti in Marketo e inserirle in ON24. Dopo il webinar, devi prendere le informazioni sulla partecipazione già presenti in ON24 e immetterle nuovamente in Marketo.

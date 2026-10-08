@@ -4,16 +4,21 @@ description: Scopri come configurare SPF e DKIM nel DNS per migliorare il recapi
 title: Configurare SPF e DKIM per la recapitabilità e-mail
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
+TQID: 'https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 432
+source-wordcount: '433'
 ht-degree: 71%
-
 ---
-
 # Configurare SPF e DKIM per la recapitabilità e-mail {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 Un metodo rapido per migliorare il tasso di consegna delle e-mail consiste nell’incorporare **SPF** (Sender Policy Framework) e **DKIM** (Domain Keys Identified Mail) nelle impostazioni DNS. Con questa aggiunta alle voci DNS, stai dicendo ai destinatari che hai autorizzato Marketo a inviare e-mail per tuo conto. Senza questa modifica, l’e-mail ha una maggiore probabilità di essere considerata spam poiché è stata indirizzata dal tuo dominio, ma tramite un indirizzo IP con dominio Marketo.

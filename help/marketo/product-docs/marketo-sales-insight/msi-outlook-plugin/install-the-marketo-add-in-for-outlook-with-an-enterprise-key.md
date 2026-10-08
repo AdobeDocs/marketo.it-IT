@@ -1,21 +1,24 @@
 ---
 unique-page-id: 11377488
 description: Scopri come installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise. Distribuisci il componente aggiuntivo per la tua organizzazione utilizzando una chiave aziendale.
-title: Installa il componente aggiuntivo Marketo per  [!DNL Outlook]  con una chiave Enterprise
+title: Installare il componente aggiuntivo Marketo per [!DNL Outlook] con una chiave Enterprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU
+TQID: 'https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '311'
 ht-degree: 3%
-
 ---
-
 # Installare il componente aggiuntivo Marketo per [!DNL Outlook] con una chiave Enterprise {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
 Spesso i rappresentanti commerciali non dispongono di privilegi amministrativi sui notebook e i loro team IT sono responsabili dell&#39;installazione di tutto il software in remoto. Il componente aggiuntivo Marketo per Outlook può essere installato in questo modo utilizzando la chiave Enterprise, disponibile nella sezione Sales Insight di Admin. Se non trovi il pulsante Visualizza chiave Enterprise, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per abilitarlo.

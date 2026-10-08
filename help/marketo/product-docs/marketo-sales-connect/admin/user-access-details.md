@@ -4,18 +4,20 @@ description: Scopri le autorizzazioni per utenti amministratori e non amministra
 title: Dettagli di accesso utente
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY
+TQID: 'https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 248
+source-wordcount: '248'
 ht-degree: 2%
-
 ---
-
 # Dettagli di accesso utente {#user-access-details}
 
 A cosa hanno accesso gli amministratori e i non amministratori?
@@ -48,30 +50,30 @@ Gli amministratori possono interrompere le campagne per conto degli utenti.
 
 * Analytics:
 
-   * Gli utenti possono visualizzare le analisi del team
-   * Gli utenti possono analizzare solo i team a cui appartengono
-   * Gli utenti possono esaminare le proprie analisi
+  * Gli utenti possono visualizzare le analisi del team
+  * Gli utenti possono analizzare solo i team a cui appartengono
+  * Gli utenti possono esaminare le proprie analisi
 
 * Pagina Relazioni:
 
-   * Gli utenti possono condividere i gruppi con tutti
-   * Gli utenti possono condividere i gruppi solo con i team a cui appartengono
-   * Quando un utente viene eliminato, i suoi contatti condivisi trasferiscono la proprietà all’amministratore principale che lo ha eliminato
+  * Gli utenti possono condividere i gruppi con tutti
+  * Gli utenti possono condividere i gruppi solo con i team a cui appartengono
+  * Quando un utente viene eliminato, i suoi contatti condivisi trasferiscono la proprietà all’amministratore principale che lo ha eliminato
 
 * Punti di forza nelle vendite - Feed successivo e live:
 
-   * Gli utenti possono visualizzare la visualizzazione &quot;Tutti&quot;
-   * Gli utenti possono filtrare in base ai team a cui appartengono
-   * L&#39;utente può condividere i post con tutti
-   * Gli utenti possono condividere i post solo con i team a cui appartengono
+  * Gli utenti possono visualizzare la visualizzazione &quot;Tutti&quot;
+  * Gli utenti possono filtrare in base ai team a cui appartengono
+  * L&#39;utente può condividere i post con tutti
+  * Gli utenti possono condividere i post solo con i team a cui appartengono
 
 * Pagina Gestione team:
 
-   * Impossibile visualizzare
+  * Impossibile visualizzare
 
 * Pagina Modelli:
 
-   * Gli utenti possono condividere i modelli con tutti
-   * Gli utenti possono condividere i modelli nelle categorie consentite agli amministratori
-   * Quando un utente viene rimosso da un team, i suoi modelli non sono condivisi con tale team
-   * Quando un utente viene eliminato da un team, i suoi modelli trasferiscono la proprietà all’amministratore principale, che lo ha eliminato
+  * Gli utenti possono condividere i modelli con tutti
+  * Gli utenti possono condividere i modelli nelle categorie consentite agli amministratori
+  * Quando un utente viene rimosso da un team, i suoi modelli non sono condivisi con tale team
+  * Quando un utente viene eliminato da un team, i suoi modelli trasferiscono la proprietà all’amministratore principale, che lo ha eliminato

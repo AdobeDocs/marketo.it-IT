@@ -3,21 +3,25 @@ description: Ottieni aiuto sulle best practice per i webinar interattivi in Mark
 title: Best practice sui webinar interattivi
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # Best practice sui webinar interattivi {#best-practices-for-interactive-webinars}
 
 Durante l’esecuzione di eventi virtuali, destinati a un pubblico piccolo o grande, è fondamentale che le cose vadano come previsto. Con i vari passaggi necessari per pianificare ed eseguire un evento, dalla preparazione, alla promozione, alla consegna e al follow-up, a volte può sembrare molto.
@@ -79,13 +83,13 @@ Le seguenti best practice possono essere utili per pianificare, progettare e pro
 * Se si desidera registrare la sessione, attivare il promemoria di registrazione in Preferenze stanza. Se la registrazione non è stata avviata, il promemoria verrà visualizzato 5 minuti dopo l&#39;inizio della riunione.
 
 * Abilita l’area Host e Presenter e configurala con i relativi pod. Quest&#39;area è visibile solo agli host e ai relatori e può essere utilizzata per collaborare nel backstage. Alcuni baccelli da includere qui sarebbero:
-   * Dashboard di coinvolgimento per monitorare il coinvolgimento dei partecipanti in tempo reale. [Fai clic qui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} per guardare un breve video sull&#39;utilizzo del dashboard Coinvolgimento.
-   * Chat pod per consentire conversazioni private tra i membri del team della presentazione.
-   * Nota Pod per inviare messaggi di promemoria, domande per il relatore o risposte alle domande standard che è possibile copiare e incollare per risposte rapide alle domande comuni.
+  * Dashboard di coinvolgimento per monitorare il coinvolgimento dei partecipanti in tempo reale. [Fai clic qui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} per guardare un breve video sull&#39;utilizzo del dashboard Coinvolgimento.
+  * Chat pod per consentire conversazioni private tra i membri del team della presentazione.
+  * Nota Pod per inviare messaggi di promemoria, domande per il relatore o risposte alle domande standard che è possibile copiare e incollare per risposte rapide alle domande comuni.
 
 * I Pod personalizzati sono app di terze parti che possono essere utilizzate per estendere le funzionalità di una room di Adobe Connect. I pod personalizzati possono essere scaricati da `apps.adobeconnect.com` come file .pod o .zip che possono quindi essere condivisi nel pod di condivisione.
-   * Alcuni pod personalizzati popolari sono Timer conto alla rovescia, Orologio, Forbici carta roccia, Word Cloud, Titolazione.
-   * [Fai clic qui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} per guardare un breve video sull&#39;utilizzo dei pod personalizzati.
+  * Alcuni pod personalizzati popolari sono Timer conto alla rovescia, Orologio, Forbici carta roccia, Word Cloud, Titolazione.
+  * [Fai clic qui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} per guardare un breve video sull&#39;utilizzo dei pod personalizzati.
 
 **Privacy: per mantenere riservate le informazioni sul partecipante, controllare le impostazioni seguenti:**
 
@@ -93,7 +97,7 @@ Le seguenti best practice possono essere utili per pianificare, progettare e pro
 
 * **Pod domande e risposte**: è possibile nascondere sia il nome del partecipante che ha inviato la domanda sia il nome dell&#39;host/relatore che ha risposto. Per farlo, deseleziona le opzioni relative alla privacy nella sezione &quot;Q&amp;A Pod&quot; in Preferenze della stanza.
 
-* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
+* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
 
 * **Chat privata**: disattiva la chat privata per impedire ai partecipanti di eseguire il ping di un altro partecipante. A tale scopo, deselezionare &quot;Consenti ai partecipanti di chattare in privato&quot; nella sezione &quot;Chat&quot; in Preferenze della stanza.
 
@@ -104,8 +108,8 @@ Le seguenti best practice possono essere utili per pianificare, progettare e pro
 * Effettua alcune esecuzioni per testare la tua configurazione audio/video e per conoscere Adobe Connect, se non l’hai già utilizzato in precedenza. Includi i tuoi relatori e i co-host durante la prova.
 
 * Chiedere a host e relatori di arrivare almeno 30 minuti prima dell&#39;ora di inizio e assicurarsi che tutto funzioni correttamente.
-   * Decidi chi modererà i pod di domande e risposte e chat.
-   * Popola le domande e risposte e le chat Pod con qualsiasi domanda seed/chat.
+  * Decidi chi modererà i pod di domande e risposte e chat.
+  * Popola le domande e risposte e le chat Pod con qualsiasi domanda seed/chat.
 
 * I programmi che si stanno condividendo su schermo devono essere aperti nella finestra appropriata e pronti per la dimostrazione. Evita di avviare e accedere ai programmi durante la condivisione dello schermo.
 

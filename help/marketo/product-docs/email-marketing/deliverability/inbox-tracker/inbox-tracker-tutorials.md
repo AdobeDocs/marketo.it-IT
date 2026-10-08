@@ -3,16 +3,21 @@ description: Scopri il Tracciamento della casella in entrata per testare e monit
 title: Tutorial sul tracciamento della casella in entrata
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-TQID: https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc
+TQID: 'https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 2%
-
 ---
-
 # Tutorial sul tracciamento della casella in entrata {#inbox-tracker-tutorials}
 
 Test, monitoraggio e comprensione dei problemi di recapito messaggi con gli strumenti di recapito messaggi e-mail basati sulla piattaforma di tracciamento della casella in entrata di Bird (precedentemente MessageBird). Inbox Tracker è un’unica applicazione che combina l’intelligenza del programma e la previsione del rendering e del test della casella in entrata delle e-mail per massimizzare le prestazioni delle e-mail.

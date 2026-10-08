@@ -1,13 +1,14 @@
 ---
 description: Scopri come abilitare Collaboratore per le autorizzazioni di Marketo Engage, configurare le regole organizzative e gestire impostazioni come integrazioni e notifiche.
 title: Impostazioni e configurazione
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 1%
-
 ---
-
 # Impostazioni e configurazione {#settings-setup}
 
 Scopri come abilitare le autorizzazioni e utilizzare l’area Impostazioni per visualizzare i dettagli di connessione, definire regole organizzative e impostare integrazioni e notifiche.
@@ -75,7 +76,7 @@ Segui questi passaggi per assegnare un utente specifico al ruolo _Collaboratore 
 
 ### Ruolo personalizzato {#custom-role}
 
-È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Coworker per Marketo Engage_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
+È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Coworker per Marketo Engage_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
 
 ## Impostazioni {#settings}
 

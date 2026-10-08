@@ -4,16 +4,18 @@ description: Scopri come creare regole del flusso di lavoro in Salesforce per le
 title: Creazione di regole del flusso di lavoro in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+TQID: 'https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 407
+source-wordcount: '407'
 ht-degree: 3%
-
 ---
-
 # Creazione di regole del flusso di lavoro in Salesforce {#creating-workflow-rules-in-salesforce}
 
 Se si utilizzano in parallelo Marketo Sales Insight (MSI) e Marketo Sales Connect (MSC), la funzionalità MSI Elementi di maggiore rilevanza in [!DNL Salesforce] non verrà aggiornata. Tutte le altre funzioni MSI funzionano normalmente (visualizzazione di momenti interessanti nell’iFrame, invio di e-mail, aggiunta a campagne, ecc.). Questo articolo offre una soluzione alternativa per far funzionare di nuovo gli elementi di maggiore rilevanza.

@@ -3,20 +3,23 @@ description: Scopri come distribuire un webinar interattivo in Marketo. Esegui l
 title: Consegnare un webinar interattivo
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-TQID: https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo
+TQID: 'https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1198
+source-wordcount: '1198'
 ht-degree: 0%
-
 ---
-
 # Consegnare un webinar interattivo {#deliver-an-interactive-webinar}
 
 Il webinar interattivo è pronto per iniziare. Scopri tutto quello che devi sapere sulla sua presentazione.
@@ -99,7 +102,7 @@ Broadcast Control aggiunge una sala verde virtuale alla sessione dei webinar int
 
 I controlli di trasmissione possono essere impostati in modo da iniziare automaticamente la registrazione dopo l&#39;uscita dalla sala verde. In questo modo gli host non devono ricordarsi di avviare e arrestare manualmente la registrazione. Anche la messa in pausa o l&#39;arresto della trasmissione causerà la sospensione o l&#39;arresto della registrazione. Tutto è automatico.
 
-Ulteriori informazioni sui controlli di trasmissione [&#x200B; in questo video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
+Ulteriori informazioni sui controlli di trasmissione [ in questo video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
 
 ### Chat nelle registrazioni {#chats-in-recordings}
 
@@ -111,7 +114,7 @@ La discussione nel pannello Chat non viene registrata. Il pannello Chat libera a
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Ulteriori informazioni su [Pannello chat](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Ulteriori informazioni su [Pannello chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Modalità Prepara {#prepare-mode}
 
@@ -134,22 +137,22 @@ Ulteriori informazioni sulla modalità di preparazione [in questo video](https:/
 >[!NOTE]
 >
 >* Qualsiasi modifica apportata ai pod live viene immediatamente riportata ai partecipanti.
->* [Il pannello chat](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} non fa parte della modalità Prepara. Qualsiasi modifica apportata a tale modalità verrà immediatamente visualizzata dai partecipanti.
+>* [Il pannello chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} non fa parte della modalità Prepara. Qualsiasi modifica apportata a tale modalità verrà immediatamente visualizzata dai partecipanti.
 
 ### Accessibilità {#accessibility}
 
 Adobe si impegna a includere relatori e partecipanti con disabilità migliorando l’accessibilità dei webinar interattivi. Il software viene continuamente migliorato per soddisfare le esigenze di tutti i tipi di utenti e per rispettare gli standard mondiali che includono le persone con disabilità visive, uditive, di mobilità o di altro tipo.
 
-Scopri come Adobe Connect fornisce assistenza per [esigenze visive, uditive e di mobilità](https://helpx.adobe.com/it/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Scopri come Adobe Connect fornisce assistenza per [esigenze visive, uditive e di mobilità](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Sottotitoli {#closed-captions}
 
 I sottotitoli codificati sono una rappresentazione testuale dell’audio all’interno di una room di Adobe Connect e consentono ai partecipanti non udenti o ipoudenti di partecipare agli eventi. È possibile integrare sottotitoli in tempo reale di contenuti audio negli eventi e presentarli nella visualizzazione sottotitoli.
 
-Scopri come [abilitare i sottotitoli](https://helpx.adobe.com/it/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Scopri come [abilitare i sottotitoli](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
 
 ### Webinar live simulati {#simulated-live-webinars}
 
 Presenta i webinar preregistrati come se fossero live utilizzando il formato di webinar simulato live. I partecipanti possono partecipare in un orario pianificato e vivere la sessione in tempo reale, godendo di funzioni interattive come chat, sondaggi e domande e risposte. I webinar simulati dal vivo combinano l&#39;affidabilità dei contenuti registrati con l&#39;esperienza interattiva di un evento dal vivo.
 
-Ulteriori informazioni sui [webinar simulati in tempo reale](https://helpx.adobe.com/it/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.
+Ulteriori informazioni sui [webinar simulati in tempo reale](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

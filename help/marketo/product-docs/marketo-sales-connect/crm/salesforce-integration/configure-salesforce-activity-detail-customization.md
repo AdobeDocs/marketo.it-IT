@@ -3,22 +3,24 @@ description: Scopri come configurare la personalizzazione dei dettagli delle att
 title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo
+TQID: 'https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 672
+source-wordcount: '672'
 ht-degree: 2%
-
 ---
-
 # Configura personalizzazione dettagli attività [!DNL Salesforce] {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
 >* [!DNL Salesforce] e [!DNL Marketo Sales Connect] [devono essere connessi](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* La registrazione dell&#39;attività e-mail tramite API [&#x200B; deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività di Salesforce quando un&#39;attività di attività/promemoria [!DNL Sales Connect] viene sincronizzata in Salesforce.
 

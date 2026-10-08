@@ -4,18 +4,23 @@ description: Scopri come attivare e disattivare i contenuti in streaming per i c
 title: Attivare e disattivare il contenuto del flusso
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
+TQID: 'https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 115
+source-wordcount: '115'
 ht-degree: 10%
-
 ---
-
 # Attivare e disattivare il contenuto del flusso {#activate-and-deactivate-stream-content}
 
 Il contenuto del flusso è disattivato per impostazione predefinita. Attiva i contenuti per inviarli durante i cast del coinvolgimento.

@@ -4,18 +4,23 @@ description: Scopri Head Start per i programmi e-mail. Invia ai qualificatori in
 title: Vantaggio per i programmi e-mail
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4
+TQID: 'https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
+source-wordcount: '407'
 ht-degree: 2%
-
 ---
-
 # Vantaggio per i programmi e-mail {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
@@ -69,7 +74,7 @@ Quando scegli una data/ora per un programma e-mail, questo determina quando iniz
 
 ## Inizio intestazione con fuso orario destinatario {#head-start-with-recipient-time-zone}
 
-La funzione Head Start richiede un programma con almeno 12 ore di anticipo. Che cosa significa per il fuso orario del destinatario? Ricorda che quando il fuso orario del destinatario è attivo, l’esecuzione del programma e-mail inizia a mezzanotte nel fuso orario più vicino (UTC +14:00). Pertanto, per abilitare **sia** Inizio intestazione che Fuso orario destinatario, i programmi devono essere pianificati **con almeno 12 ore di anticipo rispetto al fuso orario più vicino (UTC +14:00**).
+La funzione Head Start richiede un programma con almeno 12 ore di anticipo. Che cosa significa per il fuso orario del destinatario? Ricorda che quando il fuso orario del destinatario è attivo, iniziamo a eseguire il programma e-mail a mezzanotte nel fuso orario più vicino (UTC +14:00). Pertanto, per abilitare **sia** Inizio intestazione che Fuso orario destinatario, i programmi devono essere pianificati **con almeno 12 ore di anticipo rispetto al fuso orario più vicino (UTC +14:00**).
 
 Ciò significa che se ti trovi in America/Los Angeles e desideri abilitare sia Head Start che Recipient Time Zone, devi pianificare il programma con **34 ore** di anticipo. Come siamo arrivati a questo numero?
 

@@ -3,20 +3,26 @@ description: Filtra o registra l’attività di bot e-mail per evitare aperture 
 title: Filtrare l’attività bot dell’e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: '469'
 ht-degree: 13%
-
 ---
-
 # Filtrare l’attività bot dell’e-mail {#filtering-email-bot-activity}
 
 A volte, l’attività di bot su e-mail può erroneamente gonfiare le aperture delle e-mail e fare clic sui dati. Per risolvere il problema, segui la procedura riportata di seguito.
@@ -25,10 +31,10 @@ Per confermare l’attività bot vengono utilizzati due metodi separati:
 
 * Corrispondenza con [Elenco bot di Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: le attività che corrispondono a qualsiasi elemento nell&#39;elenco IAB UA/IP (agente utente/indirizzo IP) verranno contrassegnate come bot.
 * Corrispondenza con pattern di prossimità: quando due o più attività si verificano contemporaneamente (in meno di un secondo), vengono identificate come bot. Attributi considerati durante il confronto:
-   * ID lead (deve essere lo stesso)
-   * Risorsa e-mail (deve essere la stessa)
-   * Clic collegamento o apertura e-mail
-   * Differenza di tempo (deve essere inferiore a un secondo)
+  * ID lead (deve essere lo stesso)
+  * Risorsa e-mail (deve essere la stessa)
+  * Clic collegamento o apertura e-mail
+  * Differenza di tempo (deve essere inferiore a un secondo)
 
 A seconda del clic sul collegamento e-mail e dell’attività di apertura e-mail, i nuovi attributi verranno compilati con i valori seguenti:
 

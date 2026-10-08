@@ -4,16 +4,21 @@ description: Scopri come trovare e aggiungere filtri a un elenco avanzato. Sfogl
 title: Trovare e aggiungere filtri a un elenco avanzato
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/eQSlCfCck7SpNY-11SOd-KtnwWFD8eOl-jrTWO8CswM
+TQID: 'https://experienceleague.adobe.com/eQSlCfCck7SpNY-11SOd-KtnwWFD8eOl-jrTWO8CswM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 19%
-
 ---
-
 # Trovare e aggiungere filtri a un elenco avanzato {#find-and-add-filters-to-a-smart-list}
 
 Dopo aver [creato un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, è necessario aggiungere e [definire](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filtri.

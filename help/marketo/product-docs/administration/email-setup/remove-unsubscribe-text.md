@@ -4,13 +4,20 @@ description: Rimuovi il contenuto predefinito per l’annullamento dell’iscriz
 title: Rimuovere il testo per l’annullamento iscrizione
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 9c4f0d0a43d3ef06132d827b605b9e42de712e22
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 8%
-
 ---
-
 # Rimuovere il testo per l’annullamento iscrizione {#remove-unsubscribe-text}
 
 L&#39;unico motivo per cui dovresti rimuovere completamente il contenuto per l&#39;annullamento dell&#39;iscrizione dall&#39;area **[!UICONTROL Admin]** > **[!UICONTROL Email]** è che stai scegliendo di creare il collegamento per l&#39;annullamento dell&#39;iscrizione nei modelli di e-mail stessi. La convalida della casella di testo non consente il salvataggio senza contenuto. Per ovviare a questo inconveniente, aggiungi un piccolo commento su HTML. Il commento HTML non verrà visualizzato nel client e-mail, perché esegue il rendering dell’e-mail in HTML e i commenti vengono omessi.

@@ -4,28 +4,30 @@ description: Punteggio semplice - Documentazione di Marketo - Documentazione del
 title: Punteggio semplice
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU
+TQID: 'https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 361
-ht-degree: 0%
-
+source-wordcount: '361'
+ht-degree: 16%
 ---
-
 # Punteggio semplice {#simple-scoring}
 
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurare e aggiungere una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Pagina di destinazione con modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Passaggio 1: creare una campagna punteggio {#step-create-a-scoring-campaign}
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/simple-scoring-1.png)
 
@@ -49,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-5.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Smart List]**.
+1. Fai clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/simple-scoring-6.png)
 
@@ -67,7 +69,7 @@ ht-degree: 0%
    >
    >Se hai completato la [pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vinto rapidamente, dovresti disporre del modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
 
-1. Fare clic sulla scheda **[!UICONTROL Flow]**.
+1. Fai clic sulla scheda **[!UICONTROL Flow]**.
 
    ![](assets/simple-scoring-9.png)
 
@@ -87,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-12.png)
 
-1. Fare clic su **[!UICONTROL Activate]** nella schermata di conferma.
+1. Fai clic su **[!UICONTROL Activate]** nella schermata di conferma.
 
    ![](assets/simple-scoring-13.png)
 
@@ -101,7 +103,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-14.png)
 
-1. Fare clic su **[!UICONTROL Preview]**. La pagina di destinazione si aprirà in una nuova scheda.
+1. Fai clic su **[!UICONTROL Preview]**. La pagina di destinazione si aprirà in una nuova scheda.
 
    ![](assets/simple-scoring-15.png)
 
@@ -115,7 +117,7 @@ ht-degree: 0%
 
 ## Passaggio 3: visualizzare le informazioni sulla persona {#step-view-the-person-info}
 
-1. Passare all&#39;area **[!UICONTROL Database]**.
+1. Passa alla schermata **[!UICONTROL Database]**.
 
    ![](assets/simple-scoring-17.png)
 

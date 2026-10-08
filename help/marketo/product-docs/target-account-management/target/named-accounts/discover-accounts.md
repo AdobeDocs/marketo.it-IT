@@ -1,22 +1,27 @@
 ---
 unique-page-id: 11378812
 description: Scopri come individuare potenziali account target dalle aziende di gestione delle relazioni con i clienti o Marketo. Aggiungere gli account selezionati come Account denominati e associare automaticamente le persone.
-title: Individua account
+title: Individuare account
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/a3DruY5sl6iQu4sr3qqLBCSoybZpC3lQFfPUVr-oDs4
+TQID: 'https://experienceleague.adobe.com/a3DruY5sl6iQu4sr3qqLBCSoybZpC3lQFfPUVr-oDs4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 520
-ht-degree: 0%
-
+source-wordcount: '520'
+ht-degree: 1%
 ---
-
-# Individua account {#discover-accounts}
+# Individuare account {#discover-accounts}
 
 Utilizza l’opzione Discover per identificare potenziali account di destinazione.
 
@@ -42,7 +47,7 @@ Identifica potenziali account di destinazione dal tuo CRM.
 
    ![](assets/disc-crm-two.png)
 
-1. La schermata di anteprima conferma la quantità di selezioni effettuate. Fare clic su **[!UICONTROL Create]**.
+1. La schermata di anteprima conferma la quantità di selezioni effettuate. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/disc-three.png)
 
@@ -102,11 +107,11 @@ Identifica le aziende giuste per il targeting.
 
    ![](assets/disc-comp-six.png)
 
-1. Fare clic su **[!UICONTROL Create]**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/disc-comp-seven.png)
 
-   Bel lavoro!
+   Ottimo lavoro.
 
    ![](assets/disc-co-six.png)
 

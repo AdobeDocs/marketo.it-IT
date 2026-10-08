@@ -4,16 +4,18 @@ description: Scopri come aggiungere token ai collegamenti e-mail. Inserisci valo
 title: Aggiungere token a un collegamento e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-TQID: https://experienceleague.adobe.com/mglX2-TE36JiiJ5NbJwSsOKMWz-o1oE1v-XWdJ5D608
+TQID: 'https://experienceleague.adobe.com/mglX2-TE36JiiJ5NbJwSsOKMWz-o1oE1v-XWdJ5D608'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: '86'
 ht-degree: 17%
-
 ---
-
 # Aggiungere token a un collegamento e-mail {#add-tokens-to-an-email-link}
 
 Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, puoi utilizzare i token. Ecco come.

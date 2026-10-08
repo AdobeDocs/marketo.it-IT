@@ -3,23 +3,30 @@ description: Note sulla versione - Maggio 2025 - Documentazione di Marketo - Doc
 title: Note sulla versione - Maggio 2025
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-TQID: https://experienceleague.adobe.com/U1fwUVPzc3mpwzuxzwh-bXy7Y-0aHlzNHnoRuPsjW8g
+TQID: 'https://experienceleague.adobe.com/U1fwUVPzc3mpwzuxzwh-bXy7Y-0aHlzNHnoRuPsjW8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 516
+source-wordcount: '516'
 ht-degree: 38%
-
 ---
-
 # Note sulla versione - Maggio 2025 {#release-notes-may-25}
 
 Di seguito sono elencate tutte le funzioni incluse nella versione di maggio 2025. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
@@ -72,7 +79,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 
 ## Annunci {#announcements}
 
-* **Aggiornamento dell&#39;integrazione della conversione offline di Facebook**: il 29 maggio 2025, l&#39;integrazione [Conversione offline di Facebook](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} per Marketo Engage verrà migrata alla nuova API [Conversioni](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} di Meta, a causa della deprecazione di Meta dell&#39;API [Conversioni offline](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in linea con il controllo delle versioni dell&#39;API Graph. Per ulteriori informazioni, vedere la guida di Meta per [l&#39;invio di eventi offline tramite Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI per offline).
+* **Aggiornamento dell&#39;integrazione della conversione offline di Facebook**: il 29 maggio 2025, l&#39;integrazione [Conversione offline di Facebook](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} per Marketo Engage verrà migrata alla nuova API [Conversioni](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} di Meta, a causa della deprecazione di Meta dell&#39;API [Conversioni offline](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in linea con il controllo delle versioni dell&#39;API Graph. Per ulteriori informazioni, vedere la guida di Meta per [l&#39;invio di eventi offline tramite Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI per offline).
 
 * **Nuova funzionalità di Analytics - Beta pubblico**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (precedentemente nota come Revenue Explorer e Advanced Report Builder) ha iniziato a essere implementato per tutti gli utenti attuali di Revenue Cycle Explorer a metà aprile. Questo nuovo strumento offre un’interfaccia flessibile per la generazione di rapporti e visualizzazioni sui dati di Marketo Engage, che fornisce dettagli granulari su progressione, prestazioni e altro ancora. Offre maggiore interattività e visualizzazione, prestazioni più veloci e un&#39;esperienza utente più fluida e intuitiva.
 

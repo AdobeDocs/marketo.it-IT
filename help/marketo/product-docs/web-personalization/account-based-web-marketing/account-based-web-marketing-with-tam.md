@@ -4,22 +4,26 @@ description: Scopri il marketing web basato sull’account con tam in Marketo En
 title: Marketing web basato su account con TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4
+TQID: 'https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 6%
-
 ---
-
 # Marketing web basato su account con TAM {#account-based-web-marketing-with-TAM}
 
 Marketo offre un&#39;applicazione [[!UICONTROL Target Account Management]](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM)
@@ -30,7 +34,7 @@ Quando si utilizza Marketo [!UICONTROL Web Personalization] e [!UICONTROL Target
 * [!UICONTROL Account Lists] sono gestiti (creati, modificati ed eliminati) in TAM
 * [!UICONTROL Account Lists] sono sincronizzati in [!UICONTROL Web Personalization] per l&#39;utilizzo in Segmentazione. Selezionali dal menu a discesa
 
-   * **Nota**: la sincronizzazione può richiedere fino a 5 minuti
+  * **Nota**: la sincronizzazione può richiedere fino a 5 minuti
 
 * In [!UICONTROL Web Personalization], puoi creare [segmenti che eseguono il targeting degli account dall&#39;elenco account](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) creato in TAM e personalizzare il contenuto per questi account
 
@@ -42,7 +46,7 @@ Se si sta già utilizzando ABWM:
 * È possibile creare, modificare ed eliminare [!UICONTROL Account Lists] in TAM _and_ in ABWM
 * [!UICONTROL Account Lists] (sia da ABWM che da TAM) sono sincronizzati in [!UICONTROL Web Personalization] per l&#39;utilizzo nella segmentazione
 
-   * **Nota**: la sincronizzazione può richiedere fino a 5 minuti
+  * **Nota**: la sincronizzazione può richiedere fino a 5 minuti
 
 * In [!UICONTROL Web Personalization], puoi creare segmenti destinati agli account da [!UICONTROL Account Lists] creati in _entrambi_ ABWM e TAM e personalizzare il contenuto per questi account
 * È possibile caricare file CSV nella pagina Elenco account [!UICONTROL Web Personalization]

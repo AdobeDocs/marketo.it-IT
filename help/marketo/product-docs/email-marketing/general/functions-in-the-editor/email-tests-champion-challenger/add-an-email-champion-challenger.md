@@ -4,18 +4,23 @@ description: Scopri come aggiungere un test e-mail Champion/Challenger. Imposta 
 title: Aggiungere un’e-mail campione/sfidante
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks
+TQID: 'https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 213
+source-wordcount: '213'
 ht-degree: 7%
-
 ---
-
 # Aggiungere un’e-mail campione/sfidante {#add-an-email-champion-challenger}
 
 È consigliabile verificare tutte le e-mail che utilizzi di frequente per assicurarti che funzionino. Un modo consiste nel confrontare l’efficacia di un’e-mail con altre versioni, o sfidanti. In un test campione/sfidante, puoi testare l’intera e-mail, l’oggetto o l’indirizzo del mittente.

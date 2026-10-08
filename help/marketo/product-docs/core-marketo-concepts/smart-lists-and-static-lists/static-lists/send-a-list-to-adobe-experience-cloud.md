@@ -1,25 +1,30 @@
 ---
 unique-page-id: 37356194
-description: Scopri come inviare un elenco a Adobe Experience Cloud. Condividi l’iscrizione all’elenco Marketo con Experience Platform o altre soluzioni.
+description: Scopri come inviare un elenco ad Adobe Experience Cloud. Condividi l’iscrizione all’elenco Marketo con Experience Platform o altre soluzioni.
 title: Inviare un elenco a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 819
+source-wordcount: '819'
 ht-degree: 3%
-
 ---
-
 # Inviare un elenco a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -41,7 +46,7 @@ ht-degree: 3%
 
 ## Come inviare un elenco statico {#how-to-send-a-static-list}
 
-Elenco statico statico. Non verrà apportata alcuna modifica all&#39;elenco in Adobe Experience Cloud, a meno che non vengano apportate manualmente.
+Elenco statico statico. Non verrà apportata alcuna modifica all’elenco in Adobe Experience Cloud, a meno che non vengano apportate manualmente.
 
 1. In Marketo, individua l’elenco da esportare. Fare clic con il pulsante destro del mouse e selezionare **[!UICONTROL Send to Experience Cloud]**.
 
@@ -65,7 +70,7 @@ Elenco statico statico. Non verrà apportata alcuna modifica all&#39;elenco in A
 
 ## Come inviare un elenco sincronizzato {#how-to-send-a-synced-list}
 
-La sincronizzazione di un elenco significa che ogni volta che si aggiorna un elenco in Marketo, la modifica viene automaticamente sincronizzata con il relativo pubblico in Adobe Experience Cloud.
+La sincronizzazione di un elenco significa che ogni volta che aggiorni un elenco in Marketo, la modifica viene automaticamente sincronizzata con il relativo pubblico in Adobe Experience Cloud.
 
 1. In Marketo, individua l’elenco da esportare. Fare clic con il pulsante destro del mouse e selezionare **[!UICONTROL Send to Experience Cloud]**.
 
@@ -103,9 +108,9 @@ Puoi interrompere la sincronizzazione dell’elenco in qualsiasi momento.
 
 ### Condivisione con Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Per gli utenti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà ai tipi di pubblico di essere condivisi da Marketo alle suite di rapporti di Adobe Analytics, tuttavia è necessario seguire alcuni passaggi di configurazione aggiuntivi in Adobe Audience Manager per abilitare questa funzione. Rivedi la [documentazione di Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=it){target="_blank"} per ulteriori informazioni su come configurare questa impostazione.
+* Per gli utenti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà ai tipi di pubblico di essere condivisi da Marketo alle suite di rapporti di Adobe Analytics, tuttavia è necessario seguire alcuni passaggi di configurazione aggiuntivi in Adobe Audience Manager per abilitare questa funzione. Rivedi la [documentazione di Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} per ulteriori informazioni su come configurare questa impostazione.
 
-* Dopo aver caricato un elenco da Marketo a Adobe Audience Manager, è possibile accedervi anche da Adobe Target. La configurazione [&#x200B; deve essere abilitata in Adobe Target](https://experienceleague.adobe.com/it/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* Dopo aver caricato un elenco da Marketo a Adobe Audience Manager, è possibile accedervi anche da Adobe Target. La configurazione [ deve essere abilitata in Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Se un elenco è vuoto o non ha persone con valori ECID, il nome dell’elenco non verrà inviato per essere referenziato all’esterno di Marketo.
 

@@ -4,16 +4,18 @@ description: Scopri come contrassegnare un momento come completato nell’app Ma
 title: Contrassegno completato
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/w-4Te673jxk5QQOzvheCTp-KGPDYSTSKF-IT448yf4E
+TQID: 'https://experienceleague.adobe.com/w-4Te673jxk5QQOzvheCTp-KGPDYSTSKF-IT448yf4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 4%
-
 ---
-
 # Contrassegno completato {#marking-it-done}
 
 Contrassegna un programma e-mail, un evento o una scheda di analisi come [!UICONTROL Done] per rimuoverla dal flusso. Ci sono due modi per farlo.

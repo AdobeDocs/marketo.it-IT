@@ -3,18 +3,20 @@ description: Informazioni sui termini dell'attività di vendita di Sales Connect
 title: Glossario dell’attività di vendita
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+TQID: 'https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 339
+source-wordcount: '339'
 ht-degree: 8%
-
 ---
-
 # Glossario dell’attività di vendita {#sales-activity-glossary}
 
 In Sales Connect, quando un venditore: aggiunge un lead a una cadenza di vendita, invia un’e-mail o effettua una chiamata a un’attività, verrà registrato nella cronologia delle attività di Marketo. Inoltre, quando il lead si relaziona con le e-mail, vengono registrati anche le aperture, i clic e le risposte.

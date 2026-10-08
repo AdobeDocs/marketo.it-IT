@@ -3,16 +3,18 @@ description: Scopri le azioni rapide nel Centro comandi per le e-mail e le attiv
 title: Azioni rapide nel centro comandi
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
-ht-degree: 4%
-
+source-wordcount: '309'
+ht-degree: 3%
 ---
-
 # Azioni rapide in [!UICONTROL Command Center] {#quick-actions-in-the-command-center}
 
 Nella griglia dell’e-mail esistono due tipi di colonne di azione rapida. Azioni e-mail, che consente di intervenire sull’e-mail e Azioni di follow-up, che consente di intraprendere azioni di coinvolgimento con pochi clic rapidi.

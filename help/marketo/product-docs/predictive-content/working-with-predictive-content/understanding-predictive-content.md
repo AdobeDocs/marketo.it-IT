@@ -4,16 +4,18 @@ description: Scopri i titoli dei contenuti predittivi approvati, le origini abil
 title: Informazioni sui contenuti predittivi
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
+TQID: 'https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: '289'
 ht-degree: 2%
-
 ---
-
 # Informazioni sui contenuti predittivi {#understanding-predictive-content}
 
 Dopo aver [approvato un titolo per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavori qui. Nella pagina [!UICONTROL Predictive Content] vengono visualizzati tutti i titoli approvati per il contenuto predittivo.

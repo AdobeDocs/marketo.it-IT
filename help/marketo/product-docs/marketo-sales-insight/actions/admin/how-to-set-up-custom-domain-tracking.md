@@ -3,16 +3,18 @@ description: Scopri come impostare il tracciamento del dominio personalizzato in
 title: Come impostare il tracciamento del dominio personalizzato
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
+TQID: 'https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 7%
-
 ---
-
 # Come impostare il tracciamento del dominio personalizzato {#how-to-set-up-custom-domain-tracking}
 
 Il tracciamento del dominio personalizzato consente al team di utilizzare il nome della tua società in tutti i collegamenti tracciabili aggiunti alle e-mail di vendita. Dopo aver configurato il collegamento, verrà inserito nell&#39;elenco Consentiti come go.yourcompany.com qualsiasi collegamento presente nell&#39;e-mail, in modo che, quando qualcuno passa il mouse su un collegamento, venga letto go.yourcompany.com anziché go.toutapp.com.

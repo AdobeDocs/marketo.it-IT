@@ -5,14 +5,28 @@ title: Tracciamento apertura e-mail condizionale
 description: Scopri come configurare il tracciamento dell’apertura delle e-mail condizionali utilizzando un campo booleano personalizzato per instradare il tracciamento dell’apertura delle e-mail in base allo stato di consenso di ogni persona.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
 ---
 # Tracciamento apertura e-mail condizionale {#conditional-open-tracking}
 
-Scopri come configurare Marketo Engage per rispettare il consenso dell’utente finale per il tracciamento dell’apertura delle e-mail (pixel), in linea con [varie linee guida](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=it){target="_blank"}. L’approccio utilizza un campo booleano personalizzato per determinare quale variante e-mail riceve una persona, una con il tracciamento aperto abilitato o una con esso disabilitato.
+Scopri come configurare Marketo Engage per rispettare il consenso dell’utente finale per il tracciamento dell’apertura delle e-mail (pixel), in linea con [varie linee guida](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632){target="_blank"}. L’approccio utilizza un campo booleano personalizzato per determinare quale variante e-mail riceve una persona, una con il tracciamento aperto abilitato o una con esso disabilitato.
 
 ## Passaggio 1: creare un campo booleano personalizzato {#custom-field}
 
@@ -26,7 +40,7 @@ Scopri come configurare Marketo Engage per rispettare il consenso dell’utente 
 
 ## Passaggio 2: compilare il campo del consenso {#populate}
 
-1. Imposta il valore del campo Tracciamento pixel e-mail per ogni persona tramite importazione dati (sincronizzazione API o [caricamento CSV](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Imposta il valore del campo Tracciamento pixel e-mail per ogni persona tramite importazione dati (sincronizzazione API o [caricamento CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/open-tracking-3.png)
 
@@ -60,7 +74,7 @@ In E-mail Designer, la casella di controllo **Disattiva tracciamento aperto** si
 
 ## Passaggio 4: configurare Smart Campaign {#smart-campaign}
 
-[Crea una campagna avanzata](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} per determinare quale e-mail riceve ogni persona.
+[Crea una campagna avanzata](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} per determinare quale e-mail riceve ogni persona.
 
 1. Nella scheda _Flusso_ della tua Smart Campaign, inserisci il passaggio di flusso **Invia e-mail**.
 

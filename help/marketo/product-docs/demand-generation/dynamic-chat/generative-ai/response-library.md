@@ -3,16 +3,21 @@ description: Scopri come gestire la libreria di risposte per l’intelligenza ar
 title: Libreria di risposta
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-TQID: https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU
+TQID: 'https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 4%
-
 ---
-
 # Libreria di risposta {#response-library}
 
 In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di approvazione e i nomi/argomenti delle attività assegnati.

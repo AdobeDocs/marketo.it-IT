@@ -3,16 +3,21 @@ description: Scopri la sincronizzazione delle campagne tra Microsoft Dynamics e 
 title: Panoramica sulla sincronizzazione della campagna
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/UsgsW3vzyxFDw5zz1nFKRymF8ULV-I-pWrV9rAuLX6A
+TQID: 'https://experienceleague.adobe.com/UsgsW3vzyxFDw5zz1nFKRymF8ULV-I-pWrV9rAuLX6A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 4%
-
 ---
-
 # Panoramica sulla sincronizzazione della campagna {#campaign-sync-overview}
 
 Come parte di Campaign Sync, gli utenti possono impostare l&#39;automazione per funzionare sull&#39;iscrizione a una campagna [!DNL Dynamics]. I lead qualificati per comportamenti o dati demografici specifici possono far parte delle campagne Microsoft.

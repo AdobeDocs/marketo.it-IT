@@ -3,18 +3,23 @@ description: Scopri come rendere i moduli Marketo conversazionali con i flussi c
 title: Impostazioni Di Flusso Per Conversazione Per Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-TQID: https://experienceleague.adobe.com/1e2YHel2zDZX9Q6VRvak79Kdomb4ch22aRc--tY9jcA
+TQID: 'https://experienceleague.adobe.com/1e2YHel2zDZX9Q6VRvak79Kdomb4ch22aRc--tY9jcA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 1%
-
 ---
-
 # Impostazioni Di Flusso Per Conversazione Per Marketo Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}
 
 Rendi Marketo Engage Forms conversazionale integrandolo con Dynamic Chat Conversational Flows. Qualifica immediatamente i lead utilizzando i dati del modulo o l&#39;iscrizione a elenchi avanzati per prenotazioni di riunioni, collegamenti a white paper o obiettivi personalizzati.

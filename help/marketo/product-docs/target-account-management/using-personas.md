@@ -4,19 +4,26 @@ description: Scopri come utilizzare gli utenti tipo per segmentare il pubblico e
 title: Utilizzo di utenti tipo
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w
+TQID: 'https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 198
+source-wordcount: '198'
 ht-degree: 5%
-
 ---
-
 # Utilizzo di utenti tipo {#using-personas}
 
 Gli utenti tipo sono un ottimo modo per segmentare il pubblico e il mercato ABM per un sottoinsieme specifico di persone.

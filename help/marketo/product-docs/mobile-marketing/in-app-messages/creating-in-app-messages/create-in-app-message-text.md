@@ -4,18 +4,20 @@ description: Scopri come creare testo e stile dei messaggi in-app. Modifica il t
 title: Creare testo per messaggio in-app
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/N5ENTkSHHuCq-rrxsBfzpT-zoYP-192ow2MCWCuDVjs
+TQID: 'https://experienceleague.adobe.com/N5ENTkSHHuCq-rrxsBfzpT-zoYP-192ow2MCWCuDVjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Forms
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 387
+source-wordcount: '387'
 ht-degree: 2%
-
 ---
-
 # Creare testo per messaggio in-app {#create-in-app-message-text}
 
 Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del testo.

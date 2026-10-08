@@ -3,20 +3,24 @@ description: Scopri come ottimizzare e scalare un’istanza Marketo Engage esist
 title: Da dove iniziare
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-TQID: https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24
+TQID: 'https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Resources
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 593
-ht-degree: 1%
-
+source-wordcount: '593'
+ht-degree: 3%
 ---
-
 # Da dove iniziare {#where-to-start}
 
 Stai avviando un nuovo processo o rilevando un’istanza esistente da un altro amministratore e non sai da dove iniziare? Anche se assumere il controllo di un’istanza live in esecuzione da un po’ di tempo può sembrare un po’ intimidatorio, abbiamo messo insieme alcune risorse per aiutarti a imparare subito a usare al meglio.
@@ -25,11 +29,11 @@ Stai avviando un nuovo processo o rilevando un’istanza esistente da un altro a
 
 Assicurati di essere configurato correttamente nella community Marketo Engage.
 
-* [**Configura il tuo profilo**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=it){target="_blank"} compilando i campi obbligatori (società, specializzazioni della soluzione, paese, ecc.)
+* [**Configura il tuo profilo**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} compilando i campi obbligatori (società, specializzazioni della soluzione, paese, ecc.)
 
-* Leggi le [**linee guida della community di Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=it){target="_blank"}.
+* Leggi le [**linee guida della community di Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Scopri come [**inviare un caso di supporto**](https://experienceleague.adobe.com/it/support#home){target="_blank"} e confermare di essere configurato come [Amministratore supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Scopri come [**inviare un caso di supporto**](https://experienceleague.adobe.com/en/support#home){target="_blank"} e confermare di essere configurato come [Amministratore supporto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Unione dei profili della community Marketo Engage {#merge-your-community-profiles}
 
@@ -80,10 +84,10 @@ Adobe, con l’input di Marketo Champions, ha messo insieme diverse liste di con
 
 Hai bisogno di ulteriore aiuto? Puoi connetterti con noi o con altri utenti di Marketo Engage tramite i collegamenti riportati di seguito.
 
-* Per assistenza tecnica con un elemento che non funziona correttamente, contatta l&#39;**[Assistenza clienti Marketo Engage](https://experienceleague.adobe.com/it/support){target="_blank"}**.
+* Per assistenza tecnica con un elemento che non funziona correttamente, contatta l&#39;**[Assistenza clienti Marketo Engage](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
-* Connettiti con altri utenti di Marketo Engage e impara da essi nella **[Community Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=it){target="_blank"}**.
+* Connettiti con altri utenti di Marketo Engage e impara da essi nella **[Community Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
-* Per assistenza pratica per ottenere il massimo dall&#39;istanza di Marketo Engage, contatta **[Adobe Professional Services](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"}**.
+* Per assistenza pratica per ottenere il massimo dall&#39;istanza di Marketo Engage, contatta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Guarda **[video tutorial curati](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=it){target="_blank"}** su diversi aspetti di Marketo Engage.
+* Guarda **[video tutorial curati](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** su diversi aspetti di Marketo Engage.

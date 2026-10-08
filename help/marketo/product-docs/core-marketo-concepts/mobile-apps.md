@@ -2,13 +2,14 @@
 unique-page-id: 7516612
 description: Scopri le app mobili di Marketo, inclusi Event Check-in e Marketo Moments. Controlla i partecipanti all’evento e visualizza le informazioni chiave quando sono più importanti.
 title: App per dispositivi mobili
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 5%
-
 ---
-
 
 # App per dispositivi mobili {#mobile-apps}
 

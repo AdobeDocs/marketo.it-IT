@@ -3,13 +3,17 @@ description: Scopri come abilitare la funzione Disattiva campagne intelligenti n
 title: Disabilita campagne intelligenti nell’archivio
 feature: Administration
 hide: true
-source-git-commit: 526d10bb96e059d251a76ca720ff81ab42ee9516
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
-
 ---
-
 # Disabilita campagne intelligenti nell’archivio {#disable-smart-campaigns-on-archive}
 
 Quando questa funzione è abilitata, l’archiviazione di una cartella o di un programma ne disattiva automaticamente le campagne per evitare attività impreviste.

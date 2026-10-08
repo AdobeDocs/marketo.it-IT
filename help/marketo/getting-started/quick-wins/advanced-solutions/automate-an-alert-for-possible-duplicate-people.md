@@ -4,16 +4,18 @@ description: Automatizzare un avviso per potenziali persone duplicate - Document
 title: Automatizzare un avviso per possibili persone duplicate
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+TQID: 'https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 8%
-
 ---
-
 # Automatizzare un avviso per possibili persone duplicate {#automate-an-alert-for-possible-duplicate-people}
 
 Vuoi ricevere un avviso ogni volta che viene creata una persona duplicata? Ecco come impostare una campagna avanzata per farlo.
@@ -21,7 +23,7 @@ Vuoi ricevere un avviso ogni volta che viene creata una persona duplicata? Ecco 
 1. [Crea una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definisci il seguente elenco avanzato:
 
 * Trigger: **[!UICONTROL Person is Created]**
-* Filtro: **[!UICONTROL Duplicate Fields]**. Nome Campo **[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
+* Filtro: **[!UICONTROL Duplicate Fields]**. Nome Campo **[!UICONTROL is][!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 

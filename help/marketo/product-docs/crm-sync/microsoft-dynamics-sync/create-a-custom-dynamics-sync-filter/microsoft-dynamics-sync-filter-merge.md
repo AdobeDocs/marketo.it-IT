@@ -4,16 +4,21 @@ description: Comprendere il funzionamento del filtro di sincronizzazione Dynamic
 title: Filtro di sincronizzazione Microsoft Dynamics - Unione
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/wxPBvOQk4SW8gocZOGfagAMAG4OH9ghTqhh0lVRGI-U
+TQID: 'https://experienceleague.adobe.com/wxPBvOQk4SW8gocZOGfagAMAG4OH9ghTqhh0lVRGI-U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft] filtro di sincronizzazione Dynamics: unione {#microsoft-dynamics-sync-filter-merge}
 
 L&#39;unione dei lead in [!DNL Microsoft Dynamics] utilizza il tipo Due opzioni: filtro di sincronizzazione = Sì (TRUE) e filtro di sincronizzazione = No (FALSE). Quando si uniscono due record, il risultato varia a seconda del record True e del False.

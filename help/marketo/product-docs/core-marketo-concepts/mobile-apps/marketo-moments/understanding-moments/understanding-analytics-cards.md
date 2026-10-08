@@ -4,16 +4,18 @@ description: Scopri le schede di Analytics in Marketo Moments. Visualizzare metr
 title: Informazioni sulle schede di Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
+TQID: 'https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 294
+source-wordcount: '294'
 ht-degree: 2%
-
 ---
-
 # Informazioni sulle schede di Analytics {#understanding-analytics-cards}
 
 All&#39;inizio di ogni mese, Marketo Moments fornisce tre diverse schede di rapporti: [!UICONTROL Acquired Leads], [!UICONTROL New Leads] e [!UICONTROL Unsubscribes]. Ciascuno mostra le prestazioni mensili e la tendenza su un periodo di sei mesi.

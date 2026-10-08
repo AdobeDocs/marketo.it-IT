@@ -6,20 +6,32 @@ description: Scopri come creare e gestire le linee guida per i marchi in Marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1113'
 ht-degree: 1%
-
 ---
-
 # Temi del brand {#brand-themes}
 
 Con i temi del brand, crea facilmente contenuti riutilizzabili che si adattano a un marchio specifico e a un linguaggio di progettazione aggiungendo uno stile personalizzato ai modelli e-mail.
 
 Questa funzione consente agli addetti al marketing di sfruttare le e-mail visivamente accattivanti e coerenti con il brand in modo più rapido e con meno sforzo, fornendo al contempo opzioni di personalizzazione avanzate per esigenze di progettazione univoche.
 
-## Creare un tema {#create-a-theme}
+## Crea un tema {#create-a-theme}
 
 1. Segui i passaggi per [creare un modello di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 

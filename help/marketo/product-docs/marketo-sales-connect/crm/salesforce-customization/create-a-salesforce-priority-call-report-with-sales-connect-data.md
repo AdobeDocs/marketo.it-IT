@@ -4,16 +4,18 @@ description: Scopri come creare un rapporto sulle chiamate prioritarie Salesforc
 title: Creare un rapporto sulle chiamate prioritarie Salesforce con i dati di Sales Connect
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4
+TQID: 'https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 12%
-
 ---
-
 # Creare un rapporto sulle chiamate prioritarie Salesforce con i dati di Sales Connect {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Scopri come creare un elenco di rapporti/chiamate di [!DNL Salesforce] utilizzando i dati di coinvolgimento e-mail di [!DNL Sales Connect] per concentrarsi sulle persone o sulle opportunità con slancio.

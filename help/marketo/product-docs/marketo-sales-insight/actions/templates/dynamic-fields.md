@@ -3,25 +3,27 @@ description: Scopri i campi dinamici nei modelli Azioni di Insight per le vendit
 title: Campi dinamici
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4
+TQID: 'https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 544
+source-wordcount: '544'
 ht-degree: 2%
-
 ---
-
 # Campi dinamici {#dynamic-fields}
 
 È possibile personalizzare i modelli e-mail con attributi predefiniti come `{{first_name}}` o `{{company}}`. Questi campi ti consentono di inviare tramite e-mail più contatti e di completarli automaticamente senza doverli digitare separatamente per ciascun contatto.
 
 >[!TIP]
 >
->Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno cercati sia in [!DNL Sales Insight Actions] che in [!DNL Salesforce]. Ciò significa che se un contatto non esiste nell&#39;applicazione Web [&#128279;](https://toutapp.com/login), verrà eseguita una ricerca in [!DNL Salesforce] per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
+>Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno cercati sia in [!DNL Sales Insight Actions] che in [!DNL Salesforce]. Ciò significa che se un contatto non esiste nell&#39;applicazione Web [](https://toutapp.com/login), verrà eseguita una ricerca in [!DNL Salesforce] per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
 
 ## Inserire un campo dinamico in un modello {#insert-a-dynamic-field-into-a-template}
 

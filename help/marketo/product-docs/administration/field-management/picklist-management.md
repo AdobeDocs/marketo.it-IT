@@ -1,16 +1,23 @@
 ---
 description: Scopri come definire un set fisso di valori per un campo per semplificare la gestione dei dati e dei flussi di lavoro.
-title: Gestione elenchi a discesa
+title: Gestione degli elenchi a discesa
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
-# Gestione elenchi a discesa {#picklist-management}
+# Gestione degli elenchi a discesa {#picklist-management}
 
 La gestione degli elenchi di selezione consente di definire un set fisso di valori per un campo al fine di semplificare la gestione dei dati e dei flussi di lavoro in Marketo Engage. Solo i campi non di testo non mappati a un campo CRM con un elenco a discesa definito possono essere gestiti in Marketo. Se un campo è mappato a un campo CRM che ha un elenco di selezione definito, i valori per tale campo devono essere definiti nel CRM.
 

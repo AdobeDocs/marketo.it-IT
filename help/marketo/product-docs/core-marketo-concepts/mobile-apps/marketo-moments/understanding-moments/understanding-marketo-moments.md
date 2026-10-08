@@ -4,20 +4,23 @@ description: Scopri Marketo Moments per vedere cosa conta quando è importante. 
 title: Informazioni sui momenti Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/aEx5-CA8gKF6iVsLULnpqckR8YEoizYrE-U-xHydIjo
+TQID: 'https://experienceleague.adobe.com/aEx5-CA8gKF6iVsLULnpqckR8YEoizYrE-U-xHydIjo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 603
+source-wordcount: '603'
 ht-degree: 1%
-
 ---
-
 # Informazioni sui momenti Marketo {#understanding-marketo-moments}
 
 Il potere di Marketo è ora nelle vostre mani. Visualizza l’anteprima e riprogramma le e-mail direttamente dal telefono o da iPad.

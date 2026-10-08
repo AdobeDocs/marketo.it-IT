@@ -4,18 +4,21 @@ description: Scopri come abilitare e assegnare uno stile alla barra dei consigli
 title: Abilitare la barra dei consigli dei contenuti
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+TQID: 'https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 333
+source-wordcount: '333'
 ht-degree: 4%
-
 ---
-
 # Abilitare la barra dei consigli dei contenuti {#enable-the-content-recommendation-bar}
 
 Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi predittiva e di apprendimento automatico per fornire contenuti rilevanti a ogni visitatore web. Il motore di consigli prevede quale contenuto avrebbe le migliori prestazioni per visitatore. Il contenuto del motore viene monitorato e controllato nella pagina Consigli, per aiutarti a ottimizzare il ROI dei contenuti.

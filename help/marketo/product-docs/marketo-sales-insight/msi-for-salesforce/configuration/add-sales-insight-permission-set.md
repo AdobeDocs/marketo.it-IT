@@ -3,20 +3,23 @@ description: Scopri come aggiungere il set di autorizzazioni Sales Insight in Sa
 title: Aggiungere set di autorizzazioni di Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
+TQID: 'https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 379
+source-wordcount: '379'
 ht-degree: 2%
-
 ---
-
 # Aggiungi set di autorizzazioni [!DNL Sales Insight] {#add-sales-insight-permission-set}
 
 Utilizzare la procedura seguente per aggiungere l&#39;accesso alle funzionalità di [!DNL Sales Insight] in [!DNL Salesforce]. Applicabile a [!DNL Salesforce] Classic e Lightening

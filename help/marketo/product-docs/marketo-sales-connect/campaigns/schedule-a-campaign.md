@@ -4,16 +4,18 @@ description: Scopri come pianificare una campagna Sales Connect. Imposta l’ora
 title: Pianificare una campagna
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4mwXaTG4ScoNvv-LSnpGuE6RjDTpa1kkeIPMzp09a-w
+TQID: 'https://experienceleague.adobe.com/4mwXaTG4ScoNvv-LSnpGuE6RjDTpa1kkeIPMzp09a-w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 3%
-
 ---
-
 # Pianificare una campagna {#schedule-a-campaign}
 
 Puoi pianificare ogni singolo passaggio e-mail della campagna in modo che esca a un’ora specifica, oppure scegliere ogni passaggio e-mail successivo in modo che venga inviato contemporaneamente alla prima e-mail della campagna.

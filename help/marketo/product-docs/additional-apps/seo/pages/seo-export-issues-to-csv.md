@@ -5,18 +5,21 @@ title: 'SEO: esportare problemi in file CSV'
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/3YrTasIvX5GHEdWjIIdHQMEpwPcSJMg7-uLWRQIOtnk
+TQID: 'https://experienceleague.adobe.com/3YrTasIvX5GHEdWjIIdHQMEpwPcSJMg7-uLWRQIOtnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Optimization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '214'
 ht-degree: 5%
-
 ---
-
 # SEO: esportare problemi in file CSV {#seo-export-issues-to-csv}
 
 Scopri come esportare i dati del problema della pagina in un file CSV se intendi condividere tali informazioni con persone al di fuori di Marketo.
@@ -25,10 +28,10 @@ Scopri come esportare i dati del problema della pagina in un file CSV se intendi
 >
 >Il 31 marzo 2026, in Marketo Engage [è stata dichiarata obsoleta la funzionalità Ottimizzazione motore di ricerca](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) è ancora disponibile per un periodo limitato. Segui i passaggi descritti negli articoli seguenti per esportare qualsiasi dato.
 >
->* [Problemi di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Esporta risultati parole chiave](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Passare alla sezione **[!UICONTROL Pages]**.
 

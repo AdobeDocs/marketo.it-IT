@@ -4,21 +4,25 @@ description: Scopri il remarketing personalizzato in google in Marketo Engage, i
 title: Remarketing personalizzato in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls
+TQID: 'https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 251
-ht-degree: 5%
-
+source-wordcount: '256'
+ht-degree: 7%
 ---
-
 # Remarketing personalizzato in Google {#personalized-remarketing-in-google}
 
 Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti utilizzando i dati RTP e la potenza di Google Analytics grazie alla rete di visualizzazione Google.
@@ -42,7 +46,7 @@ Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti util
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. In Audience Builder, fai clic su **[!UICONTROL Sequences]** e **[!UICONTROL Find the RTP Data]** in [!UICONTROL Custom Dimensions], [!UICONTROL UICONTROL [ !] Custom Variables], [!UICONTROL Events].
+1. In Audience Builder, fai clic su **[!UICONTROL Sequences]** e **[!UICONTROL Find the RTP Data]** in [!UICONTROL Custom Dimensions], [!UICONTROL [!]UICONTROL Custom Variables], [!UICONTROL Events].
 
 >[!TIP]
 >

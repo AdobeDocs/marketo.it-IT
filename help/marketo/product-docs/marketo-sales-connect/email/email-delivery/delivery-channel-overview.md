@@ -4,16 +4,18 @@ description: Comprendere i canali di consegna in Sales Connect. Scopri come veng
 title: Panoramica del canale di consegna
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 568
+source-wordcount: '569'
 ht-degree: 1%
-
 ---
-
 # Panoramica del canale di consegna {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect] offre più opzioni per la consegna delle e-mail. Questo articolo analizza i canali di consegna che puoi sfruttare, come selezionarli e quando sceglierne uno rispetto all’altro.
@@ -52,7 +54,7 @@ I server MSC non supportano i metodi di autenticazione DKIM e SPF, che possono r
 
 ## Server Marketo {#marketo-servers}
 
-I server di posta elettronica di Marketo non si integrano con [!DNL Sales Connect]. I server Marketo sono ottimizzati per la distribuzione in blocco, in modo da adattarli alle esigenze degli esperti di marketing. Tuttavia, Gmail e [!DNL Exchange] hanno un tasso di successo più alto per le comunicazioni di vendita 1:1, motivo per cui consigliamo di utilizzare questi server per le comunicazioni di vendita.
+I server di posta elettronica di Marketo non si integrano con [!DNL Sales Connect]. I server Marketo sono ottimizzati per la distribuzione in blocco, in modo da adattarli alle esigenze degli esperti di marketing. Tuttavia, Gmail e [!DNL Exchange] hanno un tasso di successo più elevato per le comunicazioni di vendita 1:1, motivo per cui consigliamo di utilizzare questi server per le comunicazioni di vendita.
 
 >[!MORELIKETHIS]
 >

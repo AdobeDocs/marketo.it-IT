@@ -4,16 +4,18 @@ description: Scopri come creare una campagna Sales Connect con e-mail, chiamate,
 title: Creare una campagna
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
+TQID: 'https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 3%
-
 ---
-
 # Creare una campagna {#create-a-campaign}
 
 Le campagne sono una serie di passaggi multicanale, tra cui e-mail, telefonate, InMail e attività personalizzate. Consentono di semplificare le comunicazioni con i clienti potenziali e quelli esistenti.
@@ -39,7 +41,7 @@ Quindi, come si imposta una campagna?
    >
    >Creare una nuova categoria facendo clic su **+** accanto a **[!UICONTROL Categories]**.
 
-1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL &#x200B; Continue]**.
+1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL  Continue]**.
 
    ![](assets/three-1.png)
 

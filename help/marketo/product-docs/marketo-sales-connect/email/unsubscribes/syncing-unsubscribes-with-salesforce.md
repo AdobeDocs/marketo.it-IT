@@ -4,16 +4,18 @@ description: Scopri come sincronizzare gli annullamenti degli abbonamenti a Sale
 title: Sincronizzazione degli annullamenti delle iscrizioni con Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+TQID: 'https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '407'
 ht-degree: 2%
-
 ---
-
 # Sincronizzazione degli annullamenti iscrizione con [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
 ## Requisiti per l&#39;annullamento dell&#39;abbonamento alla sincronizzazione con [!DNL Salesforce] {#requirements-for-unsubscribes-to-sync-to-salesforce}
@@ -28,7 +30,7 @@ Quando si raccoglie un annullamento dell&#39;iscrizione in [!DNL Sales Connect],
 
 **Sincronizzazione annullamento abbonamento**
 
-Dopo aver attivato la sincronizzazione per l’annullamento dell’abbonamento (passaggio 3 di seguito), verrà attivata la sincronizzazione notturna. La sincronizzazione viene eseguita una volta al giorno intorno alle 20.00 PST. :00Sincronizzerà in modo bidirezionale tutti gli annullamenti di abbonamenti in Marketo Sales con il campo Opt Out in Salesforce.
+Dopo aver attivato la sincronizzazione per l’annullamento dell’abbonamento (passaggio 3 di seguito), verrà attivata la sincronizzazione notturna. La sincronizzazione viene eseguita una volta al giorno intorno alle 20:00 PST. Sincronizzerà in modo bidirezionale tutti gli annullamenti di abbonamenti in Marketo Sales con il campo Opt Out in Salesforce.
 
 ## Configura sincronizzazione annullamento sottoscrizioni a [!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 

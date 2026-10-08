@@ -6,24 +6,33 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-TQID: https://experienceleague.adobe.com/opg2aUcpf3QCiu5TazxPMfihsp6DPrRtekX3RicGg-M
+TQID: 'https://experienceleague.adobe.com/opg2aUcpf3QCiu5TazxPMfihsp6DPrRtekX3RicGg-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 449
+source-wordcount: '449'
 ht-degree: 5%
-
 ---
-
 # Integrazione di GenStudio per Marketo Engage {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketing è un’applicazione IA-first generativa che consente di creare annunci ed e-mail personalizzati per promuovere campagne di marketing incisive e personalizzate che soddisfano i tuoi standard di marchio e i tuoi criteri aziendali. Offre una serie di strumenti che semplificano la complessità della creazione dei contenuti.
@@ -53,9 +62,9 @@ Esportare facilmente un modello contenente le linee guida del tuo marchio in Gen
 
    ![Esportazione di HTML](assets/genstudio-integration-1.png)
 
-1. [Carica il modello esportato di HTML](https://experienceleague.adobe.com/it/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} in GenStudio for Performance Marketing.
+1. [Carica il modello esportato di HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} in GenStudio for Performance Marketing.
 
-1. In GenStudio, utilizza questo modello per [creare diverse varianti di e-mail](https://experienceleague.adobe.com/it/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con prompt di IA e salvarle.
+1. In GenStudio, utilizza questo modello per [creare diverse varianti di e-mail](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con prompt di IA e salvarle.
 
 ## Sfruttare le esperienze GenStudio in Marketo Engage {#leverage-genstudio-experiences}
 

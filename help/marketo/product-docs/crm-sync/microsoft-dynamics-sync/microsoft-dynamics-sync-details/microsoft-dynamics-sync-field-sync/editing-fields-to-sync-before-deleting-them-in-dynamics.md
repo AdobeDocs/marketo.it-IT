@@ -3,16 +3,21 @@ description: Scopri come modificare i campi da sincronizzare in Marketo prima di
 title: Modifica dei campi da sincronizzare prima di eliminarli in Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
+TQID: 'https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 194
+source-wordcount: '194'
 ht-degree: 5%
-
 ---
-
 # Modifica dei campi da sincronizzare prima di eliminarli in [!DNL Dynamics] {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
 A volte può essere utile eliminare i campi in [!DNL Dynamics]. Marketo mantiene l’elenco dei campi come riferimento su cui basare la sincronizzazione. Se un campo viene eliminato in [!DNL Dynamics] mentre la sincronizzazione è attiva, potrebbero verificarsi errori di sincronizzazione. Prima di eliminare un campo, effettua le seguenti operazioni.

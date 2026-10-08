@@ -1,24 +1,27 @@
 ---
 description: Scopri come configurare una notifica push mobile. Imposta l’app, il testo del messaggio, le azioni di tocco, i collegamenti profondi e l’approvazione per l’invio.
-title: Configurare le notifiche push per dispositivi mobili
+title: Configurare notifica push su dispositivo mobile
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+TQID: 'https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 506
-ht-degree: 0%
-
+source-wordcount: '506'
+ht-degree: 2%
 ---
+# Configurare notifica push su dispositivo mobile {#configure-mobile-push-notification}
 
-# Configurare le notifiche push per dispositivi mobili {#configure-mobile-push-notification}
-
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
@@ -34,7 +37,7 @@ ht-degree: 0%
    >
    >Se il messaggio push si applica a una sola piattaforma (ad esempio, iOS), puoi escludere l&#39;altra piattaforma facendo scorrere manualmente il selettore su **Disabilitato**.
 
-1. Fare clic su **[!UICONTROL Next]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -68,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Fare clic su **[!UICONTROL Approve and Close]**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -88,7 +91,7 @@ Un URI di collegamento profondo è costituito da tre parti: nome dello schema, p
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Lo sviluppatore dispone di diverse opzioni per la definizione degli URI di collegamento profondo. Chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push puntano alle posizioni giuste. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Lo sviluppatore dispone di diverse opzioni per la definizione degli URI di collegamento profondo. Chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push puntano alle posizioni giuste. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 ## URI di reindirizzamento {#redirect-uris}
 

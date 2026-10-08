@@ -3,20 +3,23 @@ description: Scopri come impostare le visualizzazioni MSI in Microsoft Dynamics.
 title: Configurazione delle visualizzazioni MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0
+TQID: 'https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '252'
 ht-degree: 4%
-
 ---
-
 # Configurazione delle visualizzazioni MSI {#setting-up-msi-views}
 
 Installando il plug-in [!DNL Sales Insight] in Dynamics, vengono aggiunti automaticamente [!DNL Best Bets] e i dashboard correlati nella mappa del sito. Se per qualche motivo le dashboard non vengono aggiunte, ecco come aggiungerle manualmente.
@@ -38,27 +41,27 @@ Installando il plug-in [!DNL Sales Insight] in Dynamics, vengono aggiunti automa
 1. Fai clic su una dashboard per selezionarla. Nella colonna a destra, inserisci le rispettive informazioni di seguito per ciascuno di essi. Puoi ignorare tutte le categorie non elencate.
 
    **Elementi di maggiore rilevanza**</br>
-URL: MainviewBestbets.html</br>
-Icona: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-ID: marketo_bestbets</br>
-Title: Elementi di maggiore rilevanza
+   URL: MainviewBestbets.html</br>
+   Icona: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+   ID: marketo_bestbets</br>
+   Title: Elementi di maggiore rilevanza
 
    **E-mail personale**</br>
-URL: mkt_/MainViewMyEmail.html</br>
-Icona: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-ID: marketo_myemail</br>
-Titolo: E-mail
+   URL: mkt_/MainViewMyEmail.html</br>
+   Icona: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+   ID: marketo_myemail</br>
+   Titolo: E-mail
 
    **Attività Web**</br>
-URL: mkt_/MainViewWebActivity.html</br>
-Icona: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
-ID: marketo_webactivity</br>
-Titolo: Attività web
+   URL: mkt_/MainViewWebActivity.html</br>
+   Icona: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+   ID: marketo_webactivity</br>
+   Titolo: Attività web
 
    **Attività Web anonima**</br>
-URL: mkt_/MainViewWebActivity.html</br>
-Icona: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID: marketo_anonymous_webactivity</br>
-Titolo: Attività Web anonima
+   URL: mkt_/MainViewWebActivity.html</br>
+   Icona: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+   ID: marketo_anonymous_webactivity</br>
+   Titolo: Attività Web anonima
 
 1. Al termine, fai clic su **[!UICONTROL Save]**.
