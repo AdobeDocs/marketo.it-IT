@@ -26,5 +26,5 @@ Cinque pulsanti [!DNL Sales Connect] verranno aggiunti nella parte superiore del
 |---|---|
 | Pulsante **[!UICONTROL Live Feed]** | Apre il [!DNL Sales Connect] [Feed live](https://toutapp.com/next#live) in cui è possibile ottenere informazioni di tracciamento in tempo reale nelle e-mail. |
 | Pulsante **[!UICONTROL Tasks]** | Visualizza un elenco a discesa di tutte le attività. |
-| **[!UICONTROL Templates and Conversations]pulsanti** | Apre rispettivamente la pagina [!UICONTROL Templates] e la pagina [!UICONTROL Conversations] dell&#39;applicazione Web [1. ](https://toutapp.com/login)Tutto all’interno della pagina Gmail. |
+| **[!UICONTROL Templates and Conversations]pulsanti** | Apre rispettivamente la pagina [!UICONTROL Templates] e la pagina [!UICONTROL Conversations] dell&#39;applicazione Web [1. &#x200B;](https://toutapp.com/login)Tutto all’interno della pagina Gmail. |
 | Pulsante **[!UICONTROL Sales Gong]** | Ti consente di festeggiare le offerte chiuse/vinte con i tuoi compagni di squadra. |

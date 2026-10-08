@@ -51,7 +51,7 @@ Questo offre due opzioni:
 >
 >* **[!UICONTROL Deliver the following day in the recipient's time zone]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail il *mercoledì* alle 9:00.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail *in base alle impostazioni del fuso orario dell&#39;abbonamento*. Pertanto, se le impostazioni del fuso orario dell&#39;abbonamento [](/help/marketo/product-docs/administration/settings/change-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00 PDT (a prescindere dall&#39;ora nel proprio fuso orario).
+>* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail *in base alle impostazioni del fuso orario dell&#39;abbonamento*. Pertanto, se le impostazioni del fuso orario dell&#39;abbonamento [&#128279;](/help/marketo/product-docs/administration/settings/change-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00 PDT (a prescindere dall&#39;ora nel proprio fuso orario).
 
 >[!NOTE]
 >
