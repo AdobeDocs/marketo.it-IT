@@ -1,19 +1,24 @@
 ---
 unique-page-id: 6849029
 description: Scopri come aggiornare la soluzione Marketo per Microsoft Dynamics. Scarica la soluzione più recente da Admin e importala sulla versione esistente in Dynamics.
-title: Aggiorna la soluzione Marketo per  [!DNL Microsoft Dynamics]
+title: Aggiorna la soluzione Marketo per [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc
+TQID: 'https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 5%
-
 ---
-
 # Aggiorna la soluzione Marketo per [!DNL Microsoft Dynamics] {#update-the-marketo-solution-for-microsoft-dynamics}
 
 Quando viene rilasciata una nuova soluzione [!DNL Microsoft Dynamics], è possibile scaricare l&#39;aggiornamento dall&#39;area Amministratore del proprio account.

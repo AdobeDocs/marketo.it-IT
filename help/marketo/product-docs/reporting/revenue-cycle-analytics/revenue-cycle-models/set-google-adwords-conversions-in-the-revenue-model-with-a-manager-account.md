@@ -1,16 +1,22 @@
 ---
 unique-page-id: 7504923
-description: Scopri come impostare le conversioni di [ !dnl google adwords] nel modello dei ricavi con un account manager in Marketo Engage. Utilizza questa guida per completare il passaggio successivo.
+description: Scopri come impostare le conversioni di [ !dnl Google Adwords] nel modello dei ricavi con un account manager in Marketo Engage. Utilizza questa guida per completare il passaggio successivo.
 title: Imposta [!DNL Google AdWords] conversioni nel modello dei ricavi con un account Manager
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 1%
-
 ---
-
 # Imposta [!DNL Google AdWords] conversioni nel modello dei ricavi con un account Manager {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
 Collega l&#39;account [!DNL Google AdWords] a Marketo per caricare automaticamente i dati di conversione offline da Marketo a [!DNL Google AdWords]. Quindi, dall&#39;interfaccia utente di [!DNL AdWords], potrai vedere facilmente quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase dei ricavi desideri monitorare) dopo [aver aggiunto colonne personalizzate](https://support.google.com/adwords/answer/3073556) in [!DNL AdWords].

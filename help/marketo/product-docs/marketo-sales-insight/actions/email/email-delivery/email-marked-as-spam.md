@@ -1,13 +1,14 @@
 ---
 description: Ricevi assistenza quando le e-mail di vendita sono contrassegnate come spam. Scopri le cause e i passaggi per migliorare il recapito messaggi ed evitare i filtri anti-spam.
 title: E-mail contrassegnata come spam
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
-
 ---
-
 # E-mail contrassegnata come spam {#email-marked-as-spam}
 
 In qualità di azienda, ci impegniamo a fondo per garantire che i nostri tassi di consegna dei messaggi rimangano elevati. Tuttavia, alcuni comportamenti e impostazioni degli utenti possono attivare il routing delle e-mail inviate alla cartella di posta indesiderata.

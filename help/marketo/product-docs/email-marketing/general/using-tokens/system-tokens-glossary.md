@@ -4,16 +4,18 @@ description: Scopri i token di sistema disponibili nelle e-mail di Marketo. Util
 title: Glossario dei token di sistema
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+TQID: 'https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 229
+source-wordcount: '230'
 ht-degree: 2%
-
 ---
-
 # Glossario dei token di sistema {#system-tokens-glossary}
 
 Oltre ai token di persona, puoi utilizzare anche alcuni token di sistema molto interessanti. Eccoli.
@@ -35,7 +37,7 @@ Il token `{{system.date}}` riprodurrà la data corrente in fase di runtime come 
 
 ## system.time {#system-time}
 
-Il token `{{system.time}}` eseguirà il rendering dell&#39;ora corrente in fase di runtime come segue: **04:34 PM (GMT -0700)**
+Il token `{{system.time}}` eseguirà il rendering dell&#39;ora corrente in fase di runtime nel modo seguente: **04:34 PM (GMT -0700)**
 
 **Funziona in:**
 

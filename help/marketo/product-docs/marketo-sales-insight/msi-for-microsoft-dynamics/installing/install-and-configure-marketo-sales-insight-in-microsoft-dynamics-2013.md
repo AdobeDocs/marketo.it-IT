@@ -4,20 +4,23 @@ description: Scopri come installare e configurare Marketo Sales Insight in Micro
 title: Installare e configurare Marketo Sales Insight in Microsoft Dynamics 2013
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/SebmARDq2CFr9O239iRUunEFp2iViOFUQ7n7bMxrLm8
+TQID: 'https://experienceleague.adobe.com/SebmARDq2CFr9O239iRUunEFp2iViOFUQ7n7bMxrLm8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 365
+source-wordcount: '365'
 ht-degree: 5%
-
 ---
-
 # Installa e configura [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics 2013] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight] è uno strumento fantastico per offrire al tuo team di vendita una &quot;finestra&quot; sulla ricchezza di dati di cui dispone il team di marketing. Ecco come installarlo e configurarlo.

@@ -2,13 +2,17 @@
 description: Scopri in che modo i criteri di conservazione dei dati di 25 mesi e 90 giorni di Marketo influiscono sui rapporti di Analytics, con un raggruppamento per rapporto e suggerimenti per la conservazione dei dati più a lungo.
 title: Conservazione dei dati
 feature: Reporting
-source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
-
 ---
-
 # Criteri di conservazione dei dati sulle attività di Marketo - Impatto sul reporting
 
 Marketo conserva i dati dell’attività di marketing su base continua. I dati relativi all’attività e all’iscrizione alla campagna vengono memorizzati per un periodo continuo di 25 mesi oltre la data dell’attività e i dati relativi all’attività per un volume elevato vengono conservati per un periodo continuo di 90 giorni oltre la data dell’attività per impostazione predefinita, che può essere regolato per utente. Oltre questi periodi di conservazione, i dati non sono più disponibili tramite l’interfaccia utente di Marketo.

@@ -4,16 +4,18 @@ description: Scopri come rinnovare l’abbonamento a un contatto che ha annullat
 title: Re-iscrizione e annullamento dell’iscrizione
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4
+TQID: 'https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 202
+source-wordcount: '202'
 ht-degree: 2%
-
 ---
-
 # Risottoscrizione di un [!UICONTROL Unsubscribe] {#resubscribing-an-unsubscribe}
 
 A volte le persone vogliono rinunciare alla ricezione di e-mail. Ecco come rendere nuovamente inviabili gli annullamenti dell’abbonamento.

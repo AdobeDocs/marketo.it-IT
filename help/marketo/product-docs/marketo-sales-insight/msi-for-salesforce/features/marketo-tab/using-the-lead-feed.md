@@ -4,20 +4,23 @@ description: Scopri come utilizzare il feed di lead nella scheda Marketo in Sale
 title: Utilizzo dei feed di lead
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI
+TQID: 'https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 3%
-
 ---
-
 # Utilizzo dei feed di lead {#using-the-lead-feed}
 
 Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead. Si troverà sul lato destro quando si fa clic sulla scheda Marketo. È simile a un feed RSS o [!DNL Twitter]: gli aggiornamenti più recenti si trovano in cima all&#39;elenco. Usa questo per saltare sui lead mentre sei ancora fresco nella loro mente.
@@ -56,7 +59,7 @@ Quando viene visualizzato in [!DNL Salesforce], ogni elemento ha:
   </tr>
   <tr>
    <td><p>C. Nome del conto</p></td>
-   <td><p>Nome dell’azienda</p></td>
+   <td><p>Nome società</p></td>
   </tr>
   <tr>
    <td><p>D. Ora</p></td>

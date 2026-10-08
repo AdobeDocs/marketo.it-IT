@@ -3,18 +3,21 @@ description: Scopri gli elementi di maggiore rilevanza nella scheda Marketo di S
 title: Elementi di maggiore rilevanza
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/amPHkzlbFZeURm4ASjiIyLqpYtVNDMqMMnqbRwjJ-6w
+TQID: 'https://experienceleague.adobe.com/amPHkzlbFZeURm4ASjiIyLqpYtVNDMqMMnqbRwjJ-6w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 300
+source-wordcount: '300'
 ht-degree: 0%
-
 ---
-
 # [!DNL Best Bets] {#best-bets}
 
 La scheda [!DNL Best Bets] include un elenco di tutti gli hot lead in base alla loro priorità, calcolata utilizzando l&#39;urgenza e il punteggio relativo.

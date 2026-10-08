@@ -2,13 +2,20 @@
 description: Note sulla versione - Marzo 2026 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Marzo 2026
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
-
+source-wordcount: '533'
+ht-degree: 18%
 ---
-
 # Note sulla versione: marzo 2026 {#release-notes-mar-26}
 
 Qui sotto troverai tutte le funzioni incluse nella versione di marzo 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.

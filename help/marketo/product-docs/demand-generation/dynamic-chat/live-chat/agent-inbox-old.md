@@ -2,15 +2,22 @@
 description: Scopri la casella in entrata dell’agente in cui gli agenti chat live inseriscono le conversazioni nel campo. Visualizza le chat attive e passate, le informazioni visitatore e imposta lo stato di disponibilità.
 title: Casella in entrata agente
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 1%
-
 ---
-
 # Casella in entrata agente {#agent-inbox}
 
 Gli agenti inseriranno le chat live nella casella in entrata dell’agente. Oltre alle conversazioni attive, possono visualizzare le conversazioni passate, le informazioni sui visitatori e altro ancora.

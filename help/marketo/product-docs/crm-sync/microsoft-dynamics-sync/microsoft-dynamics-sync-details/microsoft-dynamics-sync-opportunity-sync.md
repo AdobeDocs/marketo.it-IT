@@ -4,16 +4,21 @@ description: Scopri come funziona la sincronizzazione delle opportunità da Micr
 title: Sincronizzazione Microsoft Dynamics - Sincronizzazione opportunità
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg
+TQID: 'https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 0%
-
 ---
-
 # Sincronizzazione [!DNL Microsoft Dynamics]: sincronizzazione opportunità {#microsoft-dynamics-sync-opportunity-sync}
 
 La sincronizzazione tra Marketo e [!DNL Dynamics] è potente. Di seguito sono riportati tutti i dettagli per la sincronizzazione delle opportunità:
@@ -36,8 +41,8 @@ Il contatto/account può essere associato all’opportunità in due modi:
 
 * Durante la creazione di un’opportunità, è possibile impostare Contatto (campo di ricerca nel modulo da contattare) e/o Account (campo di ricerca nel modulo da account). In entrambi i casi, questi valori vengono memorizzati nel campo Cliente potenziale (customerid) in Dynamics. Questo campo non viene visualizzato nel modulo dell’opportunità, ma può essere aggiunto dalle impostazioni. Questo campo può contenere solo 1 valore, contatto o account. Marketo esegue le operazioni seguenti:
 
-   * Se il valore del contatto è impostato e l&#39;account viene lasciato vuoto, Marketo crea un account `opportunitycontactrole` e imposta l&#39;account dell&#39;opportunità sull&#39;account del contatto. Se il contatto non dispone di un account, questo campo viene lasciato vuoto.
-   * Se il valore dell&#39;account è impostato e il contatto viene lasciato vuoto, Marketo imposterà l&#39;account solo sull&#39;opportunità.
-   * Se sono impostati entrambi i valori, Dynamics sceglie account come valore per customerid, in modo che il comportamento sia lo stesso di cui sopra.
+  * Se il valore del contatto è impostato e l&#39;account viene lasciato vuoto, Marketo crea un account `opportunitycontactrole` e imposta l&#39;account dell&#39;opportunità sull&#39;account del contatto. Se il contatto non dispone di un account, questo campo viene lasciato vuoto.
+  * Se il valore dell&#39;account è impostato e il contatto viene lasciato vuoto, Marketo imposterà l&#39;account solo sull&#39;opportunità.
+  * Se sono impostati entrambi i valori, Dynamics sceglie account come valore per customerid, in modo che il comportamento sia lo stesso di cui sopra.
 
 * Tramite parti interessate: Dynamics utilizza le connessioni per connettere l’opportunità di contattare le parti interessate dalla pagina di creazione dell’opportunità. Per questo, viene creato un record `opportunitycontactrole` per ogni nuovo stakeholder.

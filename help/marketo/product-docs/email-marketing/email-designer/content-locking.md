@@ -6,24 +6,33 @@ description: Scopri come bloccare il contenuto nei modelli e-mail in modo che al
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 849
+source-wordcount: '849'
 ht-degree: 8%
-
 ---
-
 # Bloccare il contenuto nei modelli e-mail {#lock-content-email-templates}
 
 Marketo Engage consente di bloccare il contenuto nei modelli e-mail, bloccando l’intero modello o strutture/componenti specifici. Questo consente di evitare modifiche o eliminazioni non intenzionali, garantendo un maggiore controllo sulla personalizzazione dei modelli e migliorando l’efficienza e l’affidabilità delle campagne e-mail.
@@ -36,15 +45,15 @@ Il blocco del contenuto può essere applicato al livello **struttura** o al live
 
 * Quando una struttura è bloccata:
 
-   * Anche tutto il contenuto all’interno di tale struttura è bloccato.
-   * Nessun contenuto può essere aggiunto alla struttura.
-   * Per impostazione predefinita, non è possibile eliminare la struttura. È possibile ignorare questa restrizione abilitando l’opzione &quot;Consenti eliminazione&quot;.
-   * I singoli componenti di contenuto all’interno della struttura bloccata possono essere impostati come modificabili.
+  * Anche tutto il contenuto all’interno di tale struttura è bloccato.
+  * Nessun contenuto può essere aggiunto alla struttura.
+  * Per impostazione predefinita, non è possibile eliminare la struttura. È possibile ignorare questa restrizione abilitando l’opzione &quot;Consenti eliminazione&quot;.
+  * I singoli componenti di contenuto all’interno della struttura bloccata possono essere impostati come modificabili.
 
 * Quando una struttura è modificabile (struttura non bloccata):
 
-   * I singoli componenti di contenuto possono essere bloccati all’interno di tale struttura.
-   * Per impostazione predefinita, non è possibile eliminare un componente se è bloccato o se è selezionato &quot;Solo blocco di contenuto modificabile&quot;. È possibile ignorare questa restrizione abilitando l’opzione &quot;Consenti eliminazione&quot;.
+  * I singoli componenti di contenuto possono essere bloccati all’interno di tale struttura.
+  * Per impostazione predefinita, non è possibile eliminare un componente se è bloccato o se è selezionato &quot;Solo blocco di contenuto modificabile&quot;. È possibile ignorare questa restrizione abilitando l’opzione &quot;Consenti eliminazione&quot;.
 
 ## Bloccare un modello e-mail {#lock-an-email-template}
 

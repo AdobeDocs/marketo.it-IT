@@ -4,20 +4,23 @@ description: Scopri come avviare/mettere in pausa una campagna web in Marketo En
 title: Avviare/sospendere una campagna web
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/2aoTXa5-MW2w0OxaB3cX7WZ-skSb1sf-Yy0s5q44E8w
+TQID: 'https://experienceleague.adobe.com/2aoTXa5-MW2w0OxaB3cX7WZ-skSb1sf-Yy0s5q44E8w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 7%
-
 ---
-
 # Avviare/sospendere una campagna web {#launch-pause-a-web-campaign}
 
 Una campagna Web è una reazione personalizzata associata a un segmento specifico e può essere una [finestra di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sul sito Web, una [sostituzione zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una funzionalità widget o un avviso e-mail.

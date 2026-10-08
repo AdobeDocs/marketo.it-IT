@@ -1,21 +1,24 @@
 ---
 unique-page-id: 11377640
 description: Scopri come autorizzare il plug-in di Marketo Outlook. Completa OAuth in modo che gli utenti possano inviare e tenere traccia delle e-mail da Outlook.
-title: 'Autorizza il plug-in di Marketo [!DNL Outlook] '
+title: Autorizza il plug-in di Marketo [!DNL Outlook]
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE
+TQID: 'https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 210
+source-wordcount: '211'
 ht-degree: 0%
-
 ---
-
 # Autorizza il plug-in di Marketo [!DNL Outlook] {#authorize-the-marketo-outlook-plugin}
 
 Per utilizzare il plug-in MSI di Marketo in [!DNL Outlook], è necessario autorizzarlo.

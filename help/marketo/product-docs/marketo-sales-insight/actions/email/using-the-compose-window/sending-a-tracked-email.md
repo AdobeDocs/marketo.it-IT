@@ -2,14 +2,15 @@
 description: Scopri come inviare un’e-mail di vendita tracciata in modo da poter visualizzare visualizzazioni, clic e risposte. Utilizza un canale di consegna e tieni traccia di dal centro comandi.
 title: Invio di un’e-mail tracciata
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 3%
-
 ---
-
 # Invio di un’e-mail tracciata {#sending-a-tracked-email}
 
 Quando si invia un’e-mail con Marketo Sales Connect, vengono tracciate le visualizzazioni (apertura e-mail) e i clic (collegamenti selezionati).

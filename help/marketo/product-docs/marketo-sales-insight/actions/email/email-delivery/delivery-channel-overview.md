@@ -3,16 +3,18 @@ description: Scopri i canali di consegna per l’invio di e-mail di vendita in A
 title: Panoramica del canale di consegna
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE
+TQID: 'https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
+source-wordcount: '679'
 ht-degree: 0%
-
 ---
-
 # Panoramica del canale di consegna {#delivery-channel-overview}
 
 Marketo Sales offre diverse opzioni per la consegna delle e-mail. Questo articolo analizza i canali di consegna che puoi sfruttare, come selezionarli e quando sceglierne uno rispetto all’altro.
@@ -57,7 +59,7 @@ I server MSC non supportano i metodi di autenticazione DKIM e SPF, che possono r
 
 ## Server Marketo {#marketo-servers}
 
-I server di posta elettronica Marketo non si integrano con Marketo Sales. I server Marketo sono ottimizzati per la distribuzione in blocco, in modo da adattarli alle esigenze degli esperti di marketing. Tuttavia, Gmail e [!DNL Exchange] hanno un tasso di successo più alto per le comunicazioni di vendita 1:1, motivo per cui consigliamo di utilizzare questi server per le comunicazioni di vendita.
+I server di posta elettronica Marketo non si integrano con Marketo Sales. I server Marketo sono ottimizzati per la distribuzione in blocco, in modo da adattarli alle esigenze degli esperti di marketing. Tuttavia, Gmail e [!DNL Exchange] hanno un tasso di successo più elevato per le comunicazioni di vendita 1:1, motivo per cui consigliamo di utilizzare questi server per le comunicazioni di vendita.
 
 >[!MORELIKETHIS]
 >

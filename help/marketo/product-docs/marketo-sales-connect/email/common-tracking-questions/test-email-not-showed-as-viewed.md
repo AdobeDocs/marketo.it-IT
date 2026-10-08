@@ -4,16 +4,18 @@ description: Ricevi assistenza quando un’e-mail di test non risultava visualiz
 title: E-mail di test non visualizzata nel modo in cui viene vista
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE
+TQID: 'https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 7%
-
 ---
-
 # E-mail di test non visualizzata nel modo in cui viene vista {#test-email-not-showed-as-viewed}
 
 Anche se hai inviato il messaggio a un altro indirizzo e-mail, non ti registreremo visualizzando le e-mail che ti sei inviato nel feed live. Il tracciamento è basato su dispositivi; finché utilizzi un computer con cui hai effettuato l&#39;accesso a [!DNL Sales Connect], questa attività verrà filtrata.

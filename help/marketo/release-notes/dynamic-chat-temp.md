@@ -4,16 +4,25 @@ title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+TQID: 'https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 66%
-
 ---
-
 # Note sulla versione di Dynamic Chat {#dynamic-chat-release}
 
 Le versioni di Adobe Dynamic Chat funzionano su un modello di consegna continua che consente un approccio più scalabile all’implementazione delle funzioni. A volte ci sono più versioni in un mese, quindi controlla regolarmente per avere informazioni sempre aggiornate.
@@ -30,11 +39,11 @@ La logica di indirizzamento della chat in tempo reale in Dynamic Chat è stata r
 
 * **Fino a due tentativi di coinvolgimento per sessione**
 
-   * Il sistema tenta di connettersi con un massimo di due agenti, ma rigorosamente all’interno della regola di routing principale.
+  * Il sistema tenta di connettersi con un massimo di due agenti, ma rigorosamente all’interno della regola di routing principale.
 
-   * Se un agente è disponibile ma non risponde (ad esempio, rifiuta o salta la chat), il sistema tenta di connettersi a un altro agente dello stesso pool.
+  * Se un agente è disponibile ma non risponde (ad esempio, rifiuta o salta la chat), il sistema tenta di connettersi a un altro agente dello stesso pool.
 
-   * La logica di fallback (come Round Robin) viene attivata solo se non vengono trovati agenti idonei durante la risoluzione iniziale, per non riprovare dopo un coinvolgimento fallito.
+  * La logica di fallback (come Round Robin) viene attivata solo se non vengono trovati agenti idonei durante la risoluzione iniziale, per non riprovare dopo un coinvolgimento fallito.
 
 * **Comportamento specifico della regola di indirizzamento**
 
@@ -95,9 +104,9 @@ Sono state valutate le regole di indirizzamento a livello di scheda (Personalizz
 
 * Se non viene completato alcun coinvolgimento, viene applicata la logica di fallback:
 
-   * Fallback del calendario (se attivato),
--oppure-
-   * Messaggio predefinito.
+  * Fallback del calendario (se attivato),
+    -oppure-
+  * Messaggio predefinito.
 
 Il fallback Round Robin viene considerato solo quando non vengono trovati agenti idonei dalla regola di indirizzamento principale, non quando i singoli agenti non rispondono.
 

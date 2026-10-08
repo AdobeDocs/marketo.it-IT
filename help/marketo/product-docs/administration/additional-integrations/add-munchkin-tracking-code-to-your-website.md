@@ -1,25 +1,30 @@
 ---
 unique-page-id: 2360354
-description: Aggiungi Marketo [!DNL Munchkin] JavaScript al tuo sito per tenere traccia delle visite e abilitare le campagne basate sul Web.
-title: Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web
+description: Aggiungere Marketo [!DNL Munchkin] JavaScript al sito per tenere traccia delle visite e abilitare le campagne basate sul Web.
+title: Aggiungi il codice di tracciamento [!DNL Munchkin] al tuo sito Web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
+TQID: 'https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 652
+source-wordcount: '654'
 ht-degree: 5%
-
 ---
-
 # Aggiungi il codice di tracciamento [!DNL Munchkin] al tuo sito Web {#add-munchkin-tracking-code-to-your-website}
 
 Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Munchkin], tiene traccia di tutti gli utenti che visitano il tuo sito Web in modo che tu possa reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati insieme ai loro indirizzi IP e altre informazioni. **Senza questo codice di tracciamento, non potrai tenere traccia di visite o altre attività sul tuo sito Web**.
@@ -32,7 +37,7 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL
 
 >[!NOTE]
 >
->Gli utenti di Adobe Experience Cloud possono inoltre utilizzare l&#39;integrazione di [Marketo in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} per includere lo script [!DNL Munchkin] nelle proprie pagine Web. Se si utilizza Adobe Launch, _lo script [!DNL Munchkin] viene aggiunto automaticamente_, pertanto non è necessario aggiungerlo manualmente.
+>Gli utenti di Adobe Experience Cloud possono inoltre utilizzare l&#39;integrazione [Marketo in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} per includere lo script [!DNL Munchkin] nelle proprie pagine Web. Se si utilizza Adobe Launch, _lo script [!DNL Munchkin] viene aggiunto automaticamente_, pertanto non è necessario aggiungerlo manualmente.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

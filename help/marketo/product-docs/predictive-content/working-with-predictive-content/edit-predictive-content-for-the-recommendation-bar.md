@@ -4,20 +4,23 @@ description: Scopri come abilitare i contenuti predittivi approvati per la barra
 title: Modificare i contenuti predittivi per la barra dei consigli
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/6hFpQPQm5uhrBPIJiEnCkQ1ngTKU1PyHKTCRpI60TW8
+TQID: 'https://experienceleague.adobe.com/6hFpQPQm5uhrBPIJiEnCkQ1ngTKU1PyHKTCRpI60TW8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: '73'
 ht-degree: 21%
-
 ---
-
 # Modificare i contenuti predittivi per la barra dei consigli {#edit-predictive-content-for-the-recommendation-bar}
 
 Per impostare il contenuto predittivo per la barra dei consigli, procedere come segue.

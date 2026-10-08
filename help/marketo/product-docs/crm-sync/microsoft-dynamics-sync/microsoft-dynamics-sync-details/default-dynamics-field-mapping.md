@@ -3,16 +3,21 @@ description: Scopri la mappatura dei campi predefinita di Microsoft Dynamics tra
 title: Mappatura del campo Dynamics predefinito
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+TQID: 'https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: '348'
 ht-degree: 5%
-
 ---
-
 # Mappatura del campo Dynamics predefinito {#default-dynamics-field-mapping}
 
 Quando sincronizzi inizialmente l’account Marketo Engage con Microsoft, Marketo crea automaticamente queste associazioni tra i campi Dynamics e Marketo incorporati.  Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
@@ -583,7 +588,7 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>[!UICONTROL Company]</td>
       <td>[!UICONTROL Account Name]</td>
-      <td>nome</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>[!UICONTROL Num Employees]</td>
@@ -648,7 +653,7 @@ I campi Account riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>[!UICONTROL Name]</td>
       <td>[!UICONTROL Topic]</td>
-      <td>nome</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>[!UICONTROL Estimated Value]</td>

@@ -3,18 +3,20 @@ description: Scopri la scheda Analytics e i dati di coinvolgimento delle e-mail 
 title: Panoramica della pagina di analisi
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0
+TQID: 'https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 392
+source-wordcount: '392'
 ht-degree: 1%
-
 ---
-
 # Panoramica della pagina di analisi {#analytics-page-overview}
 
 Nella scheda Analytics vengono visualizzati i dati relativi al coinvolgimento delle e-mail. Vengono visualizzati sia i dati individuali che quelli del team. Gli amministratori possono anche filtrare in base all&#39;utente nella scheda [!UICONTROL Me].

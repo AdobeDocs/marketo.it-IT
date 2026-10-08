@@ -4,16 +4,21 @@ description: Scopri come aggiungere campi Marketo a Salesforce Enterprise o Unli
 title: 'Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Enterprise/Unlimited)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+TQID: 'https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 726
+source-wordcount: '726'
 ht-degree: 8%
-
 ---
-
 # Passaggio 1 di 3: aggiunta di campi Marketo a [!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -119,8 +124,8 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    * Deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo dell&#39;utente di sincronizzazione:
 
-      * Se come utente di sincronizzazione è presente un utente con il profilo di _Amministratore di sistema_, deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo Amministratore di sistema (come illustrato di seguito)
-      * Se hai creato un _profilo personalizzato_ per l&#39;utente di sincronizzazione, deseleziona la casella di controllo **[!UICONTROL Read-Only]** per tale profilo personalizzato
+     * Se come utente di sincronizzazione è presente un utente con il profilo di _Amministratore di sistema_, deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo Amministratore di sistema (come illustrato di seguito)
+     * Se hai creato un _profilo personalizzato_ per l&#39;utente di sincronizzazione, deseleziona la casella di controllo **[!UICONTROL Read-Only]** per tale profilo personalizzato
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

@@ -4,16 +4,18 @@ description: Scopri come aggiungere un allegato o un contenuto tracciabile all�
 title: Aggiungere un allegato o un contenuto tracciabile all’e-mail
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50
+TQID: 'https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 292
+source-wordcount: '292'
 ht-degree: 6%
-
 ---
-
 # Aggiungere un allegato o un contenuto tracciabile all’e-mail {#add-an-attachment-or-trackable-content-to-your-email}
 
 Quando si invia un&#39;e-mail tramite [!DNL Sales Connect], è possibile aggiungere un file come allegato o rendere un file un collegamento scaricabile (e tracciabile).

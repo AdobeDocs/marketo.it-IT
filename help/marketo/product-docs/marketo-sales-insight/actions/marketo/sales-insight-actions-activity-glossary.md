@@ -3,18 +3,20 @@ description: Scopri i tipi di attività e i termini relativi alle azioni di Insi
 title: Glossario delle attività delle azioni di Sales Insight
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+TQID: 'https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 6%
-
 ---
-
 # Glossario attività [!DNL Sales Insight Actions] {#sales-insight-actions-activity-glossary}
 
 In [!DNL Sales Insight Actions], quando un venditore: aggiunge un lead a una campagna di vendita, invia un&#39;e-mail di vendita o effettua una chiamata di vendita in uscita, verrà registrato nella cronologia delle attività di Marketo per tale lead. Inoltre, quando il lead si impegna con e-mail, si apre, fa clic e risponde, viene registrato anche.

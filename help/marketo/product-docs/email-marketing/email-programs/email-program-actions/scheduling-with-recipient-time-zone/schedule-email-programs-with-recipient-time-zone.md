@@ -1,25 +1,32 @@
 ---
 unique-page-id: 12982903
 description: Scopri come pianificare i programmi e-mail con il fuso orario del destinatario. Imposta la consegna per entro 25 ore o dopo e scegli il comportamento del fuso orario.
-title: Pianificazione dei programmi e-mail con fuso orario del destinatario
+title: Pianificare i programmi e-mail con fuso orario del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo
+TQID: 'https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 807
-ht-degree: 0%
-
+source-wordcount: '823'
+ht-degree: 1%
 ---
-
-# Pianificazione dei programmi e-mail con fuso orario del destinatario {#schedule-email-programs-with-recipient-time-zone}
+# Pianificare i programmi e-mail con fuso orario del destinatario {#schedule-email-programs-with-recipient-time-zone}
 
 Esistono due possibili scenari quando si pianifica un programma e-mail mentre il fuso orario del destinatario è abilitato:
 
@@ -42,15 +49,15 @@ Questo offre due opzioni:
 >
 >**Definizione**
 >
->* **[!UICONTROL Deliver the following day in the recipient's time zone]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail il *mercoledì* alle 9:00am.
+>* **[!UICONTROL Deliver the following day in the recipient's time zone]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail il *mercoledì* alle 9:00.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail *in base alle impostazioni del fuso orario dell&#39;abbonamento*. Pertanto, se le [impostazioni del fuso orario dell&#39;abbonamento](/help/marketo/product-docs/administration/settings/change-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00am PDT (qualsiasi ora si trovi nel proprio fuso orario).
+>* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail *in base alle impostazioni del fuso orario dell&#39;abbonamento*. Pertanto, se le impostazioni del fuso orario dell&#39;abbonamento [&#128279;](/help/marketo/product-docs/administration/settings/change-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00 PDT (a prescindere dall&#39;ora nel proprio fuso orario).
 
 >[!NOTE]
 >
 >[Ulteriori informazioni](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) su come Marketo calcola i fusi orari per i destinatari.
 
-Consideriamo questo scenario più in dettaglio. Se sei a San Francisco, pianifica un&#39;e-mail alle 7:00am per un invio di **9:00am**. Nell’elenco avanzato sono presenti persone provenienti dalle seguenti aree geografiche:
+Consideriamo questo scenario più in dettaglio. Supponiamo che tu sia a San Francisco e pianifichi un&#39;e-mail alle 7:00 per un invio di **9:00**. Nell’elenco avanzato sono presenti persone provenienti dalle seguenti aree geografiche:
 
 * San Francisco
 * Texas
@@ -59,11 +66,11 @@ Consideriamo questo scenario più in dettaglio. Se sei a San Francisco, pianific
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00am è già passato a New York e in Italia, pertanto le persone qualificate in questi due fusi orari riceveranno l&#39;e-mail in base alle **Impostazioni fuso orario**:
+Le 9.00 sono già trascorse a New York e in Italia, pertanto le persone qualificate in questi due fusi orari riceveranno l&#39;e-mail in base alle **impostazioni del fuso orario**:
 
-* **[!UICONTROL Deliver the following day in the recipient's time zone]:** Mercoledì alle 9:00am nei rispettivi fusi orari, **OR**
+* **[!UICONTROL Deliver the following day in the recipient's time zone]:** Mercoledì alle 9 nei rispettivi fusi orari, **OR**
 
-* **[!UICONTROL Deliver using the program's default set time]**: martedì alle 9:00am PDT (New York - 12:00pm EDT e Italia - 6:00pm CET).
+* **[!UICONTROL Deliver using the program's default set time]**: martedì alle 9:00 PDT (New York - 12:00 EDT e Italia - 18:00 CET).
 
 Una volta approvato il programma, quest’ultimo inizia a essere eseguito entro 15 minuti.
 
@@ -75,7 +82,7 @@ Una volta approvato il programma, quest’ultimo inizia a essere eseguito entro 
 
 ## Scenario 2: più di 25 ore {#scenario-more-than-hours}
 
-In questo secondo scenario, si approva un programma e-mail con **[!UICONTROL Recipient Time Zone]** abilitato e un tempo di consegna pianificato superiore a 25 ore nel futuro. In questo caso, il programma inizia a essere eseguito all&#39;ora pianificata nel fuso orario **meno recente** (UTC + 14:00). Potrebbero esserci persone che si qualificano per il tuo elenco avanzato in ogni fuso orario in tutto il mondo, quindi a partire dal fuso orario più prossimo ci consente di recapitare l’e-mail alla data/ora pianificata a tutti i destinatari nei loro rispettivi fusi orari.
+In questo secondo scenario, si approva un programma e-mail con **[!UICONTROL Recipient Time Zone]** abilitato e un tempo di consegna pianificato superiore a 25 ore nel futuro. In questo caso, il programma inizia a essere eseguito all&#39;ora pianificata nel **fuso orario più recente** del mondo (UTC + 14:00). Potrebbero esserci persone che si qualificano per il tuo elenco avanzato in ogni fuso orario in tutto il mondo, quindi a partire dal fuso orario più prossimo ci consente di recapitare l’e-mail alla data/ora pianificata a tutti i destinatari nei loro rispettivi fusi orari.
 
 **Inizio intestazione**
 
@@ -91,7 +98,7 @@ In breve, i programmi e-mail pianificati con il fuso orario del destinatario dev
 
 * **con un tempo di consegna *entro* 25 ore**, il programma inizia a funzionare entro 15 minuti. I destinatari che hanno già superato l’ora pianificata ricevono l’e-mail in base alle impostazioni del fuso orario scelte.
 * **con un tempo di consegna *superiore a* 25 ore nel futuro**, il programma inizia a essere eseguito all&#39;ora pianificata nel fuso orario più vicino (UTC +14:00).
-* **con Inizio principale**, il programma inizia l&#39;elaborazione 12 ore prima dell&#39;ora pianificata nel fuso orario meno recente (UTC +14:00).
+* **con Inizio principale**, l&#39;elaborazione del programma inizia 12 ore prima dell&#39;ora pianificata nel fuso orario meno recente (UTC +14:00).
 
 >[!CAUTION]
 >

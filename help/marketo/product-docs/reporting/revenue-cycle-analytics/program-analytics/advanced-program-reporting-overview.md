@@ -4,13 +4,19 @@ description: Scopri la panoramica avanzata sul reporting dei programmi in Market
 title: Panoramica rapporti avanzati sui programmi
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 2%
-
 ---
-
 # Panoramica rapporti avanzati sui programmi {#advanced-program-reporting-overview}
 
 **Revenue Cycle Explorer** include diverse aree di analisi e un&#39;ampia gamma di nuove metriche che consentono di misurare l&#39;efficacia del programma.

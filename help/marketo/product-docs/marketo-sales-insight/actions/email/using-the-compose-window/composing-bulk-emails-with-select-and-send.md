@@ -4,18 +4,20 @@ title: Composizione di e-mail in blocco con Seleziona e invia
 hide: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/-j4w8QfiiQ813G95QHr8MnrBzRRbgOa9K04I2HBaX58
+TQID: 'https://experienceleague.adobe.com/-j4w8QfiiQ813G95QHr8MnrBzRRbgOa9K04I2HBaX58'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 400
+source-wordcount: '400'
 ht-degree: 3%
-
 ---
-
 # Composizione di e-mail in blocco con Seleziona e invia {#composing-bulk-emails-with-select-and-send}
 
 Ecco come inviare/modificare le e-mail utilizzando le opzioni [!UICONTROL Select] e [!UICONTROL Send].

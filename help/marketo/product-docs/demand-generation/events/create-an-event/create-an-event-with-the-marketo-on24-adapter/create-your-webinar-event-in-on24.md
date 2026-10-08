@@ -4,16 +4,18 @@ description: Scopri come creare l’evento del webinar in ON24 per l’utilizzo 
 title: Creare un evento webinar in ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-TQID: https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0
+TQID: 'https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 6%
-
 ---
-
 # Creare un evento webinar in ON24 {#create-your-webinar-event-in-on}
 
 Dopo aver creato il webinar in ON24, puoi creare un evento Marketo e associarlo a quello di ON24. Questo consente ai sistemi di condividere le informazioni sulla registrazione e sulla partecipazione. Prendere nota dell&#39;URL e di altre informazioni da utilizzare nell&#39;e-mail di conferma e nel file ICS.

@@ -4,16 +4,18 @@ description: Scopri come abilitare l’individuazione dei contenuti in modo che 
 title: Abilitare individuazione dei contenuti
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+TQID: 'https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 4%
-
 ---
-
 # Abilitare individuazione dei contenuti {#enable-content-discovery}
 
 La funzione di individuazione dei contenuti individua e assegna tag automaticamente ai contenuti già esistenti (inclusi casi di studio, post di blog, video, comunicati stampa e così via). dal tuo sito web e tiene traccia del numero di visualizzazioni su questi materiali.  Il contenuto predittivo utilizza il contenuto scoperto, impiegando analisi predittive per determinare quale sia il contenuto con le prestazioni migliori e consiglia il contenuto migliore alla persona giusta.

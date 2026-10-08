@@ -1,18 +1,23 @@
 ---
 description: Scopri la mappatura predefinita del campo Veeva tra Veeva CRM e Marketo Engage. Scopri come mappare i campi contatto e account e quali campi personalizzati sincronizzare.
-title: Mappatura campi  [!DNL Veeva]  predefinita
+title: Mappatura campo [!DNL Veeva] predefinita
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+TQID: 'https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '273'
 ht-degree: 37%
-
 ---
-
 # Mappatura campo [!DNL Veeva] predefinita {#default-veeva-field-mapping}
 
 Quando inizialmente sincronizzi l&#39;account Marketo Engage con [!DNL Veeva], Marketo crea automaticamente queste associazioni tra i campi predefiniti di [!DNL Veeva] e Marketo. Marketo sincronizzerà inoltre i campi personalizzati sugli account e sui contatti.
@@ -153,7 +158,7 @@ Quando inizialmente sincronizzi l&#39;account Marketo Engage con [!DNL Veeva], M
       <td>Indirizzo di fatturazione</td>
     </tr>
     <tr>
-      <td>Descrizione account</td>
+      <td>Descrizione dell’account</td>
       <td>Note società</td>
     </tr>
     <tr>

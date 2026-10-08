@@ -4,20 +4,23 @@ description: Scopri come aggiungere un lead o un contatto a una campagna Marketo
 title: Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8
+TQID: 'https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: '137'
 ht-degree: 9%
-
 ---
-
 # Aggiungere un lead/contatto a una campagna Marketo da [!DNL Microsoft Dynamics] {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
 Puoi aggiungere lead/contatti alle campagne intelligenti di Marketo in modo rapido e semplice direttamente da [!DNL Microsoft Dynamics]. Ecco come.

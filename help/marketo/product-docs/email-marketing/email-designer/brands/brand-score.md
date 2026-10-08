@@ -7,13 +7,28 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 3%
-
+source-wordcount: '527'
+ht-degree: 4%
 ---
-
 # Punteggio marchio {#brand-score}
 
 La revisione del punteggio del tuo marchio garantisce coerenza in termini di tono, messaggi e identità visiva in tutte le campagne e-mail e funge da controllo di qualità prima che il contenuto venga reso disponibile.
@@ -47,15 +62,15 @@ Dopo aver [configurato e pubblicato](/help/marketo/product-docs/email-marketing/
 1. Seleziona una linea guida segnalata per visualizzare feedback e suggerimenti specifici. L’allineamento del brand valuta le seguenti categorie:
 
    * **[!UICONTROL Writing style]**:
-      * **[!UICONTROL Brand communication style]**: definisce la personalità e il tono emotivo per garantire la coerenza della voce del brand su tutti i canali.
-      * **[!UICONTROL Brand messaging standards]**: Regole strutturali e di formattazione per un efficace testo di marketing e promozionale.
-      * **[!UICONTROL Legal compliance standards]**: garantisce che tutte le comunicazioni siano conformi ai requisiti legali, inclusi il posizionamento del testo e le liste di controllo di conformità.
+     * **[!UICONTROL Brand communication style]**: definisce la personalità e il tono emotivo per garantire la coerenza della voce del brand su tutti i canali.
+     * **[!UICONTROL Brand messaging standards]**: Regole strutturali e di formattazione per un efficace testo di marketing e promozionale.
+     * **[!UICONTROL Legal compliance standards]**: garantisce che tutte le comunicazioni siano conformi ai requisiti legali, inclusi il posizionamento del testo e le liste di controllo di conformità.
 
    * **[!UICONTROL Visual content]**:
-      * **[!UICONTROL Photography standards]**: requisiti per il contenuto fotografico, inclusi risoluzione, composizione, illuminazione e formati di file.
-      * **[!UICONTROL Illustration standards]**: parametri di stile, spessore delle linee, utilizzo dei colori e requisiti di formato del file per le illustrazioni.
-      * **[!UICONTROL Icon standards]**: specifiche per la progettazione delle icone, inclusi i sistemi griglia, lo spessore della traccia e il dimensionamento per l&#39;uniformità.
-      * **[!UICONTROL Usage guidelines]**: best practice per la selezione, il posizionamento e il contesto delle immagini per mantenere l&#39;identità del brand.
+     * **[!UICONTROL Photography standards]**: requisiti per il contenuto fotografico, inclusi risoluzione, composizione, illuminazione e formati di file.
+     * **[!UICONTROL Illustration standards]**: parametri di stile, spessore delle linee, utilizzo dei colori e requisiti di formato del file per le illustrazioni.
+     * **[!UICONTROL Icon standards]**: specifiche per la progettazione delle icone, inclusi i sistemi griglia, lo spessore della traccia e il dimensionamento per l&#39;uniformità.
+     * **[!UICONTROL Usage guidelines]**: best practice per la selezione, il posizionamento e il contesto delle immagini per mantenere l&#39;identità del brand.
 
    ![](assets/brand-score-4.png){width="800" zoomable="yes"}
 

@@ -3,16 +3,18 @@ description: Scopri le chiamate internazionali in Azioni Sales Insight. Effettua
 title: Chiamate internazionali
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4
+TQID: 'https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 23%
-
 ---
-
 # Chiamate internazionali {#international-calling}
 
 Sales Dialer facilita la comunicazione internazionale. Per i clienti che chiamano dall’interno degli Stati Uniti, è possibile utilizzare Connessione commerciale per le chiamate in uscita verso paesi internazionali. Per i clienti al di fuori degli Stati Uniti, supportiamo le chiamate provenienti da paesi internazionali.

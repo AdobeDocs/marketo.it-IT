@@ -4,18 +4,23 @@ description: Scopri come clonare un gruppo di test di pagina di destinazione in 
 title: Clonazione di un gruppo di test di una pagina di destinazione
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/oPgQ0I0RJTGzy-9ae4iwTnBvAs0cEGSsO6fRz09-p-s
+TQID: 'https://experienceleague.adobe.com/oPgQ0I0RJTGzy-9ae4iwTnBvAs0cEGSsO6fRz09-p-s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 7%
-
 ---
-
 # Clonazione di un gruppo di test di una pagina di destinazione {#cloning-a-landing-page-test-group}
 
 Da [!UICONTROL Design Studio], puoi trovare e duplicare un gruppo di test di una pagina di destinazione.

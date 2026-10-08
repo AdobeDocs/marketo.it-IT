@@ -4,16 +4,18 @@ description: Scopri come utilizzare le azioni in blocco in Salesforce Lightning 
 title: Utilizzo di azioni in blocco in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 385
+source-wordcount: '385'
 ht-degree: 1%
-
 ---
-
 # Utilizzo di azioni in blocco in [!DNL Salesforce Lightning] {#using-bulk-actions-in-salesforce-lightning}
 
 Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna, l’invio di un’e-mail in blocco o il push di lead da [!DNL Salesforce] a [!DNL Sales Connect].
@@ -46,9 +48,9 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
    a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;Tutte le ricevute&quot;. Corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead
-b. Questo elenco è visibile nel pannello a sinistra denominato &quot;Composizione in blocco&quot;. Qui puoi aggiungere/rimuovere i destinatari
-c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato
-d. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
+   b. Questo elenco è visibile nel pannello a sinistra denominato &quot;Composizione in blocco&quot;. Qui puoi aggiungere/rimuovere i destinatari
+   c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato
+   d. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
 
    ![](assets/three-5.png)
 

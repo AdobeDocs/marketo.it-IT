@@ -4,13 +4,19 @@ description: Scopri come creare gruppi di campi personalizzati utilizzando l’o
 title: Creare gruppi di campi personalizzati utilizzando l’Organizzatore di campi
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 4%
-
 ---
-
 # Creare gruppi di campi personalizzati utilizzando l’Organizzatore di campi {#create-custom-field-groups-using-the-field-organizer}
 
 Prima di poter abilitare i gruppi di campi personalizzati per la generazione di rapporti nell&#39;area Analisi delle prestazioni del modello (lead) di Gestione ciclo ricavi, è necessario categorizzare i campi standard o personalizzati in gruppi per la generazione di rapporti tramite l&#39;Organizer campi in Gestione lead di Marketo. Questo vale solo per gli attributi del lead e della società.

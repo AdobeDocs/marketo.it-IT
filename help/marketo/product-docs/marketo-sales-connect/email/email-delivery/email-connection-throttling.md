@@ -3,19 +3,21 @@ description: Scopri la limitazione della connessione e-mail in Sales Connect. Sc
 title: Limitazione della connessione e-mail
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+TQID: 'https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
-ht-degree: 0%
-
+source-wordcount: '406'
+ht-degree: 2%
 ---
-
 # Limitazione della connessione e-mail {#email-connection-throttling}
 
-L&#39;integrazione dell&#39;account [!DNL Sales Connect] per l&#39;invio tramite i provider di posta elettronica [!DNL Exchange] o Gmail semplifica la configurazione e ottimizza il recapito dei messaggi di posta elettronica per le comunicazioni di vendita 1:1. Tuttavia, per mantenere i sistemi sani e gli account sicuri, Gmail ed Exchange impongono limiti di invio delle e-mail. Tali limiti possono essere aumentati o diminuiti a discrezione dei fornitori.
+L&#39;integrazione dell&#39;account [!DNL Sales Connect] per l&#39;invio tramite i provider di posta elettronica di [!DNL Exchange] o Gmail offre una configurazione semplificata e ottimizza il recapito dei messaggi di posta elettronica per le comunicazioni di vendita 1:1. Tuttavia, per mantenere i sistemi sani e gli account sicuri, Gmail ed Exchange impongono limiti di invio delle e-mail. Tali limiti possono essere aumentati o diminuiti a discrezione dei fornitori.
 
 ## Panoramica {#overview}
 
@@ -36,7 +38,7 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Fare clic su **[!UICONTROL General]**.
+1. Fai clic su **[!UICONTROL General]**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -48,7 +50,7 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Fare clic su **[!UICONTROL Save]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/email-connection-throttling-5.png)
 

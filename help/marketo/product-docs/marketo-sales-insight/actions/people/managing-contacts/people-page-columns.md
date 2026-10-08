@@ -4,16 +4,18 @@ title: Colonne della pagina delle persone
 hide: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/M4kKw2eXz1UPzAxyjJH-qWvsj5MRvumXAmDU6BM1qhs
+TQID: 'https://experienceleague.adobe.com/M4kKw2eXz1UPzAxyjJH-qWvsj5MRvumXAmDU6BM1qhs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 249
+source-wordcount: '249'
 ht-degree: 8%
-
 ---
-
 # Colonne della pagina delle persone {#people-page-columns}
 
 È possibile personalizzare le informazioni di contatto visualizzate scegliendo le colonne da visualizzare.
@@ -58,11 +60,11 @@ ht-degree: 8%
   </tr>
   <tr>
    <td colspan="1">[!UICONTROL Title (default)]</td>
-   <td colspan="1">Titolo del processo</td>
+   <td colspan="1">Posizione lavorativa</td>
   </tr>
   <tr>
    <td>[!UICONTROL Company (default)]</td>
-   <td>Nome dell’azienda</td>
+   <td>Nome società</td>
   </tr>
   <tr>
    <td>[!UICONTROL Campaign (default)]</td>

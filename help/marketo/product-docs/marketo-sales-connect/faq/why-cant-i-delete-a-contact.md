@@ -4,16 +4,18 @@ description: Quando non è possibile eliminare un contatto in Sales Connect, è 
 title: Perché non è possibile eliminare un contatto?
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/w-bJqpBIahBP-zYPLeiMt22LBtbxSvnKk83jrlpSQn4
+TQID: 'https://experienceleague.adobe.com/w-bJqpBIahBP-zYPLeiMt22LBtbxSvnKk83jrlpSQn4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '100'
 ht-degree: 12%
-
 ---
-
 # Perché non è possibile eliminare un contatto? {#why-cant-i-delete-a-contact}
 
 Se un contatto si trova in una campagna o se è di proprietà di un altro utente del team, non potrai eliminarlo. Se si trovano in una campagna, rimuovile dalla campagna ed elimina il contatto. Se appartengono a un membro del team, dovrà annullare la condivisione del gruppo in cui si trova il contatto o eliminare il contatto dal proprio account.

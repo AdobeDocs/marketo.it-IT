@@ -3,16 +3,18 @@ description: Scopri come bloccare i domini nelle azioni di Sales Insight per evi
 title: Domini bloccati
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo
+TQID: 'https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: '98'
 ht-degree: 7%
-
 ---
-
 # Domini bloccati {#blocked-domains}
 
 Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare accidentalmente e-mail a concorrenti, trappole spam note o a qualsiasi altro dominio che non desideri contattare.

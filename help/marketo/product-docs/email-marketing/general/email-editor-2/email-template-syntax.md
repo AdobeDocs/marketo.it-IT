@@ -4,18 +4,23 @@ description: Scopri la sintassi del modello e-mail in Email Editor 2.0. Utilizza
 title: Sintassi del modello e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # Sintassi del modello e-mail {#email-template-syntax}
 
 Nella nuova esperienza E-mail 2.0 di Marketo, i modelli e-mail sono composti da qualsiasi combinazione di elementi, variabili, moduli o contenitori. Ciascuno viene definito aggiungendo all’HTML la sintassi specifica di Marketo. I precedenti modelli di e-mail (v1.0) sono supportati nell’editor e-mail 2.0; tuttavia, non includeranno tutte le funzioni del nuovo editor.
@@ -91,7 +96,7 @@ Sono disponibili due opzioni per definire gli elementi immagine modificabili. È
 Attributi richiesti
 
 * **class:** &quot;mktoImg&quot;.
-* **id:** stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
+* **id:** ID stringa. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 * **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
@@ -122,7 +127,7 @@ Esempio:
 Attributi richiesti
 
 * **class:** &quot;mktoImg&quot;.
-* **id:** stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
+* **id:** ID stringa. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 * **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.  Valore predefinito (facoltativo)
 * **src:** da utilizzare come valore predefinito per l’immagine. Se viene omesso, viene utilizzato un segnaposto.
 * **mktoLockImgSize:** utilizzato per sbloccare le proprietà height e width dell’elemento `<img>` in modo che l’utente finale possa modificarle (se omesso, il valore predefinito è vero).

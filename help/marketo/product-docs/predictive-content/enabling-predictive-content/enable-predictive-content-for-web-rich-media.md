@@ -4,18 +4,21 @@ description: Scopri come abilitare Predictive Content per i modelli di contenuti
 title: Abilitare i contenuti predittivi per i rich media per il web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE
+TQID: 'https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
-ht-degree: 6%
-
+source-wordcount: '327'
+ht-degree: 8%
 ---
-
 # Abilitare i contenuti predittivi per i rich media per il web {#enable-predictive-content-for-web-rich-media}
 
 I contenuti predittivi coinvolgono i visitatori web con i contenuti più rilevanti, grazie all’apprendimento automatico e alle analisi predittive. Con Web Rich Media, puoi migliorare i contenuti con descrizioni di testo e immagini e incorporare più consigli sui contenuti predittivi nel sito web.

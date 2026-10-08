@@ -7,23 +7,31 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
-TQID: https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc
+TQID: 'https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 263
+source-wordcount: '263'
 ht-degree: 1%
-
 ---
-
 # Personalizzazione dei token {#personalization-tokens}
 
 E-mail designer ha un formato diverso rispetto all’editor e-mail classico quando si tratta di token di personalizzazione e-mail. La modifica è stata implementata per migliorare la compatibilità con gli script Handlebar e semplificare il processo di creazione delle e-mail.
@@ -56,7 +64,7 @@ Nella finestra di progettazione e-mail è necessario utilizzare [notazione camel
 
 * L’editor di personalizzazione offre anche le seguenti funzioni per semplificare l’authoring:
 
-   * Annulla/Ripristina
-   * Trova/Trova e sostituisci
+  * Annulla/Ripristina
+  * Trova/Trova e sostituisci
 
 * **Tutti** i token precedentemente supportati in Marketo Engage sono supportati nel nuovo editor di personalizzazione.

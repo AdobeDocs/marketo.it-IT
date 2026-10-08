@@ -4,16 +4,21 @@ description: Scopri come aggiungere un vincolo a un filtro di elenco avanzato. A
 title: Aggiungere un vincolo a un filtro dell’elenco avanzato
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/UqkPxJFs-78VaVMNgOa1p2sTuDo-FM74HXp3CAbruhA
+TQID: 'https://experienceleague.adobe.com/UqkPxJFs-78VaVMNgOa1p2sTuDo-FM74HXp3CAbruhA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: '167'
 ht-degree: 10%
-
 ---
-
 # Aggiungere un vincolo a un filtro dell’elenco avanzato {#add-a-constraint-to-a-smart-list-filter}
 
 Durante la creazione di un elenco avanzato, alcuni filtri dispongono di opzioni avanzate denominate &quot;vincoli&quot;. Si tratta di condizioni aggiuntive che puoi aggiungere ai filtri e ai trigger per restringere ulteriormente la ricerca.

@@ -4,20 +4,23 @@ description: Scopri le funzioni di Marketo Sales Insight in Salesforce. Visualiz
 title: Panoramica delle funzioni MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 2%
-
 ---
-
 # Panoramica delle funzioni MSI {#msi-feature-overview}
 
 In [!DNL Salesforce] Lightning e Classic sono disponibili le seguenti funzionalità di MSI.
@@ -32,17 +35,17 @@ Il pannello MSI Visualforce include le seguenti funzionalità:
 
 * Schede
 
-   * [Dashboard approfondimenti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Momenti di interesse
-   * Attività web
-   * E-mail
-   * Punteggio
+  * [Dashboard approfondimenti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * Momenti di interesse
+  * Attività web
+  * E-mail
+  * Punteggio
 
 * Azioni
 
-   * Aggiungi a Marketo Campaign
-   * Invia e-mail Marketo
-   * Aggiungi/Rimuovi da elenco di controllo
+  * Aggiungi a Marketo Campaign
+  * Invia e-mail Marketo
+  * Aggiungi/Rimuovi da elenco di controllo
 
 * Stelle e fiamme
 
@@ -151,37 +154,37 @@ Le seguenti funzionalità sono **non disponibili** nella pagina Layout opportuni
 
 * [!DNL Best Bets]
 
-   * Include la possibilità di creare e modificare le viste. Possibilità di nascondere gli elementi di maggiore rilevanza a seconda della configurazione dell’opzione &quot;Nascondi predefinito&quot; nella pagina Configurazione di Marketo
-   * Colonne - Nome, Account, Ultimo momento di interesse, Intestazione di stato, Coinvolgimento (stelle e fiamme), Nascondi
+  * Include la possibilità di creare e modificare le viste. Possibilità di nascondere gli elementi di maggiore rilevanza a seconda della configurazione dell’opzione &quot;Nascondi predefinito&quot; nella pagina Configurazione di Marketo
+  * Colonne - Nome, Account, Ultimo momento di interesse, Intestazione di stato, Coinvolgimento (stelle e fiamme), Nascondi
 
 * Il mio elenco di controllo
 
-   * Include la possibilità di creare e modificare le viste
-   * Colonne - Nome, Account, Ultimo momento di interesse, Intestazione di stato, Coinvolgimento (stelle e fiamme), Rimuovi
+  * Include la possibilità di creare e modificare le viste
+  * Colonne - Nome, Account, Ultimo momento di interesse, Intestazione di stato, Coinvolgimento (stelle e fiamme), Rimuovi
 
 * Attività web
 
-   * Include la possibilità di creare e modificare le viste, la funzionalità filtro per intervalli di tempo
-   * Colonna: visualizzazione pagina, nome, account, ultima visita
+  * Include la possibilità di creare e modificare le viste, la funzionalità filtro per intervalli di tempo
+  * Colonna: visualizzazione pagina, nome, account, ultima visita
 
 * Attività Web anonima
 
-   * Include la possibilità di creare e modificare le viste, la funzionalità filtro per intervalli di tempo
-   * Colonne - Visualizzazione pagina, Società, Ultima visita, Ricerca (apre la pagina LinkedIn dell’azienda)
+  * Include la possibilità di creare e modificare le viste, la funzionalità filtro per intervalli di tempo
+  * Colonne - Visualizzazione pagina, Società, Ultima visita, Ricerca (apre la pagina LinkedIn dell’azienda)
 
 * E-mail
 
-   * Include la possibilità di creare e modificare le viste
-   * Colonne: Nome, Account, Oggetto, Data, Apri, Fai clic su
+  * Include la possibilità di creare e modificare le viste
+  * Colonne: Nome, Account, Oggetto, Data, Apri, Fai clic su
 
 * Feed lead: include la possibilità di iscriversi a momenti interessanti, il feed RSS nella pagina Configurazione deve essere abilitato per utilizzare questa funzione
 
-   * Lead/Contatto che ha avuto questo momento interessante
-   * Tipo di momento di interesse (web, e-mail o milestone) e descrizione
-   * Nome account
-   * Ora in cui si è verificato questo momento interessante
-   * Opzione di abbonamento per ricevere notifiche e-mail per questo tipo di evento
-   * Icona ad alta priorità per mostrare che questa persona è l&#39;elemento di maggiore rilevanza
+  * Lead/Contatto che ha avuto questo momento interessante
+  * Tipo di momento di interesse (web, e-mail o milestone) e descrizione
+  * Nome account
+  * Ora in cui si è verificato questo momento interessante
+  * Opzione di abbonamento per ricevere notifiche e-mail per questo tipo di evento
+  * Icona ad alta priorità per mostrare che questa persona è l&#39;elemento di maggiore rilevanza
 
 ## Scheda Configurazione [!DNL Marketo Sales Insight] {#marketo-sales-insight-configuration-tab}
 

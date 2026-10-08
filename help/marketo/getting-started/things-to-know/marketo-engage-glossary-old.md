@@ -4,13 +4,17 @@ short-description: Scopri i termini di Marketo Engage e le relative definizioni 
 title: Glossario di Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '4132'
 ht-degree: 91%
-
 ---
-
 # Glossario di Marketo Engage {#marketo-engage-glossary}
 
 Di seguito sono riportate le definizioni di molti dei termini che è possibile incontrare quando si utilizza Marketo Engage. Per richiedere l&#39;aggiunta di un termine, [inviare un&#39;email](mailto:GRP-Marketo-articlefeedback@adobe.com).
@@ -508,7 +512,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr>
   <tr>
    <td colspan="1"><strong>Marketing Qualified Lead (MQL)</strong></td>
-   <td colspan="1">Dopo aver nutrito un segmento del pubblico, alcuni utenti potrebbero diventare lead qualificati per il marketing, il che significa che hanno mostrato il comportamento e le caratteristiche necessarie per soddisfare i criteri di successo, in modo da poter essere indirizzati alla tua organizzazione di vendita per il follow-up.</td>
+   <td colspan="1">Dopo aver seguito un segmento del pubblico, alcuni utenti potrebbero diventare lead qualificati per il marketing, avendo mostrato il comportamento e le caratteristiche necessarie per soddisfare i criteri di successo, e possono quindi essere indirizzati alla tua organizzazione di vendita per il follow-up.</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing sospeso</strong></a></td>
@@ -536,7 +540,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr>
   <tr>
    <td><strong><a href="https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
-   <td>Codice di tracciamento JavaScript personalizzato di Marketo. Tiene traccia di tutti gli utenti che visitano il tuo sito Web. Questo include i visitatori anonimi (insieme ai loro indirizzi IP e altre informazioni). </td>
+   <td>Codice di tracciamento JavaScript personalizzato di Marketo. Tiene traccia dei singoli utenti che visitano il tuo sito web. Questo include i visitatori anonimi (insieme ai loro indirizzi IP e altre informazioni). </td>
   </tr>
   <tr>
    <td colspan="1"><strong>Il mio Marketo</strong></td>

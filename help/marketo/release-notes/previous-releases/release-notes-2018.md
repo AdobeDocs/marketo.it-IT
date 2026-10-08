@@ -1,40 +1,68 @@
 ---
-title: "2018"
+title: '2018'
 description: 2018 - Documentazione di Marketo - Documentazione del prodotto
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1860
+source-wordcount: '1860'
 ht-degree: 0%
-
 ---
-
 # 2018
 
 ## Inverno 2018 {#winter}
@@ -231,12 +259,12 @@ La personalizzazione web ora supporta più aree di lavoro.
 
 * **Supporto esteso:[!DNL Microsoft Office]**
 
-   * [!DNL Outlook] come canale di consegna: gli addetti al marketing possono ora sfruttare [!DNL Outlook] per gli impegni e-mail, migliorando i tassi di recapito messaggi e il tracciamento delle risposte.
-   * Miglioramenti al supporto di e-mail per [!DNL Office] 365: Marketo [!DNL Sales Engage] è disponibile direttamente in [!DNL Outlook] per Mac, [!DNL Outlook] per [!DNL Windows] e l&#39;applicazione Web [!DNL Outlook] per i client e-mail per [!DNL Office] 365, rendendo Marketo [!DNL Sales Engage] più facilmente disponibile per tutti gli utenti [!DNL Office].
+  * [!DNL Outlook] come canale di consegna: gli addetti al marketing possono ora sfruttare [!DNL Outlook] per gli impegni e-mail, migliorando i tassi di recapito messaggi e il tracciamento delle risposte.
+  * Miglioramenti al supporto di e-mail per [!DNL Office] 365: Marketo [!DNL Sales Engage] è disponibile direttamente in [!DNL Outlook] per Mac, [!DNL Outlook] per [!DNL Windows] e l&#39;applicazione Web [!DNL Outlook] per i client e-mail per [!DNL Office] 365, rendendo Marketo [!DNL Sales Engage] più facilmente disponibile per tutti gli utenti [!DNL Office].
 
 * **Migliore esperienza di amministrazione e accesso utente**
 
-   * Flussi di lavoro di amministrazione migliorati: gli amministratori troveranno un flusso di lavoro più efficiente quando abiliteranno le funzioni del team tramite Impostazioni generali di amministrazione.
+  * Flussi di lavoro di amministrazione migliorati: gli amministratori troveranno un flusso di lavoro più efficiente quando abiliteranno le funzioni del team tramite Impostazioni generali di amministrazione.
 
 ## Marketo [!DNL Sky] {#marketo-sky}
 
@@ -251,7 +279,7 @@ Per ulteriori dettagli e aggiornamenti, consulta le nostre [[!DNL Sky] note sull
 
 * **Home page attività di marketing**: accedi rapidamente alle funzioni comuni direttamente dalla home page attività di marketing.
 
-   * Esegui azioni specifiche (ad esempio, avvia nuovi programmi e campagne intelligenti) e visualizza informazioni importanti sui programmi correnti, come programmi e campagne pianificate per l’esecuzione odierna, programmi e risorse aggiornati di recente e il numero totale di campagne trigger attive.
+  * Esegui azioni specifiche (ad esempio, avvia nuovi programmi e campagne intelligenti) e visualizza informazioni importanti sui programmi correnti, come programmi e campagne pianificate per l’esecuzione odierna, programmi e risorse aggiornati di recente e il numero totale di campagne trigger attive.
 
 * **Aggiornamenti di Design Studio**: l&#39;esperienza di Design Studio è stata riprogettata per consentirti di spostarti più rapidamente e di essere più produttivo.
 * Home page di Design Studio: crea nuove risorse, trascina immagini e file e gestisci tutte le risorse esistenti.
@@ -266,24 +294,24 @@ Per ulteriori dettagli e aggiornamenti, consulta le nostre [[!DNL Sky] note sull
 
 * **Riduci dipendenza richiesta in CRM**
 
-   * Con la nuova opzione di definizione delle regole di Campaign nelle impostazioni di [!DNL Bizible], i clienti non dovranno più fare i salti mortali per installare un pacchetto o una soluzione all&#39;interno del CRM per iniziare a utilizzare [!DNL Bizible]. Ora è facile come impostare un account, impostare le connessioni ad e CRM, e passare attraverso le impostazioni e le configurazioni standard. Ci aspettiamo un notevole miglioramento dei tempi di onboarding per il nostro team di Sales Engineering.
+  * Con la nuova opzione di definizione delle regole di Campaign nelle impostazioni di [!DNL Bizible], i clienti non dovranno più fare i salti mortali per installare un pacchetto o una soluzione all&#39;interno del CRM per iniziare a utilizzare [!DNL Bizible]. Ora è facile come impostare un account, impostare le connessioni ad e CRM, e passare attraverso le impostazioni e le configurazioni standard. Ci aspettiamo un notevole miglioramento dei tempi di onboarding per il nostro team di Sales Engineering.
 
 * **Individua GA**
 
-   * Discover non è più in versione beta e ha iniziato il rollout per i nuovi clienti. Stiamo inoltre eseguendo la migrazione della base clienti corrente da [!DNL Bizible] Measure a [!DNL Bizible] Discover. Con il passaggio dalla versione beta a GA, sono stati apportati aggiornamenti allo schema del database per consentire query più efficienti e complesse.
+  * Discover non è più in versione beta e ha iniziato il rollout per i nuovi clienti. Stiamo inoltre eseguendo la migrazione della base clienti corrente da [!DNL Bizible] Measure a [!DNL Bizible] Discover. Con il passaggio dalla versione beta a GA, sono stati apportati aggiornamenti allo schema del database per consentire query più efficienti e complesse.
 
 * **Single Sign-On**
 
-   * I clienti possono ora accedere all&#39;applicazione Web [!DNL Bizible] utilizzando il provider di identità e le credenziali della propria società, in conformità con i requisiti di sicurezza aziendali.
+  * I clienti possono ora accedere all&#39;applicazione Web [!DNL Bizible] utilizzando il provider di identità e le credenziali della propria società, in conformità con i requisiti di sicurezza aziendali.
 
 **[Miglioramenti di Marketo [!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Miglioramenti all&#39;usabilità**
 
-   * Avviso per data di acquisizione mancante: per acquisire in modo più accurato le informazioni di attribuzione First- e Multi-Touch, gli addetti al marketing vengono avvisati quando le date di acquisizione non sono presenti nei record dei contatti, in modo da poter individuare e correggere eventuali problemi.
-   * Miglioramenti dell’intervallo di tempo del grafico delle tendenze: gli utenti possono ora tornare indietro di 24 mesi per confrontare le prestazioni del programma.
-   * Adatta alle dimensioni: il grafico a barre del dashboard principale è più facilmente leggibile e consente di confrontare le prestazioni del programma nel tempo.
-   * Icona Avvisi: l’icona Nuovi avvisi visualizza tutti gli avvisi attivi relativi ai problemi di qualità dei dati e alle notifiche di configurazione.
+  * Avviso per data di acquisizione mancante: per acquisire in modo più accurato le informazioni di attribuzione First- e Multi-Touch, gli addetti al marketing vengono avvisati quando le date di acquisizione non sono presenti nei record dei contatti, in modo da poter individuare e correggere eventuali problemi.
+  * Miglioramenti dell’intervallo di tempo del grafico delle tendenze: gli utenti possono ora tornare indietro di 24 mesi per confrontare le prestazioni del programma.
+  * Adatta alle dimensioni: il grafico a barre del dashboard principale è più facilmente leggibile e consente di confrontare le prestazioni del programma nel tempo.
+  * Icona Avvisi: l’icona Nuovi avvisi visualizza tutti gli avvisi attivi relativi ai problemi di qualità dei dati e alle notifiche di configurazione.
 
 * **Coinvolgimento per data attività**: gli utenti possono scegliere di visualizzare le metriche di coinvolgimento per data attività o periodo costo.
 * **Filtri account denominati ABM**: filtra le dashboard pipeline e ricavi per account denominati specifici.

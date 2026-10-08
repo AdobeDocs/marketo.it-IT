@@ -4,16 +4,18 @@ description: Scopri come impostare il pulsante del messaggio in-app. Configura l
 title: Configurare il pulsante Messaggio in-app
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/IWEak1rsLUCoSnX6pwQfknDeUN6stmdsrHAloqwtTXs
+TQID: 'https://experienceleague.adobe.com/IWEak1rsLUCoSnX6pwQfknDeUN6stmdsrHAloqwtTXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 0%
-
 ---
-
 # Configurare il pulsante Messaggio in-app {#set-up-the-in-app-message-button}
 
 Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricare un’immagine personalizzata del pulsante.
