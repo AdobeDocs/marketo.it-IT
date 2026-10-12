@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96c214e74bfb7920e9a62204e8451bbc22e1e1b0
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 95%
+source-wordcount: '583'
+ht-degree: 90%
 ---
 # Importare un elenco di persone {#import-a-list-of-people}
 
@@ -138,9 +138,9 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
    >
    >Se sono presenti campi che non desideri importare, seleziona **Ignora** nel menu a discesa Campo Marketo.
 
-1. Seleziona **Il mio programma fiera** per **[!UICONTROL Acquisition Program]**, quindi fai clic su **[!UICONTROL Import]**.
+1. _Se_ hai configurato [Partizioni persona](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}, selezionalo qui. Seleziona **Il mio programma fiera** per **[!UICONTROL Acquisition Program]**, quindi fai clic su **[!UICONTROL Import]**.
 
-   ![](assets/import-a-list-of-people-13.png)
+   ![](assets/import-a-list-of-people-13-new.png)
 
 1. Attendi l&#39;importazione delle persone, quindi chiudi la finestra a comparsa di avanzamento dell&#39;importazione.
 
