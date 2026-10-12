@@ -138,7 +138,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
    >
    >Se sono presenti campi che non desideri importare, seleziona **Ignora** nel menu a discesa Campo Marketo.
 
-1. _Se_ hai configurato [Partizioni persona](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}, selezionalo qui. Seleziona **Il mio programma fiera** per **[!UICONTROL Acquisition Program]**, quindi fai clic su **[!UICONTROL Import]**.
+1. _Se_ hai configurato [Partizioni persona](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}, selezionalo qui. Seleziona **Il mio programma fiera** per **[!UICONTROL Acquisition Program]**, quindi fai clic su **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13-new.png)
 
