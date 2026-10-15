@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f071b487e66c7257b30eb7b598a487b0f088b103
 workflow-type: tm+mt
-source-wordcount: '1227'
+source-wordcount: '1222'
 ht-degree: 4%
 ---
 # Migrazione AWS {#aws-migration}
@@ -273,14 +273,8 @@ Se per qualche motivo una migrazione non ha esito positivo, riceverai una notifi
    AB22</td>
    <td>16:00 PDT<br>
    17:00 PDT</td>
-   <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
-  </tr>
-  <tr>
-   <td>14 ottobre 2026</td>
-   <td>AB25</td>
-   <td>17:00 PDT</td>
-   <td>Secondo pianificazione</td>
+   <td>Completato<br>
+   Completato</td>
   </tr>
   <tr>
    <td>16 ottobre 2026</td>
@@ -311,9 +305,12 @@ Se per qualche motivo una migrazione non ha esito positivo, riceverai una notifi
   </tr>
   <tr>
    <td>28 ottobre 2026</td>
-   <td>AB15</td>
-   <td>17:00 PDT</td>
-   <td>Secondo pianificazione</td>
+   <td>AB15<br>
+   AB25</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
   </tr>
   </body>
 </table>
