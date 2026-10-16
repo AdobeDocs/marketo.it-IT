@@ -4,9 +4,9 @@ user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 6df3337e516a4d8345ee7d1362ab36e9724cc771
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '8940'
+source-wordcount: '8944'
 ht-degree: 96%
 ---
 
@@ -489,7 +489,7 @@ ht-degree: 96%
     + [Impostazioni e configurazione](product-docs/coworker-for-marketo/settings-setup.md)
     + [Regole organizzative](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Data Information sheet di CX Enterprise Coworker per Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
-    + Competenza {#skills}
+    + Competenze {#skills}
       + [Conoscenza del prodotto](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[Informazioni superficie](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Creare programmi](product-docs/coworker-for-marketo/skills/build-programs.md)
@@ -1930,6 +1930,7 @@ ht-degree: 96%
       + [Note sulla versione: maggio 2026](release-notes/previous-releases/2026/release-notes-may-26.md)
       + [Note sulla versione: luglio 2026](release-notes/previous-releases/2026/release-notes-july-26.md)
       + [Note sulla versione: agosto 2026](release-notes/previous-releases/2026/release-notes-aug-26.md)
+      + [Note sulla versione: settembre 2026](release-notes/previous-releases/2026/release-notes-sep-26.md)
     + 2025 {#2025}
       + [Note sulla versione - Gennaio 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [Note sulla versione - Marzo 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
