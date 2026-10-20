@@ -31,7 +31,7 @@ Inserisci e organizza manualmente i dettagli del brand o carica i documenti di b
 
 >[!AVAILABILITY]
 >
->Prima di poter utilizzare l&#39;Assistente di intelligenza artificiale in Adobe Marketo Engage, devi accettare il [contratto utente](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}. Per ulteriori informazioni, contatta il tuo Adobe Account Manager.
+>Prima di poter utilizzare l&#39;Assistente di intelligenza artificiale in Adobe Marketo Engage, devi accettare il [contratto utente](https://www.adobe.com/it/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}. Per ulteriori informazioni, contatta il tuo Adobe Account Manager.
 
 ## Accedere ai brand {#access}
 

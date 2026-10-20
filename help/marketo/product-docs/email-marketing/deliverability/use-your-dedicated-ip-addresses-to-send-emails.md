@@ -51,7 +51,7 @@ Per massimizzare il recapito messaggi a lungo termine, i consulenti di recapito 
 
 >[!TIP]
 >
->Mantenere pulito il database per mantenere elevata la consegna dei messaggi. [Adobe richiede](https://www.adobe.com/legal/terms/aup.html) che i clienti inviino comunicazioni di marketing solo a persone che hanno acconsentito/richiesto di ricevere e-mail. Non inviare e-mail non richieste.
+>Mantenere pulito il database per mantenere elevata la consegna dei messaggi. [Adobe richiede](https://www.adobe.com/it/legal/terms/aup.html) che i clienti inviino comunicazioni di marketing solo a persone che hanno acconsentito/richiesto di ricevere e-mail. Non inviare e-mail non richieste.
 
 >[!CAUTION]
 >
