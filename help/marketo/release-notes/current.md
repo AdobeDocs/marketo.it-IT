@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # Note sulla versione: ottobre 2026 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:65%">Funzione</th>
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
+  </tr>
+  <tr>
+   <td><strong>Pianifica abilità campagne</strong>: CX Enterprise Coworker per Marketo Engage ora può trasformare una descrizione della campagna in un documento completo di configurazione del programma Marketo Engage. Il documento include una struttura di cartelle, campagne avanzate, configurazioni e-mail, token e un elenco di controllo del controllo qualità. In questo modo i team possono lanciare campagne più rapidamente e standardizzare la configurazione del programma. L’abilità è configurabile tramite markdown.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Agenti chiamabili</strong>: crea agenti di intelligenza artificiale che vengono eseguiti come un passaggio di flusso nelle campagne intelligenti e che agiscono su un record di lead in base alle istruzioni scritte in linguaggio semplice. Ad esempio, un agente può normalizzare i dati di un lead o contrassegnare i probabili bot, quindi riscrivere il risultato nei campi del lead. In questo modo l’elaborazione dei lead basata sul giudizio viene inserita nelle campagne senza codice personalizzato.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>Clona in questo programma/cartella</strong>: le operazioni di clonazione in Marketo Engage offrono ora in modo coerente l'opzione "Questa cartella" o "Questo programma" come prima scelta quando si sceglie la destinazione della risorsa clonata. Scegliendo questa opzione, la risorsa viene clonata nel programma o nella cartella principale della risorsa corrente.</td>
