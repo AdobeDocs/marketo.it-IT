@@ -85,7 +85,7 @@ Gli argomenti discussi sono disponibili come vincolo nei trigger e filtri di ele
 
 >[!IMPORTANT]
 >
->Quando utilizzi l’intelligenza artificiale generativa, devi attenerti alle [Linee guida per l’utente di intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) per garantire che le funzioni di Adobe Experience Cloud che incorporano l’intelligenza artificiale generativa siano utilizzate in modo sicuro e responsabile.
+>Quando utilizzi l’intelligenza artificiale generativa, devi attenerti alle [Linee guida per l’utente di intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/it/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) per garantire che le funzioni di Adobe Experience Cloud che incorporano l’intelligenza artificiale generativa siano utilizzate in modo sicuro e responsabile.
 
 ## Domande frequenti {#faq}
 

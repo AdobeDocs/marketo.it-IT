@@ -35,7 +35,7 @@ La revisione del punteggio del tuo marchio garantisce coerenza in termini di ton
 
 >[!AVAILABILITY]
 >
->Prima di poter utilizzare l&#39;Assistente di intelligenza artificiale in Adobe Marketo Engage, devi accettare il [contratto utente](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"}. Per ulteriori informazioni, contatta il tuo rappresentante Adobe.
+>Prima di poter utilizzare l&#39;Assistente di intelligenza artificiale in Adobe Marketo Engage, devi accettare il [contratto utente](https://www.adobe.com/it/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"}. Per ulteriori informazioni, contatta il tuo rappresentante Adobe.
 
 ## Convalidare i contenuti con l’allineamento del brand {#validate-content}
 

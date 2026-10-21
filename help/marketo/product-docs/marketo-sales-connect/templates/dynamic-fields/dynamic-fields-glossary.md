@@ -35,7 +35,7 @@ Questo strumento viene utilizzato per `auto-personalize your email` e consente d
 | `{{my_signature}}` | Keith Flynn, Senior Technical Writer di Adobe |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Scrittore tecnico senior |
-| `{{work_website}}` | <https://www.adobe.com> |
+| `{{work_website}}` | <https://www.adobe.com/it> |
 
 **Aspetti da considerare**:
 
