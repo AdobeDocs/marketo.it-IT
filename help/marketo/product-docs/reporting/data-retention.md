@@ -8,14 +8,14 @@ product_v2:
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96caeb4343efdbe747a93c2424c50840d6917798
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1078'
 ht-degree: 5%
 ---
 # Criteri di conservazione dei dati sulle attività di Marketo - Impatto sul reporting
 
-Marketo conserva i dati dell’attività di marketing su base continua. I dati relativi all’attività e all’iscrizione alla campagna vengono memorizzati per un periodo continuo di 25 mesi oltre la data dell’attività e i dati relativi all’attività per un volume elevato vengono conservati per un periodo continuo di 90 giorni oltre la data dell’attività per impostazione predefinita, che può essere regolato per utente. Oltre questi periodi di conservazione, i dati non sono più disponibili tramite l’interfaccia utente di Marketo.
+Marketo conserva i dati dell’attività di marketing su base continua. I dati relativi all’attività e all’iscrizione alla campagna vengono memorizzati per un periodo continuo di 25 mesi oltre la data di attività e i dati relativi all’attività per un volume elevato vengono conservati per impostazione predefinita per un periodo continuo di 90 giorni oltre la data di attività. Oltre questi periodi di conservazione, i dati non sono più disponibili tramite l’interfaccia utente di Marketo.
 
 ## Rapporti di Marketo Analytics
 
@@ -97,7 +97,7 @@ I dati relativi alle attività precedenti alla finestra di conservazione possono
 
 ## Esportare i dati
 
-Marketo offre l&#39;[API REST Bulk Extract](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), che consente di esportare le attività delle persone e ospitarle localmente. Una volta estratti i dati tramite l’API, puoi memorizzarli e ordinarli in base alle esigenze del caso d’uso.
+Marketo offre l&#39;[API REST Bulk Extract](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), che consente di esportare le attività delle persone e ospitarle localmente. Una volta estratti i dati tramite l’API, puoi memorizzarli e ordinarli in base alle esigenze del caso d’uso.
 
 >[!TIP]
 >
