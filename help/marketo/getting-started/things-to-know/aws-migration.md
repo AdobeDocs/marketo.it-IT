@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
+source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
 workflow-type: tm+mt
-source-wordcount: '1282'
+source-wordcount: '1278'
 ht-degree: 4%
 ---
 # Migrazione AWS {#aws-migration}
@@ -294,8 +294,8 @@ Se per qualche motivo una migrazione non ha esito positivo, riceverai una notifi
    AB52</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
+   <td>Completato<br>
+   Completato</td>
   </tr>
   <tr>
    <td>28 ottobre 2026</td>
@@ -303,8 +303,8 @@ Se per qualche motivo una migrazione non ha esito positivo, riceverai una notifi
    AB25</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
+   <td>Completato<br>
+   Completato</td>
   </tr>
   <tr>
    <td>6 novembre 2026</td>
