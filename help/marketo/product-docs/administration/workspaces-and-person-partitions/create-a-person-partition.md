@@ -55,4 +55,4 @@ Dopo aver creato la partizione, dovrebbe essere visualizzato l’aggiornamento.
 
 >[!TIP]
 >
->È possibile selezionare una partizione di persona specifica in cui filtrare le persone durante il processo di [importazione elenco](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}.
+>È possibile selezionare una partizione di persona specifica in cui filtrare le persone durante il processo di [importazione elenco](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}.
