@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 19%
+source-wordcount: '698'
+ht-degree: 18%
 ---
 # Aggiungere un ulteriore dominio di branding {#add-an-additional-branding-domain}
 
@@ -32,7 +32,7 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più brand da una singo
 >
 >È necessario [sostituire il collegamento di tracciamento generico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} con un dominio con marchio prima di aggiungere altri domini con marchio.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
@@ -60,7 +60,7 @@ Per abilitare SSL per i domini esistenti, segui la procedura riportata di seguit
 
 1. Dall&#39;area _[!UICONTROL Admin]_, selezionare **[!UICONTROL Email]**.
 
-1. Nella scheda _[!UICONTROL Domain]_&#x200B;selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
+1. Nella scheda _[!UICONTROL Domain]_selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
 
    ![Amministratore - E-mail - Dominio - Aggiungi SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -104,7 +104,7 @@ Per abilitare SSL per i domini esistenti, segui la procedura riportata di seguit
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizzati**: se hai bisogno di un SSL personalizzato, invia un [ticket di supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Non utilizzare la casella di controllo self-service per la creazione SSL.
 

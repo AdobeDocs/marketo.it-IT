@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6095008
-description: Collegamento [!DNL Google AdWords] a Marketo tramite LaunchPoint per caricare dati di conversione offline da utilizzare nei report in AdWords.
-title: Aggiungi [!DNL Google AdWords] as a [!DNL LaunchPoint] Service
+description: Collega [!DNL Google AdWords] a Marketo tramite LaunchPoint per caricare i dati di conversione offline da includere nei rapporti in AdWords.
+title: Aggiungi [!DNL Google AdWords] come servizio [!DNL LaunchPoint]
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/gpw57sy3WitNAh6g4mkajXuuFlRFzunZmfedM4aCrCk
@@ -20,13 +20,11 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 259
-ht-degree: 5%
-
+source-wordcount: '263'
+ht-degree: 3%
 ---
-
 # Aggiungi [!DNL Google AdWords] come servizio [!DNL LaunchPoint] {#add-google-adwords-as-a-launchpoint-service}
 
 Collega l&#39;account [!DNL Google AdWords] a Marketo per caricare automaticamente i dati di conversione offline da Marketo a [!DNL Google AdWords]. Dall&#39;interfaccia utente di [!DNL AdWords], puoi vedere quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase dei ricavi desideri monitorare) dopo [aver aggiunto colonne personalizzate](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Queste informazioni non vengono visualizzate nell’interfaccia utente di Marketo.
@@ -45,7 +43,7 @@ Ulteriori informazioni sulla [funzionalità di importazione di conversione offli
 >
 >È inoltre possibile integrare un servizio [[!DNL Google AdWords] as a [!DNL Launchpoint]  con un account manager](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 

@@ -20,10 +20,10 @@ subfeature_v2:
     internal-label: Smart lists
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
     internal-label: Salesforce integration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 9%
+source-wordcount: '213'
+ht-degree: 7%
 ---
 # Abilitare/disabilitare la sincronizzazione oggetti personalizzati {#enable-disable-custom-object-sync}
 
@@ -35,7 +35,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 

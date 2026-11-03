@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512270
 description: Aggiungi Adobe Connect as a LaunchPoint Service in modo che Marketo gestisca la registrazione e la partecipazione ai webinar.
-title: Aggiungi Adobe Connect as a [!DNL LaunchPoint] Service
+title: Aggiungi [!DNL Adobe Connect] come servizio [!DNL LaunchPoint]
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/5FY-AYMAy60RGDnuFas2QP1PexqhIMohWh8egyllFNY
@@ -16,52 +16,41 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 183
-ht-degree: 7%
-
+source-wordcount: '157'
+ht-degree: 1%
 ---
+# Aggiungi [!DNL Adobe Connect] come servizio [!DNL LaunchPoint] {#add-adobe-connect-as-a-launchpoint-service}
 
-# Aggiungi Adobe Connect as a [!DNL LaunchPoint] Service {#add-adobe-connect-as-a-launchpoint-service}
+Marketo gestisce la registrazione e la partecipazione al webinar [!DNL Adobe Connect].
 
-Marketo gestisce la registrazione e la partecipazione ai webinar su Adobe Connect.
+>[!PREREQUISITES]
+>
+>* Sono necessari una sottoscrizione esistente a [!DNL Adobe Connect] e diritti di amministrazione. Sono disponibili i seguenti dettagli: nome utente, password, password partecipante e URL della cartella della riunione.
 
 >[!NOTE]
 >
->**Autorizzazioni amministratore richieste**
+>* **Autorizzazioni amministratore richieste**
+>* [!DNL Adobe Connect On Site] non è attualmente supportato.
 
->[!NOTE]
->
->Per questo passaggio sono necessari un abbonamento esistente ad Adobe Connect e i diritti di amministrazione. Sono disponibili le seguenti impostazioni: nome utente, password, password partecipante e URL della cartella della riunione.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
->[!NOTE]
->
->Adobe Connect On Site non è attualmente supportato.
-
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. In **[!UICONTROL Integration]**, selezionare **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. Fai clic su **[!UICONTROL LaunchPoint]**.
+1. Fare clic su **[!UICONTROL New]** e selezionare **[!UICONTROL New Service]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL New Service]**.
+1. Immetti **[!UICONTROL Display Name]**. Nel menu a discesa **[!UICONTROL Service]**, selezionare **[!UICONTROL Adobe Connect]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. Immetti **[!UICONTROL Display Name]**. In **[!UICONTROL Service]**, selezionare Adobe Connect.
+1. Immetti **[!UICONTROL Username]**, **[!UICONTROL Access Code]**, **[!UICONTROL Meeting Folder URL]** e **[!UICONTROL Participant Password]**, quindi fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
-
-1. Immettere **[!UICONTROL Username]** e **[!UICONTROL Access Code]**.
-
-   ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
-
-1. Completa il processo immettendo **[!UICONTROL Meeting Folder URL]** e **[!UICONTROL Participant Password]**, quindi fai clic su **[!UICONTROL Create]**.
-
-   ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
    >[!TIP]
    >
@@ -69,12 +58,10 @@ Marketo gestisce la registrazione e la partecipazione ai webinar su Adobe Connec
 
    >[!NOTE]
    >
-   >Dopo aver effettuato l&#39;accesso all&#39;account Adobe Connect, selezionare la scheda **[!UICONTROL Seminars]**. Senza approfondire in alcun seminario specifico, copia l&#39;URL dalla barra del browser nell&#39;impostazione **[!UICONTROL Meeting Folder URL]**.
+   >Dopo aver effettuato l&#39;accesso all&#39;account [!DNL Adobe Connect], selezionare la scheda **[!UICONTROL Seminars]**. Senza approfondire in alcun seminario specifico, copia l&#39;URL dalla barra del browser nell&#39;impostazione **[!UICONTROL Meeting Folder URL]**.
 
-Il servizio Adobe Connect è ora sincronizzato con Marketo.
-
-![](assets/add-adobe-connect-as-a-launchpoint-service-7.png)
+Il servizio [!DNL Adobe Connect] è ora sincronizzato con Marketo Engage.
 
 >[!MORELIKETHIS]
 >
->Scopri come [creare un evento con Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.
+>Scopri come [creare un evento con [!DNL Adobe Connect]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.

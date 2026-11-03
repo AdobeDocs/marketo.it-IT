@@ -14,9 +14,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 9%
 ---
 # Aggiungere Vibes come servizio LaunchPoint {#add-vibes-as-a-launchpoint-service}
@@ -31,7 +31,7 @@ Puoi inviare messaggi SMS alle persone che hanno acconsentito alle campagne Vibe
 >
 >Devi disporre di un account Vibes attivo e di una licenza Adobe per Vibes SMS. L’integrazione nativa di Marketo Vibes SMS è disponibile negli Stati Uniti e in Canada. Per altri paesi, è possibile utilizzare una connessione tramite i webhook di Marketo contattando [direttamente Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
-1. In Il mio Marketo, vai all&#39;area **[!UICONTROL Admin]**.
+1. In Il mio Marketo, nel tuo My Marketo, fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

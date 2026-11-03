@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 233
-ht-degree: 10%
-
+source-wordcount: '234'
+ht-degree: 8%
 ---
-
 # Limitare gli accessi a Marketo in base all’IP {#restrict-marketo-logins-based-on-ip}
 
 Puoi limitare o consentire agli utenti di accedere a Marketo in base ai loro indirizzi IP. Segui i passaggi seguenti.
@@ -31,14 +29,14 @@ Puoi limitare o consentire agli utenti di accedere a Marketo in base ai loro ind
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) supporta [il controllo degli accessi basato su IP](https://helpx.adobe.com/it/enterprise/using/ip-based-access.html){target="_blank"}. Per garantire una transizione senza problemi, le restrizioni IP di Marketo Engage esistenti saranno attive, tra cui gli utenti di Adobe ID fino al primo trimestre del 2027 negli abbonamenti in cui questa funzione è abilitata.
+>Adobe Admin Console (AAC) supporta [il controllo degli accessi basato su IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Per garantire una transizione senza problemi, le restrizioni IP di Marketo Engage esistenti saranno attive, tra cui gli utenti di Adobe ID fino al primo trimestre del 2027 negli abbonamenti in cui questa funzione è abilitata.
 >
 >* È possibile configurare l&#39;accesso basato su IP AAC in qualsiasi momento.
 >* Le restrizioni AAC e Marketo Engage possono essere eseguite contemporaneamente. Utilizza lo stesso elenco consentiti IP per la compatibilità.
 >
 >Dopo il primo trimestre del 2027, le restrizioni IP di Marketo Engage verranno ritirate. L’accesso basato su IP verrà gestito esclusivamente tramite AAC e deve essere configurato in modo da applicare le restrizioni di accesso. La data finale della transizione verrà annunciata in seguito.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 

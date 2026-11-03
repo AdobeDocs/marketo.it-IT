@@ -18,22 +18,20 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 113
-ht-degree: 11%
-
+source-wordcount: '115'
+ht-degree: 7%
 ---
-
 # Informazioni API dell’esportazione in blocco {#bulk-export-api-information}
 
-Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
+Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
 
 >[!NOTE]
 >
 >Se hai bisogno di ulteriore capacità, contatta il rappresentante del tuo account.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -49,4 +47,4 @@ Scopri come controllare la capacità di [estrazione in blocco delle API](https:/
 
 >[!NOTE]
 >
->L&#39;allocazione per l&#39;istanza di Marketo Engage viene ripristinata ogni giorno alle 12:00 CST.
+>L’allocazione per l’istanza Marketo Engage viene ripristinata ogni giorno alle 00:00 CST.

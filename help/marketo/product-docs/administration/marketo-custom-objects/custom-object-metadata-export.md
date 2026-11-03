@@ -20,10 +20,10 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 21%
+source-wordcount: '107'
+ht-degree: 17%
 ---
 # Esportare metadati degli oggetti personalizzati {#custom-object-metadata-export}
 
@@ -33,7 +33,7 @@ Se si utilizza l&#39;API SOAP o l&#39;API [!DNL Munchkin], è possibile esportar
 >
 >Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/custom-object-metadata-export-1.png)
 

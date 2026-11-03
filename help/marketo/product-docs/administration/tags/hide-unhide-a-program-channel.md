@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 13%
 ---
 # Nascondere/mostrare un canale del programma {#hide-unhide-a-program-channel}
 
@@ -34,7 +34,7 @@ ht-degree: 17%
 
 ## Nascondere un canale programma {#hide-a-program-channel}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

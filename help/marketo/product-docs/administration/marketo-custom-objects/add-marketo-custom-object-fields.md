@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 5%
+source-wordcount: '290'
+ht-degree: 3%
 ---
 # Aggiungere campi oggetto personalizzato di Marketo {#add-marketo-custom-object-fields}
 
@@ -30,7 +30,7 @@ Dopo aver creato un oggetto personalizzato, devi aggiungervi dei campi per soddi
 
 I campi definiscono le informazioni specifiche utilizzate da un oggetto personalizzato. I campi di collegamento hanno uno scopo specifico (connessione di oggetti personalizzati) e sono trattati in un [articolo separato](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

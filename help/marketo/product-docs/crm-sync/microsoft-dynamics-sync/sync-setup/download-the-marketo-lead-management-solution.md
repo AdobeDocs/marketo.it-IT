@@ -14,10 +14,10 @@ feature_v2:
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 21%
+source-wordcount: '101'
+ht-degree: 16%
 ---
 # Scaricare la soluzione di gestione dei lead Marketo {#download-the-marketo-lead-management-solution}
 
@@ -35,7 +35,7 @@ Per avviare la sincronizzazione, è necessario scaricare e installare una soluzi
 >
 >Al momento, Marketo supporta solo i certificati SSL compatibili con Java 7.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 

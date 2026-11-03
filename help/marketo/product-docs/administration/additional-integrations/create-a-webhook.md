@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360360
 description: Crea un webhook in Admin per chiamare servizi web di terze parti per SMS, dati personali e altro ancora.
-title: Crea un  [!DNL Webhook]
+title: Crea un [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 TQID: https://experienceleague.adobe.com/O4xw1wSvFeTJ2xqZn4Eo7JbrUBQQmKcl7mvLkduFXGc
@@ -21,18 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 3%
-
+source-wordcount: '203'
+ht-degree: 1%
 ---
-
 # Crea un [!DNL Webhook] {#create-a-webhook}
 
 Utilizza [!DNL Webhooks] per sfruttare i servizi Web di terze parti per inviare messaggi di testo, espandere i dati personali e altro ancora.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/create-a-webhook-1.png)
 
@@ -68,4 +66,4 @@ Utilizza [!DNL Webhooks] per sfruttare i servizi Web di terze parti per inviare 
 
 >[!NOTE]
 >
->Ulteriori informazioni sono disponibili nella sessione di approfondimento [[!DNL Webhooks]](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Ulteriori informazioni sono disponibili nella sessione di approfondimento [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

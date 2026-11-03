@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 16%
+source-wordcount: '163'
+ht-degree: 11%
 ---
 # Nascondere e mostrare un campo {#hide-and-unhide-a-field}
 
@@ -36,7 +36,7 @@ Se non hai più bisogno di un campo in Marketo Engage, puoi nasconderlo dall’i
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -64,7 +64,7 @@ Se non hai più bisogno di un campo in Marketo Engage, puoi nasconderlo dall’i
 
 ## Scoprire un campo {#unhide-a-field}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

@@ -21,10 +21,10 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 16%
+source-wordcount: '124'
+ht-degree: 12%
 ---
 # Modificare alias campo per importazione elenco {#edit-field-aliases-for-list-import}
 
@@ -34,7 +34,7 @@ Quando importi un elenco con intestazioni sconosciute, puoi creare alias di camp
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 

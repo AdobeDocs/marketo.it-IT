@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 150
-ht-degree: 24%
-
+source-wordcount: '152'
+ht-degree: 19%
 ---
-
 # Creare un servizio personalizzato da utilizzare con API ReST {#create-a-custom-service-for-use-with-rest-api}
 
 Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, crea un servizio personalizzato.
@@ -43,7 +41,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, crea u
 
 ## Crea servizio personalizzato {#create-custom-service}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -67,7 +65,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, crea u
 
 ## Credenziali per l’accesso API {#credentials-for-api-access}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

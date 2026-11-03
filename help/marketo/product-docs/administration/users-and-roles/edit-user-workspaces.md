@@ -13,14 +13,14 @@ feature_v2:
 subfeature_v2:
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
     internal-label: Users and roles
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 14%
+source-wordcount: '36'
+ht-degree: 2%
 ---
 # Modifica aree di lavoro utente {#edit-user-workspaces}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/edit-user-workspaces-1.png)
 
