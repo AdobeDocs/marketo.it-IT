@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 36%
+source-wordcount: '166'
+ht-degree: 33%
 ---
 # Modificare il messaggio “Visualizza come pagina web” {#edit-the-view-as-web-page-message}
 
@@ -34,7 +34,7 @@ Scopri come modificare il testo &quot;[Visualizza come pagina Web](/help/marketo
 
 ## Modificare il messaggio “Visualizza come pagina web” {#edit-the-view-as-web-page-message-1}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 

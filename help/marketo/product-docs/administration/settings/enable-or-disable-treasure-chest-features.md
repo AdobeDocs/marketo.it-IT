@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 25%
-
+source-wordcount: '80'
+ht-degree: 20%
 ---
-
 # Abilitare o disabilitare le funzioni Treasure Chest {#enable-or-disable-treasure-chest-features}
 
 Il Treasure Chest contiene caratteristiche sperimentali che non sono completamente supportate.
@@ -29,7 +27,7 @@ Il Treasure Chest contiene caratteristiche sperimentali che non sono completamen
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

@@ -16,18 +16,16 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 131
-ht-degree: 19%
-
+source-wordcount: '132'
+ht-degree: 16%
 ---
-
 # Creare una scheda personalizzata per la pagina Dettagli persona {#creating-a-custom-tab-for-the-person-detail-page}
 
 Se devi accedere spesso a un set specifico di campi nella pagina dei dettagli della persona, puoi creare un layout personalizzato.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

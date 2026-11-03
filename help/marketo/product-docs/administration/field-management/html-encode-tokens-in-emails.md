@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 19%
+source-wordcount: '92'
+ht-degree: 15%
 ---
 # Codificare token HTML nelle e-mail {#html-encode-tokens-in-emails}
 
@@ -36,7 +36,7 @@ Abilita o disabilita i token persona e azienda utilizzati nelle e-mail.
 >
 >La codifica converte i caratteri nelle rispettive versioni del codice HTML per evitare confusione durante la trasmissione (ad esempio, &quot;&amp;&quot; viene modificato in `&amp;`). Per ulteriori dettagli, consulta uno sviluppatore web.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 

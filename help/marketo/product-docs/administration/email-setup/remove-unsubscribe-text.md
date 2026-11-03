@@ -13,16 +13,16 @@ feature_v2:
 subfeature_v2:
   - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
     internal-label: Email setup
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 8%
+source-wordcount: '151'
+ht-degree: 5%
 ---
 # Rimuovere il testo per l’annullamento iscrizione {#remove-unsubscribe-text}
 
 L&#39;unico motivo per cui dovresti rimuovere completamente il contenuto per l&#39;annullamento dell&#39;iscrizione dall&#39;area **[!UICONTROL Admin]** > **[!UICONTROL Email]** è che stai scegliendo di creare il collegamento per l&#39;annullamento dell&#39;iscrizione nei modelli di e-mail stessi. La convalida della casella di testo non consente il salvataggio senza contenuto. Per ovviare a questo inconveniente, aggiungi un piccolo commento su HTML. Il commento HTML non verrà visualizzato nel client e-mail, perché esegue il rendering dell’e-mail in HTML e i commenti vengono omessi.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 

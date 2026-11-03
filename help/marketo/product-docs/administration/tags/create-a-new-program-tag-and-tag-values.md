@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 16%
+source-wordcount: '161'
+ht-degree: 14%
 ---
 # Creare un nuovo tag programma e valori di tag {#create-a-new-program-tag-and-tag-values}
 
@@ -40,7 +40,7 @@ Puoi creare [tag](/help/marketo/product-docs/core-marketo-concepts/programs/work
 >
 >Valore del tag del programma: PMI, azienda, mercato intermedio
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 

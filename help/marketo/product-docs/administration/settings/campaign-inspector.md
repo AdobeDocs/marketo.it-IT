@@ -18,20 +18,18 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 126
-ht-degree: 7%
-
+source-wordcount: '127'
+ht-degree: 3%
 ---
-
 # Ispezionare campagna {#campaign-inspector}
 
 Utilizza Campaign Inspector per visualizzare ed eseguire ricerche in tutte le campagne avanzate in un’unica posizione.
 
 ## Abilita Ispettore campagna {#enable-campaign-inspector}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/campaign-inspector-1.png)
 

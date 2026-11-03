@@ -20,10 +20,10 @@ feature_v2:
 subfeature_v2:
   - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
     internal-label: Social
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 4%
+source-wordcount: '495'
+ht-degree: 3%
 ---
 # Configurare moduli di generazione di lead LinkedIn {#set-up-linkedin-lead-gen-forms}
 
@@ -37,7 +37,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 >
 >* Un lead LinkedIn non entra in Marketo Engage se corrisponde a un record persona esistente in Marketo associato a un record società creato utilizzando le API società e la sottoscrizione Marketo non è connessa a un CRM.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

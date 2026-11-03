@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 10%
+source-wordcount: '145'
+ht-degree: 7%
 ---
 # Modificare un’area di lavoro {#edit-a-workspace}
 
@@ -33,7 +33,7 @@ A volte è necessario apportare modifiche in un Workspace.
 >
 >Per ulteriori informazioni sulle aree di lavoro, vedere [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-workspace-1.png)
 

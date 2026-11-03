@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 249
-ht-degree: 8%
-
+source-wordcount: '250'
+ht-degree: 6%
 ---
-
 # Limitare l’accesso utente solo al SSO {#restrict-user-login-to-sso-only}
 
 Se [utilizzi SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) e vuoi essere certo che gli utenti non possano ignorare la sicurezza SSO, segui queste istruzioni.
@@ -37,7 +35,7 @@ Se [utilizzi SSO](/help/marketo/product-docs/administration/additional-integrati
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 

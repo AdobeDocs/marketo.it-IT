@@ -21,16 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 12%
 ---
 # Creare un campo personalizzato in Marketo {#create-a-custom-field-in-marketo}
 
 Scopri come creare un campo personalizzato in Marketo Engage per archiviare e acquisire dati.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Nel Marketo personale, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
