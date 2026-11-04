@@ -4,9 +4,9 @@ user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
 workflow-type: tm+mt
-source-wordcount: '8944'
+source-wordcount: '8948'
 ht-degree: 96%
 ---
 
@@ -491,13 +491,15 @@ ht-degree: 96%
     + [Data Information sheet di CX Enterprise Coworker per Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Competenze {#skills}
       + [Conoscenza del prodotto](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[Agenti chiamabili](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[Informazioni superficie](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Creare programmi](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[Pianificare le campagne](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
       + {hide-from-toc}[Clona programma](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Indagare sui lead](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importa lead](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Convalida programmi](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP MARKETO](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mcp-server)
+    + [MCP MARKETO](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronizzazione CRM {#crm-sync}
     + Sincronizzazione con Microsoft Dynamics {#microsoft-dynamics}
       + [Informazioni sulla sincronizzazione con Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
