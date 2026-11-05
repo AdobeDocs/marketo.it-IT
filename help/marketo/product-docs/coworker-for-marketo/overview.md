@@ -4,9 +4,9 @@ title: Panoramica di CX Enterprise Coworker per Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # Panoramica di CX Enterprise Coworker per Marketo Engage {#overview}
@@ -33,9 +33,13 @@ Digita la richiesta nel campo prompt, seleziona una delle abilità dell’agente
 
 ![](assets/cx-overview-2.png)
 
-## Competenza {#skills}
+## Competenze {#skills}
 
 La console centrale dispone di un set crescente di competenze degli agenti disponibili per aiutarti con varie attività. Ogni abilità è un assistente IA appositamente creato con cui si interagisce attraverso il linguaggio naturale per completare un’attività specifica.
+
+### Pianificare le campagne {#plan-campaigns}
+
+Trasforma il resoconto di una campagna in un piano di implementazione strutturato per Marketo Engage. L’abilità Pianifica campagne definisce la struttura del programma, la logica del pubblico, le e-mail, le campagne intelligenti, i token, il reporting e i controlli di preattivazione. Ulteriori informazioni sull&#39;abilità [Pianifica campagne](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
 
 ### Creare programmi {#build-programs}
 
@@ -59,12 +63,8 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
 ## Disponibile a breve {#coming-soon}
 
-Agenti aggiuntivi progettati per gestire il lavoro più ripetitivo e dispendioso in termini di tempo saranno presto disponibili, ad esempio:
-
-* Diagnosticare il motivo per cui un lead non ha ottenuto MQL o l&#39;avanzamento nel ciclo di vita.
-* Genera programmi Marketo Engage completi direttamente da una descrizione della campagna.
-* E altro ancora.
+Ulteriori competenze progettate per gestire il lavoro più ripetitivo e dispendioso in termini di tempo saranno presto disponibili.
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
