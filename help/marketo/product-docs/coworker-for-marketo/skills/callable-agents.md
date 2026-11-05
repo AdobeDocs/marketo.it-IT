@@ -36,7 +36,7 @@ Gli agenti richiamabili consentono di utilizzare un agente di intelligenza artif
 
 1. Selezionare **[!UICONTROL Save]** per salvare una bozza oppure **[!UICONTROL Save and publish]** per rendere l&#39;agente disponibile in Marketo Engage.
 
-1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**. Nella sezione Marketing dell&#39;elenco dei passaggi del flusso, individua **Agente di chiamata: _[Nome agente]_**e trascinalo nel flusso.
+1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**. Nella sezione Marketing dell&#39;elenco dei passaggi del flusso, individua **Agente di chiamata: _[Nome agente]_**&#x200B;e trascinalo nel flusso.
 
 1. Prova la campagna con un piccolo set di lead. Rivedi il registro attività e verifica che i campi di output si aggiornino come previsto prima di attivare la campagna per tutti i lead.
 
