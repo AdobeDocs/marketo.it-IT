@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: dc6ced4679de39db058fb0125ce7cc5586c77560
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 64%
+source-wordcount: '202'
+ht-degree: 62%
 ---
 # Pianificazione delle versioni {#release-schedule}
 
@@ -83,6 +83,11 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Novembre '26</a></td>
    <td>6 novembre 2026</td>
+   <td>Secondo pianificazione</td>
+  </tr>
+  <tr>
+  <td>Gennaio '27</td>
+   <td>15 gennaio 2027</td>
    <td>Secondo pianificazione</td>
   </tr>
  </tbody>
