@@ -4,9 +4,9 @@ title: Agenti chiamabili
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
+source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
 workflow-type: tm+mt
-source-wordcount: '1959'
+source-wordcount: '1957'
 ht-degree: 1%
 ---
 # Agenti chiamabili {#callable-agents}
@@ -36,7 +36,7 @@ Gli agenti richiamabili consentono di utilizzare un agente di intelligenza artif
 
 1. Selezionare **[!UICONTROL Save]** per salvare una bozza oppure **[!UICONTROL Save and publish]** per rendere l&#39;agente disponibile in Marketo Engage.
 
-1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**. Nella sezione Marketing dell&#39;elenco dei passaggi del flusso, individua **Agente di chiamata: _[Nome agente]_**&#x200B;e trascinalo nel flusso.
+1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**. Nella sezione Marketing dell&#39;elenco dei passaggi del flusso, individua **Agente di chiamata: _[Nome agente]_**e trascinalo nel flusso.
 
 1. Prova la campagna con un piccolo set di lead. Rivedi il registro attività e verifica che i campi di output si aggiornino come previsto prima di attivare la campagna per tutti i lead.
 
@@ -58,7 +58,7 @@ Scegli un modello per precompilare le istruzioni, i campi di input e i campi di 
 
 | Modello | Finalità | Input | Uscite |
 | --- | --- | --- | --- |
-| Nome società Normalizer | Pulisce i nomi delle aziende rimuovendo i suffissi legali, correggendo errori di battitura comuni e applicando la capitalizzazione del marchio standard. | Azienda | Società normalizzata (testo); affidabilità (numero, 0-1) |
+| Nome società Normalizer | Pulisce i nomi delle aziende rimuovendo i suffissi legali, correggendo errori di battitura comuni e applicando la capitalizzazione del marchio standard. | Azienda | Società normalizzata (testo); affidabilità (numero) |
 | Telefono E.164 Formatter | Formatta i numeri di telefono con lo standard internazionale E.164. | Telefono | Telefono normalizzato (testo); affidabilità (numero) |
 | Standardizzazione posizione lavorativa | Standardizza le qualifiche professionali e deriva l&#39;anzianità. | Titolo | Titolo normalizzato (testo); anzianità (C-Level, VP, Director, Manager, Individual o Unknown); affidabilità |
 | Rilevatore bot e spam | Segnala l’invio di moduli bot o spam. | E-mail, Nome, Cognome, Società, Telefono | È bot (true/false); affidabilità; motivo; flag (separati da virgola) |
