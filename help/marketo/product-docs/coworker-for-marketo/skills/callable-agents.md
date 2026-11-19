@@ -4,18 +4,18 @@ title: Agenti chiamabili
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '1957'
+source-wordcount: '1950'
 ht-degree: 1%
 ---
 # Agenti chiamabili {#callable-agents}
 
 Gli agenti richiamabili consentono di utilizzare un agente di intelligenza artificiale come passaggio in una campagna Marketo Engage Smart. Crea un agente in CX Enterprise Coworker per Marketo Engage, scegli i campi lead che legge e aggiorna e pubblicalo per l’utilizzo nelle campagne. Gli agenti possono aiutare a pulire i dati, classificare i lead, arricchire le informazioni mancanti o inviare gli schermi sotto forma di moduli.
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->Devi disporre dell&#39;autorizzazione **Amministratore degli accessi** in Marketo Engage.
+>**Autorizzazioni amministratore** richieste.
 
 ## Prima di iniziare {#before-you-begin}
 
@@ -36,7 +36,7 @@ Gli agenti richiamabili consentono di utilizzare un agente di intelligenza artif
 
 1. Selezionare **[!UICONTROL Save]** per salvare una bozza oppure **[!UICONTROL Save and publish]** per rendere l&#39;agente disponibile in Marketo Engage.
 
-1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**. Nella sezione Marketing dell&#39;elenco dei passaggi del flusso, individua **Agente di chiamata: _[Nome agente]_**&#x200B;e trascinalo nel flusso.
+1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**. Nella sezione Marketing dell&#39;elenco dei passaggi del flusso, individua **Agente di chiamata: _[Nome agente]_**e trascinalo nel flusso.
 
 1. Prova la campagna con un piccolo set di lead. Rivedi il registro attività e verifica che i campi di output si aggiornino come previsto prima di attivare la campagna per tutti i lead.
 
