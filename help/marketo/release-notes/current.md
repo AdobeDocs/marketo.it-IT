@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # Note sulla versione: novembre 2026 {#release-notes-nov-26}
 
@@ -70,8 +70,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Clona in questo programma/cartella</strong>: le operazioni di clonazione in Marketo Engage offrono ora in modo coerente l'opzione "Questa cartella" o "Questo programma" come prima scelta quando si sceglie la destinazione della risorsa clonata. Scegliendo questa opzione, la risorsa viene clonata nel programma o nella cartella principale della risorsa corrente.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Rilasciato</td>
+   <td>n/d</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <tr>
    <td><strong>Avviso immediato sulla sincronizzazione CRM</strong>: l'attivazione o la disattivazione della sincronizzazione CRM nativa per un ambiente attiva ora una notifica agli utenti abbonati al canale di notifica CRM.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Rilasciato</td>
+   <td>n/d</td>
   </tr>
   </tr>
   </tbody>
@@ -93,8 +93,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Interfaccia classica obsoleta**: l&#39;interfaccia di Marketo Engage è ora aggiornata e include menu, icone e layout aggiornati per un&#39;esperienza più pulita e moderna. Si tratta solo di un aggiornamento visivo; nessuna funzionalità o flusso di lavoro esistente viene modificato. Al momento è possibile passare dall’interfaccia classica a quella aggiornata utilizzando un menu a discesa, ma l’interfaccia classica verrà ritirata entro la fine della versione di gennaio 2027 (data esatta da determinare a breve).
 
-* **Deprecazione delle immagini di acquisizione dal Web**: per conformarsi alle moderne best practice per la protezione e la privacy, la funzionalità [Immagini di acquisizione dal Web](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} diventerà obsoleta a partire dalla versione di novembre.
+* **Deprecazione delle immagini di acquisizione dal Web**: per conformarsi alle moderne best practice per la protezione e la privacy, la funzionalità [Immagini di acquisizione dal Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} diventerà obsoleta a partire dalla versione di novembre.
 
 * **Restrizioni nome API per attributi attività personalizzati**: i nomi API per attributi attività personalizzati creati tramite API o interfaccia utente possono ora contenere solo caratteri alfanumerici e trattini bassi e devono iniziare con un carattere alfanumerico.
 
-* **Limiti di dimensione elenco statico per attività Get Lead e modifiche Get Lead**: a partire dal 30 settembre 2026, le chiamate agli endpoint Get Lead Activities o Get Lead Changes che includono il parametro `listId` hanno avuto esito negativo con un codice di errore 1003 (che indica che l&#39;elenco statico di destinazione contiene troppi record) se gli elenchi di destinazione contengono 10.000 o più lead. Per ulteriori informazioni, consultare la [Guida alla migrazione](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}.
+* **Limiti di dimensione elenco statico per attività Get Lead e modifiche Get Lead**: a partire dal 30 settembre 2026, le chiamate agli endpoint Get Lead Activities o Get Lead Changes che includono il parametro `listId` hanno avuto esito negativo con un codice di errore 1003 (che indica che l&#39;elenco statico di destinazione contiene troppi record) se gli elenchi di destinazione contengono 10.000 o più lead. Per ulteriori informazioni, consultare la [Guida alla migrazione](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}.
