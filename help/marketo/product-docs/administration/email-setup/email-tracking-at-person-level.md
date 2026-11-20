@@ -91,7 +91,7 @@ I campi di sostituzione sono campi persona booleani. Impostale utilizzando il me
 
 | Metodo | Note |
 |---|---|
-| [Passaggio del flusso del valore dei dati di modifica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Utilizza una campagna intelligente per impostare un campo quando una persona soddisfa i tuoi criteri, ad esempio l’invio di una casella di controllo di consenso in un modulo. |
+| [Passaggio del flusso del valore dei dati di modifica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Utilizza una campagna intelligente per impostare un campo quando una persona soddisfa i tuoi criteri, ad esempio l’invio di una casella di controllo di consenso in un modulo. |
 | Moduli | Mappare una casella di controllo o un campo nascosto in un modulo di Marketo Engage al campo persona. |
 | Importazione elenco | Includi il campo come colonna nel file di importazione. |
 | REST API | Utilizzare i nomi dei campi API `overrideOpenTrackingDefault` e `overrideClickTrackingDefault`. |
@@ -115,7 +115,7 @@ Quando Marketo Engage non tiene traccia di una persona, modifica il contenuto de
 | Attivare le e-mail, ad esempio quelle inviate da una Smart Campaign con trigger | Sì |
 | E-mail con test A/B o varianti di campioni/sfidanti | Sì. Il tracciamento viene deciso separatamente per ogni persona, indipendentemente dalla variante che riceve. |
 | Visualizza come pagina Web | Sì. La versione web segue le impostazioni correnti dell’utente. La visualizzazione di una modifica può richiedere fino a un&#39;ora. |
-| [E-mail operative](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | No. Seguono il normale comportamento di tracciamento. |
+| [E-mail operative](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | No. Seguono il normale comportamento di tracciamento. |
 | E-mail di esempio (di prova) | No. Seguono il normale comportamento di tracciamento. |
 | Anteprime e-mail | Nessun cambiamento. Le anteprime non vengono tracciate. |
 | E-mail di avviso | Nessun cambiamento. Gli avvisi non vengono tracciati. |
@@ -125,7 +125,7 @@ Quando Marketo Engage non tiene traccia di una persona, modifica il contenuto de
 
 Marketo Engage legge i valori di sostituzione di una persona durante la preparazione dell’e-mail per l’invio.
 
-- **Consegna pianificata o ritardata:** Se un&#39;e-mail viene preparata ora e consegnata in un secondo momento (ad esempio, con [Inizio intestazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} o [Fuso orario destinatario](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), vengono applicati i valori al momento della preparazione. Una modifica apportata dopo la preparazione non modifica tale e-mail.
+- **Consegna pianificata o ritardata:** Se un&#39;e-mail viene preparata ora e consegnata in un secondo momento (ad esempio, con [Inizio intestazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} o [Fuso orario destinatario](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), vengono applicati i valori al momento della preparazione. Una modifica apportata dopo la preparazione non modifica tale e-mail.
 - **E-mail già consegnate:** la modifica della sostituzione di una persona non comporta la modifica delle e-mail già ricevute. I clic sui collegamenti nelle e-mail inviate in precedenza possono ancora essere tracciati se tali collegamenti sono stati preparati con il tracciamento abilitato.
 - **E-mail future:** Una modifica si applica alle e-mail che Marketo Engage si prepara dopo la modifica.
 
