@@ -4,9 +4,9 @@ title: Agenti chiamabili
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1918'
+source-wordcount: '1930'
 ht-degree: 1%
 ---
 # Agenti chiamabili {#callable-agents}
@@ -37,6 +37,10 @@ Gli agenti richiamabili consentono di utilizzare un agente di intelligenza artif
    ![](assets/callable-agents-3.png)
 
 1. Per utilizzare un modello, fare clic su **Inizia da un modello** e selezionarne uno.
+
+   >[!NOTE]
+   >
+   >Per ulteriori dettagli sui modelli di agenti chiamabili, vedere [Inizia da un modello](#start-from-a-template).
 
 1. Per creare il proprio lead, immettere un **[!UICONTROL Agent name]** e scrivere **[!UICONTROL Agent instructions]** descrivendo la modalità di elaborazione di ogni lead.
 
