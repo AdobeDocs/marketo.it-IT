@@ -4,9 +4,9 @@ title: Agenti chiamabili
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1950'
+source-wordcount: '1930'
 ht-degree: 1%
 ---
 # Agenti chiamabili {#callable-agents}
@@ -26,17 +26,35 @@ Gli agenti richiamabili consentono di utilizzare un agente di intelligenza artif
 
 1. Nel Marketo personale, fare clic sul riquadro **[!UICONTROL CX Enterprise Coworker for Marketo Engage]**.
 
-1. Selezionare **[!UICONTROL Callable agents]** nel menu di navigazione a sinistra. L’elenco mostra il nome, la data di creazione, l’autore e lo stato di ciascun agente. Cerca per nome o ordina per nome o data di creazione.
+   ![](assets/callable-agents-1.png)
 
-1. Seleziona **[!UICONTROL Create callable agent]**. Scegli un modello o lascia vuoto il selettore modelli per iniziare da zero.
+1. In alto a destra, selezionare **[!UICONTROL Agents]**.
 
-1. Immettere un **[!UICONTROL Agent name]** e scrivere **[!UICONTROL Agent instructions]** descrivendo la modalità di elaborazione di ogni lead.
+   ![](assets/callable-agents-2.png)
 
-1. In **[!UICONTROL Lead fields to send]**, aggiungi i campi lead necessari all&#39;agente come input. In **[!UICONTROL Lead fields to update]**, aggiungi ogni valore che l&#39;agente deve restituire e mappalo su un campo lead aggiornabile.
+1. Seleziona **[!UICONTROL Create callable agent]**.
 
-1. Selezionare **[!UICONTROL Save]** per salvare una bozza oppure **[!UICONTROL Save and publish]** per rendere l&#39;agente disponibile in Marketo Engage.
+   ![](assets/callable-agents-3.png)
 
-1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**. Nella sezione Marketing dell&#39;elenco dei passaggi del flusso, individua **Agente di chiamata: _[Nome agente]_**&#x200B;e trascinalo nel flusso.
+1. Per utilizzare un modello, fare clic su **Inizia da un modello** e selezionarne uno.
+
+   >[!NOTE]
+   >
+   >Per ulteriori dettagli sui modelli di agenti chiamabili, vedere [Inizia da un modello](#start-from-a-template).
+
+1. Per creare il proprio lead, immettere un **[!UICONTROL Agent name]** e scrivere **[!UICONTROL Agent instructions]** descrivendo la modalità di elaborazione di ogni lead.
+
+1. In **[!UICONTROL Lead fields to send]**, aggiungi i campi lead necessari all&#39;agente come input. In **[!UICONTROL Lead fields to update]**, aggiungi ogni valore che l&#39;agente deve restituire e mappalo su un campo lead aggiornabile. Al termine, fai clic su **[!UICONTROL Create]**.
+
+   ![](assets/callable-agents-4.png)
+
+1. Aprire una campagna avanzata e selezionare la scheda **[!UICONTROL Flow]**.
+
+   ![](assets/callable-agents-5.png)
+
+1. Immetti &quot;chiamabile&quot; nella ricerca delle azioni di flusso. Individua l’agente desiderato e trascinalo sull’area di lavoro.
+
+   ![](assets/callable-agents-6.png)
 
 1. Prova la campagna con un piccolo set di lead. Rivedi il registro attività e verifica che i campi di output si aggiornino come previsto prima di attivare la campagna per tutti i lead.
 
