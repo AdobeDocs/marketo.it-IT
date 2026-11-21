@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # Note sulla versione: novembre 2026 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Agenti chiamabili</strong>: crea agenti di intelligenza artificiale che vengono eseguiti come un passaggio di flusso nelle campagne intelligenti e che agiscono su un record di lead in base alle istruzioni scritte in linguaggio semplice. Ad esempio, un agente può normalizzare i dati di un lead o contrassegnare i probabili bot, quindi riscrivere il risultato nei campi del lead. In questo modo l’elaborazione dei lead basata sul giudizio viene inserita nelle campagne senza codice personalizzato.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">Agenti chiamabili</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -93,8 +93,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Interfaccia classica obsoleta**: l&#39;interfaccia di Marketo Engage è ora aggiornata e include menu, icone e layout aggiornati per un&#39;esperienza più pulita e moderna. Si tratta solo di un aggiornamento visivo; nessuna funzionalità o flusso di lavoro esistente viene modificato. Al momento è possibile passare dall’interfaccia classica a quella aggiornata utilizzando un menu a discesa, ma l’interfaccia classica verrà ritirata entro la fine della versione di gennaio 2027 (data esatta da determinare a breve).
 
-* **Deprecazione delle immagini di acquisizione dal Web**: per conformarsi alle moderne best practice per la protezione e la privacy, la funzionalità [Immagini di acquisizione dal Web](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} diventerà obsoleta a partire dalla versione di novembre.
+* **Deprecazione delle immagini di acquisizione dal Web**: per conformarsi alle moderne best practice per la protezione e la privacy, la funzionalità [Immagini di acquisizione dal Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} diventerà obsoleta a partire dalla versione di novembre.
 
 * **Restrizioni nome API per attributi attività personalizzati**: i nomi API per attributi attività personalizzati creati tramite API o interfaccia utente possono ora contenere solo caratteri alfanumerici e trattini bassi e devono iniziare con un carattere alfanumerico.
 
-* **Limiti di dimensione elenco statico per attività Get Lead e modifiche Get Lead**: a partire dal 30 settembre 2026, le chiamate agli endpoint Get Lead Activities o Get Lead Changes che includono il parametro `listId` hanno avuto esito negativo con un codice di errore 1003 (che indica che l&#39;elenco statico di destinazione contiene troppi record) se gli elenchi di destinazione contengono 10.000 o più lead. Per ulteriori informazioni, consultare la [Guida alla migrazione](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}.
+* **Limiti di dimensione elenco statico per attività Get Lead e modifiche Get Lead**: a partire dal 30 settembre 2026, le chiamate agli endpoint Get Lead Activities o Get Lead Changes che includono il parametro `listId` hanno avuto esito negativo con un codice di errore 1003 (che indica che l&#39;elenco statico di destinazione contiene troppi record) se gli elenchi di destinazione contengono 10.000 o più lead. Per ulteriori informazioni, consultare la [Guida alla migrazione](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}.
