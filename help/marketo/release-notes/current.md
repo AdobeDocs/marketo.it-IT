@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # Note sulla versione: novembre 2026 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:65%">Funzione</th>
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
+  </tr>
+  <tr>
+   <td><strong>Tracciamento e-mail a livello di persona</strong>: le sostituzioni del tracciamento e-mail a livello di persona ti consentono di controllare il tracciamento di messaggi e-mail aperti e clic per una singola persona; supporta i requisiti di consenso e privacy.</td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">Tracciamento e-mail a livello di persona</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>Pianifica abilità campagne</strong>: CX Enterprise Coworker per Marketo Engage ora può trasformare una descrizione della campagna in un documento completo di configurazione del programma Marketo Engage. Il documento include una struttura di cartelle, campagne avanzate, configurazioni e-mail, token e un elenco di controllo del controllo qualità. In questo modo i team possono lanciare campagne più rapidamente e standardizzare la configurazione del programma. L’abilità è configurabile tramite markdown.</td>
