@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # Note sulla versione: novembre 2026 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:65%">Funzione</th>
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
+  </tr>
+  <tr>
+   <td><strong>Tracciamento e-mail a livello di persona</strong>: le sostituzioni del tracciamento e-mail a livello di persona ti consentono di controllare il tracciamento di messaggi e-mail aperti e clic per una singola persona; supporta i requisiti di consenso e privacy.</td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">Tracciamento e-mail a livello di persona</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>Pianifica abilità campagne</strong>: CX Enterprise Coworker per Marketo Engage ora può trasformare una descrizione della campagna in un documento completo di configurazione del programma Marketo Engage. Il documento include una struttura di cartelle, campagne avanzate, configurazioni e-mail, token e un elenco di controllo del controllo qualità. In questo modo i team possono lanciare campagne più rapidamente e standardizzare la configurazione del programma. L’abilità è configurabile tramite markdown.</td>
@@ -93,8 +103,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Interfaccia classica obsoleta**: l&#39;interfaccia di Marketo Engage è ora aggiornata e include menu, icone e layout aggiornati per un&#39;esperienza più pulita e moderna. Si tratta solo di un aggiornamento visivo; nessuna funzionalità o flusso di lavoro esistente viene modificato. Al momento è possibile passare dall’interfaccia classica a quella aggiornata utilizzando un menu a discesa, ma l’interfaccia classica verrà ritirata entro la fine della versione di gennaio 2027 (data esatta da determinare a breve).
 
-* **Deprecazione delle immagini di acquisizione dal Web**: per conformarsi alle moderne best practice per la protezione e la privacy, la funzionalità [Immagini di acquisizione dal Web](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} diventerà obsoleta a partire dalla versione di novembre.
+* **Deprecazione delle immagini di acquisizione dal Web**: per conformarsi alle moderne best practice per la protezione e la privacy, la funzionalità [Immagini di acquisizione dal Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} diventerà obsoleta a partire dalla versione di novembre.
 
 * **Restrizioni nome API per attributi attività personalizzati**: i nomi API per attributi attività personalizzati creati tramite API o interfaccia utente possono ora contenere solo caratteri alfanumerici e trattini bassi e devono iniziare con un carattere alfanumerico.
 
-* **Limiti di dimensione elenco statico per attività Get Lead e modifiche Get Lead**: a partire dal 30 settembre 2026, le chiamate agli endpoint Get Lead Activities o Get Lead Changes che includono il parametro `listId` hanno avuto esito negativo con un codice di errore 1003 (che indica che l&#39;elenco statico di destinazione contiene troppi record) se gli elenchi di destinazione contengono 10.000 o più lead. Per ulteriori informazioni, consultare la [Guida alla migrazione](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}.
+* **Limiti di dimensione elenco statico per attività Get Lead e modifiche Get Lead**: a partire dal 30 settembre 2026, le chiamate agli endpoint Get Lead Activities o Get Lead Changes che includono il parametro `listId` hanno avuto esito negativo con un codice di errore 1003 (che indica che l&#39;elenco statico di destinazione contiene troppi record) se gli elenchi di destinazione contengono 10.000 o più lead. Per ulteriori informazioni, consultare la [Guida alla migrazione](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}.
